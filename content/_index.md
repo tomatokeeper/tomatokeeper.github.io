@@ -5,12 +5,11 @@ BookComments: False
 bookToc: false
 ---
 
-## Placeholder for home page
-tbc
+## **欢迎！**
+等待添加……
 
-## 最近的故事
-archive not working yet
+## **最近的文章**
 {{< archive >}}
 
-## Stats
+## **数据**
 {{< stats >}}
