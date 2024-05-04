@@ -1,6 +1,6 @@
 {
-  "name": "Tomato keeper",
-  "short_name": "Tomato keeper",
+  "name": "tomatokeeper",
+  "short_name": "tomatokeeper",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

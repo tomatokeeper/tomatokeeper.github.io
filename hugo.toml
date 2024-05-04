@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-CN'
-title = 'Tomato keeper'
+title = 'tomatokeeper'
 theme = 'hugo-book'
 hasCJKLanguage = true
 

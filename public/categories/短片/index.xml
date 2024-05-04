@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>短片 on Tomato keeper</title>
+    <link>http://localhost:1313/categories/%E7%9F%AD%E7%89%87/</link>
+    <description>Recent content in 短片 on Tomato keeper</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%9F%AD%E7%89%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【粉蓝】What if…狼与魔女-番外</title>
+      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-side-story/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-side-story/</guid>
+      <description>title: 租房还是买房，公寓还是 house author: 椒盐豆豉 type: post date: 2024-04-02T16:30:00-07:00 url: /rent-or-own-apartment-or-house/ categories: 重启电脑 tags: money patreon bookToc: true bookComment: true image: &amp;ldquo;https://media.douchi.space/douchi/media_attachments/files/112/203/340/124/467/151/original/b3e66f5efd694bf6.png&#34; imageDes: &amp;ldquo;Midjourney Prompt: a single family house nearby highrise apartment building &amp;ndash;ar 16:9&amp;rdquo;</description>
+    </item>
+  </channel>
+</rss>
