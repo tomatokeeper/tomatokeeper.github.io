@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tomatokeeper</title>
+    <title>tomatokeeper on 杂货店老板</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on tomatokeeper</description>
+    <description>Recent content in tomatokeeper on 杂货店老板</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
@@ -55,7 +55,7 @@
       <link>http://localhost:1313/docs/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/about/</guid>
-      <description>About me # 等待添加…… Where to find me # 等待添加……</description>
+      <description>About this site # 停车场 不需要单独存放的短篇和长篇只会发在 Lofter (tomatohotrice) 上</description>
     </item>
     <item>
       <title></title>
@@ -63,13 +63,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/archive/</guid>
       <description>归档 # 理智与情感 - 苹果糖浆 2023-01-01 粉蓝 理智与情感 - 樱桃酸奶 2022-10-02 粉蓝 What if…狼与魔女 - 番外 2022-08-02 粉蓝 番外 理智与情感 - 红豆刨冰 2022-07-31 粉蓝 理智与情感 - 桃子布丁 2022-06-22 粉</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/friends/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/friends/</guid>
-      <description>友人的链接 # 需要添加的——请在下面评论 ヾ(≧∇≦*)ゝ</description>
     </item>
   </channel>
 </rss>

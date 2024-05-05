@@ -1,10 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-CN'
-title = 'tomatokeeper'
+title = '杂货店老板'
 theme = 'hugo-book'
 hasCJKLanguage = true
 
 [params]
     BookTheme = 'auto'
-    BookLogo = 'logo.png'
     BookMenuBundle = '/menu'
+    BookFavicon = 'favicon_v2.png'
+    BookLogo = 'favicon_v2.png'

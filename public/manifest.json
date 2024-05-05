@@ -1,6 +1,6 @@
 {
-  "name": "tomatokeeper",
-  "short_name": "tomatokeeper",
+  "name": "杂货店老板",
+  "short_name": "杂货店老板",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
