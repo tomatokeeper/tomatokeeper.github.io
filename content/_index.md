@@ -9,7 +9,7 @@ bookToc: false
 等待添加……
 
 ## **最近的文章**
-{{< archive >}}
+{{< recent >}}
 
 ## **数据**
 {{< stats >}}
