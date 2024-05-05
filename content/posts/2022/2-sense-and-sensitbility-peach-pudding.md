@@ -8,6 +8,7 @@ categories:
   - 理智与情感
 tags:
   - 粉蓝
+  - ABO
 bookToc: false
 ---
 
