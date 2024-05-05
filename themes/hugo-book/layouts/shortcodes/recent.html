@@ -1,5 +1,5 @@
 <ul>
-  {{ range (first 5 (where .Site.RegularPages "Type" "post")) }}
+  {{ range (first 5 (where .Site.RegularPages "Section" "posts")) }}
     <li>
       <a href="{{ .RelPermalink}}">{{ .Title }}</a> 
       {{range (.Params.tags)}}
