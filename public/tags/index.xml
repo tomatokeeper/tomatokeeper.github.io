@@ -6,13 +6,20 @@
     <description>Recent content in Tags on tomatokeeper</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>番外</title>
-      <link>http://localhost:1313/tags/%E7%95%AA%E5%A4%96/</link>
+      <title>Irendy</title>
+      <link>http://localhost:1313/tags/irendy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%95%AA%E5%A4%96/</guid>
+      <guid>http://localhost:1313/tags/irendy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wenrene</title>
+      <link>http://localhost:1313/tags/wenrene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wenrene/</guid>
       <description></description>
     </item>
     <item>
@@ -20,6 +27,13 @@
       <link>http://localhost:1313/tags/%E7%B2%89%E8%93%9D/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E7%B2%89%E8%93%9D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>番外</title>
+      <link>http://localhost:1313/tags/%E7%95%AA%E5%A4%96/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%95%AA%E5%A4%96/</guid>
       <description></description>
     </item>
   </channel>

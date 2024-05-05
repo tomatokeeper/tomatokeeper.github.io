@@ -1,13 +1,15 @@
 ---
 title: 【粉蓝】理智与情感 - 桃子布丁
 author: 番茄烫饭
-date: 2022-04-26
+date: 2022-06-22
 type: post
 url: /sense-and-sensibility-peach-pudding/
 categories:
   - 理智与情感
 tags:
   - 粉蓝
+  - irendy
+  - wenrene
 # next: /tutorials/github-pages-blog
 # prev: /tutorials/automated-deployments
 bookToc: true

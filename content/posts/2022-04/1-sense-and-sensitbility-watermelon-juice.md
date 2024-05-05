@@ -8,6 +8,8 @@ categories:
   - 理智与情感
 tags:
   - 粉蓝
+  - irendy
+  - wenrene
 # next: /tutorials/github-pages-blog
 # prev: /tutorials/automated-deployments
 bookToc: true

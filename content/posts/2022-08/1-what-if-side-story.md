@@ -8,6 +8,8 @@ categories:
   - What if…狼与魔女
 tags:
   - 粉蓝
+  - irendy
+  - wenrene
   - 番外
 # next: /tutorials/github-pages-blog
 # prev: /tutorials/automated-deployments
