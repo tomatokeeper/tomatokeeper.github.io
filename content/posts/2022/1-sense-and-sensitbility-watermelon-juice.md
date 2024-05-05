@@ -3,7 +3,6 @@ author: 番茄烫饭
 date: 2022-04-26
 linktitle: 理智与情感 - 西瓜汽水
 title: 理智与情感 - 西瓜汽水
-type: post
 url: /sense-and-sensibility-watermelon-juice/
 categories:
   - 理智与情感

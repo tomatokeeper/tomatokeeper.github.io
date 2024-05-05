@@ -3,17 +3,12 @@ author: 番茄烫饭
 date: 2022-06-22
 linktitle: 理智与情感 - 桃子布丁
 title: 理智与情感 - 桃子布丁
-type: post
 url: /sense-and-sensibility-peach-pudding/
 categories:
   - 理智与情感
 tags:
   - 粉蓝
 ---
-
-# **【粉蓝】理智与情感**
-
-**-桃子布丁-**
 
 她是故意的吗？
 

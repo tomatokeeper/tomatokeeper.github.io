@@ -3,17 +3,12 @@ author: 番茄烫饭
 date: 2023-01-01
 linktitle: 理智与情感 - 苹果糖浆
 title: 理智与情感 - 苹果糖浆
-type: post
 url: /sense-and-sensibility-apple-syrup/
 categories:
   - 理智与情感
 tags:
   - 粉蓝
 ---
-
-# **【粉蓝】理智与情感**
-
-**-苹果糖浆-**
 
 “非常感谢您这次的稿件，下次也拜托老师了。”
 

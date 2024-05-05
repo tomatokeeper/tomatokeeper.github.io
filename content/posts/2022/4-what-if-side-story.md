@@ -3,7 +3,6 @@ author: 番茄烫饭
 date: 2022-08-02
 linktitle: What if…狼与魔女 - 番外
 title: What if…狼与魔女 - 番外
-type: post
 url: /what-if-the-wolf-and-the-witch-side-story/
 categories:
   - What if…狼与魔女
@@ -11,10 +10,6 @@ tags:
   - 粉蓝
   - 番外
 ---
-
-# **【粉蓝】What if…狼与魔女 - 番外**
-
-**冷战与魔女（下）**
 
 **5.**
 

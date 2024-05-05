@@ -3,17 +3,12 @@ author: 番茄烫饭
 date: 2022-07-31
 linktitle: 理智与情感 - 红豆刨冰
 title: 理智与情感 - 红豆刨冰
-type: post
 url: /sense-and-sensibility-patbingsu/
 categories:
   - 理智与情感
 tags:
   - 粉蓝
 ---
-
-# **【粉蓝】理智与情感**
-
-**-红豆刨冰-**
 
 作家眨眨眼，意料之内地在自己的怀里发现了少女。
 

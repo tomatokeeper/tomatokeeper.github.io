@@ -3,17 +3,12 @@ author: 番茄烫饭
 date: 2022-10-02
 linktitle: 理智与情感 - 樱桃酸奶
 title: 理智与情感 - 樱桃酸奶
-type: post
 url: /sense-and-sensibility-cherry-yogurt/
 categories:
   - 理智与情感
 tags:
   - 粉蓝
 ---
-
-# **【粉蓝】理智与情感**
-
-**-樱桃酸奶-**
 
 “你是不喜欢吃水果吗？”
 
