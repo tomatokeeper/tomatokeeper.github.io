@@ -8,6 +8,7 @@ categories:
   - 理智与情感
 tags:
   - 粉蓝
+bookToc: false
 ---
 
 作家眨眨眼，意料之内地在自己的怀里发现了少女。

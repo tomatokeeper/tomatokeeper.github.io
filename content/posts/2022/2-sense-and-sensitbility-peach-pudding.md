@@ -8,6 +8,7 @@ categories:
   - 理智与情感
 tags:
   - 粉蓝
+bookToc: false
 ---
 
 她是故意的吗？

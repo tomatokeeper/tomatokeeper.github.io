@@ -8,6 +8,7 @@ categories:
   - 理智与情感
 tags:
   - 粉蓝
+bookToc: false
 ---
 
 孙胜完没有想过家里的西瓜汽水消耗得这么快。

@@ -8,6 +8,7 @@ categories:
   - 理智与情感
 tags:
   - 粉蓝
+bookToc: false
 ---
 
 “你是不喜欢吃水果吗？”
