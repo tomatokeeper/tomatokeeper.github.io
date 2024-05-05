@@ -1,11 +1,11 @@
 <ul>
   {{ range (first 5 (where .Site.RegularPages "Section" "posts")) }}
-    <li>
-      <a href="{{ .RelPermalink}}">{{ .Title }}</a> 
-      {{range (.Params.tags)}}
-        <div class="tag">{{. }}</div>
-      {{end }}
-      <div class="archive">- {{.Date.Format "2006-01-02"}}</div>
-    </li>
+  <li>
+    <a href="{{ .RelPermalink}}">{{ .Title }}</a> 
+    <code>{{.Date.Format "2006-01-02"}}</code>
+    {{range (.Params.tags)}}
+      <code>{{. }}</code>
+    {{end }}
+  </li>
   {{ end }}
 </ul>
