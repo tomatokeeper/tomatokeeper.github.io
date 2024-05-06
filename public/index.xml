@@ -5,7 +5,7 @@
     <link>http://localhost:1313/</link>
     <description>Recent content in tomatokeeper on 杂货店老板</description>
     <generator>Hugo</generator>
-    <language>zh-CN</language>
+    <language>zh</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -51,14 +51,14 @@
       <description>&lt;p&gt;孙胜完没有想过家里的西瓜汽水消耗得这么快。&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>About</title>
       <link>http://localhost:1313/docs/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/about/</guid>
-      <description>About this site # 停车场 不需要单独存放的短篇和长篇只会发在 Lofter (tomatohotrice) 上</description>
+      <description>About this site # 停车场 &amp;amp; 备份站 favicon &amp;amp; profile image are from gentleeeeeeecat About me # Lofter: 番茄烫饭</description>
     </item>
     <item>
-      <title></title>
+      <title>归档</title>
       <link>http://localhost:1313/docs/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/archive/</guid>
