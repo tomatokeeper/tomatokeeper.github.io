@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>这篇还是那篇读后感呀？ on 杂货店老板</title>
+    <link>http://localhost:1313/categories/%E8%BF%99%E7%AF%87%E8%BF%98%E6%98%AF%E9%82%A3%E7%AF%87%E8%AF%BB%E5%90%8E%E6%84%9F%E5%91%80/</link>
+    <description>Recent content in 这篇还是那篇读后感呀？ on 杂货店老板</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E8%BF%99%E7%AF%87%E8%BF%98%E6%98%AF%E9%82%A3%E7%AF%87%E8%AF%BB%E5%90%8E%E6%84%9F%E5%91%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于《小兔子选择了倾听》</title>
+      <link>http://localhost:1313/review-the-bunny-has-chosen-to-listen/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/review-the-bunny-has-chosen-to-listen/</guid>
+      <description>幸福又美满地躺下（安详 softcookie: 这篇是给《小兔子》的评论，”兔子“或”兔子小姐“指裴珠泫，”钢琴家“指孙胜完。和《狗狗逃跑之处》一样，也是没完结，总</description>
+    </item>
+    <item>
+      <title>关于《狗狗逃跑之处》</title>
+      <link>http://localhost:1313/review-where-the-puppy-ran/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/review-where-the-puppy-ran/</guid>
+      <description>最幸福的事情就是看见长评了（安详） softcookie: 这篇评论《狗狗》，因为想说的很多所以整理了一下。原作还未完结，希望有更多人能看到它甜蜜外表包裹住的对于孙</description>
+    </item>
+    <item>
+      <title>接下来就该拷问那个混蛋作家了</title>
+      <link>http://localhost:1313/review-sense-and-sensibility-2/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/review-sense-and-sensibility-2/</guid>
+      <description>作为惯例在最前面 @幼凡 同学 以下将简单地使用提问与回答作为区分，以减少阅读的障碍 前篇：最开始的起点只是一碗红豆刨冰 8月27日 提问： 身为读者，先</description>
+    </item>
+    <item>
+      <title>最开始的起点只是一碗红豆刨冰</title>
+      <link>http://localhost:1313/review-sense-and-sensibility-1/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/review-sense-and-sensibility-1/</guid>
+      <description>这个系列不知道会有多少，也不知道会更多久，只是看我的心情是不是想水一下而已x 非常感谢 @幼凡 在这个周五用一碗红豆刨冰开启了这个系列，所以我们今</description>
+    </item>
+  </channel>
+</rss>

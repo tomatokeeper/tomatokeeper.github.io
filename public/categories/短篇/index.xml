@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>短篇 on 杂货店老板</title>
+    <link>http://localhost:1313/categories/%E7%9F%AD%E7%AF%87/</link>
+    <description>Recent content in 短篇 on 杂货店老板</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%9F%AD%E7%AF%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>租房</title>
+      <link>http://localhost:1313/the-tenant-and-the-house/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-tenant-and-the-house/</guid>
+      <description>就是说一些随想 一些克系随想 不如就用这种形式更好了 所以大家就随便查看一下，说不定就有更新了（ 因为不知道能不能算得上CP，就不打tag了 孙胜完租</description>
+    </item>
+  </channel>
+</rss>
