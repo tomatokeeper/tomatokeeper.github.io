@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>这篇还是那篇读后感呀？ on 杂货店老板</title>
-    <link>http://localhost:1313/categories/%E8%BF%99%E7%AF%87%E8%BF%98%E6%98%AF%E9%82%A3%E7%AF%87%E8%AF%BB%E5%90%8E%E6%84%9F%E5%91%80/</link>
-    <description>Recent content in 这篇还是那篇读后感呀？ on 杂货店老板</description>
+    <title>其它 on 杂货店老板</title>
+    <link>http://localhost:1313/categories/%E5%85%B6%E5%AE%83/</link>
+    <description>Recent content in 其它 on 杂货店老板</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E8%BF%99%E7%AF%87%E8%BF%98%E6%98%AF%E9%82%A3%E7%AF%87%E8%AF%BB%E5%90%8E%E6%84%9F%E5%91%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E5%85%B6%E5%AE%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于《小兔子选择了倾听》</title>
       <link>http://localhost:1313/review-the-bunny-has-chosen-to-listen/</link>
@@ -35,6 +35,20 @@
       <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/review-sense-and-sensibility-1/</guid>
       <description>这个系列不知道会有多少，也不知道会更多久，只是看我的心情是不是想水一下而已x 非常感谢 @幼凡 在这个周五用一碗红豆刨冰开启了这个系列，所以我们今</description>
+    </item>
+    <item>
+      <title>问卷调查-反馈篇</title>
+      <link>http://localhost:1313/questionaire-results/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/questionaire-results/</guid>
+      <description>首先非常感谢大家参与我的问卷调查！（虽然这个调查以一个非常不专业的形式，用一种非常不专业的表述，在一个非常不专业的人士的主导下进行，但是我真</description>
+    </item>
+    <item>
+      <title>问卷调查</title>
+      <link>http://localhost:1313/questionaire/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/questionaire/</guid>
+      <description>1.看文会在意粉1或是蓝1吗？ 2.如何判断一篇是粉1还是蓝1？ 3.请以我！写的文章为例，说明该篇文章在你心中是粉1还是蓝1，以及理由 （纯粹是</description>
     </item>
   </channel>
 </rss>

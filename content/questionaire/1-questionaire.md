@@ -5,9 +5,10 @@ linktitle: 问卷调查
 title: 问卷调查
 url: /questionaire/
 categories:
-  - 问卷
+  - 其它
 tags:
   - 粉蓝
+  - 问卷
 bookToc: false
 ---
 

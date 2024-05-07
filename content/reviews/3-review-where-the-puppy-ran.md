@@ -5,7 +5,7 @@ linktitle: 关于《狗狗逃跑之处》
 title: 关于《狗狗逃跑之处》
 url: /review-where-the-puppy-ran/
 categories:
-  - 这篇还是那篇读后感呀？
+  - 其它
 tags:
   - 粉蓝
   - 读后感

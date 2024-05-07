@@ -5,7 +5,7 @@ linktitle: 关于《小兔子选择了倾听》
 title: 关于《小兔子选择了倾听》
 url: /review-the-bunny-has-chosen-to-listen/
 categories:
-  - 这篇还是那篇读后感呀？
+  - 其它
 tags:
   - 粉蓝
   - 读后感
