@@ -23,6 +23,9 @@
     <loc>http://localhost:1313/the-bunny-has-chosen-to-listen-30/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/reviews/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/</loc>
     <lastmod>2024-03-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -272,7 +275,7 @@
     <loc>http://localhost:1313/what-if-the-wolf-and-the-witch-7/</loc>
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E9%97%AE%E5%8D%B7%E8%B0%83%E6%9F%A5/</loc>
+    <loc>http://localhost:1313/categories/%E9%97%AE%E5%8D%B7/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/questionaire-results/</loc>

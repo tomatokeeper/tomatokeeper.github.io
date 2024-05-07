@@ -5,7 +5,7 @@ linktitle: 问卷调查-反馈篇
 title: 问卷调查-反馈篇
 url: /questionaire-results/
 categories:
-  - 问卷调查
+  - 问卷
 tags:
   - 粉蓝
 bookToc: false

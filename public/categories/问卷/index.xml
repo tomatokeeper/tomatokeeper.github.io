@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>问卷调查 on 杂货店老板</title>
-    <link>http://localhost:1313/categories/%E9%97%AE%E5%8D%B7%E8%B0%83%E6%9F%A5/</link>
-    <description>Recent content in 问卷调查 on 杂货店老板</description>
+    <title>问卷 on 杂货店老板</title>
+    <link>http://localhost:1313/categories/%E9%97%AE%E5%8D%B7/</link>
+    <description>Recent content in 问卷 on 杂货店老板</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E9%97%AE%E5%8D%B7%E8%B0%83%E6%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E9%97%AE%E5%8D%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>问卷调查-反馈篇</title>
       <link>http://localhost:1313/questionaire-results/</link>
