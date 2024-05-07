@@ -179,6 +179,9 @@
     <loc>http://localhost:1313/tags/abo/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E8%BD%A6/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/%E7%90%86%E6%99%BA%E4%B8%8E%E6%83%85%E6%84%9F/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -255,9 +258,6 @@
     <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/what-if-the-wolf-and-the-witch-13/</loc>
-    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%BD%A6/</loc>
     <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E7%95%AA%E5%A4%96/</loc>
