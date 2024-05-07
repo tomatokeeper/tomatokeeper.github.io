@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>睡前小故事 on 杂货店老板</title>
+    <link>http://localhost:1313/categories/%E7%9D%A1%E5%89%8D%E5%B0%8F%E6%95%85%E4%BA%8B/</link>
+    <description>Recent content in 睡前小故事 on 杂货店老板</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%9D%A1%E5%89%8D%E5%B0%8F%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>夜莺与玫瑰</title>
+      <link>http://localhost:1313/the-nightingale-and-the-rose/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-nightingale-and-the-rose/</guid>
+      <description>和《夜莺与玫瑰》已经完全完全完全没有关系了 其实我本来是想要有关系的……写着写着，哈哈！ 夜莺 裴珠泫很想认识这家餐厅的主厨。 这个想法是在她这个月</description>
+    </item>
+  </channel>
+</rss>
