@@ -6,6 +6,7 @@ title: 孙胜完你昨天晚上到底把我家钥匙放在哪里了？
 url: /the-bunny-has-chosen-to-listen-side-story-2/
 categories:
   - 小兔子选择了倾听
+  - 填词
 tags:
   - 粉蓝
   - 番外

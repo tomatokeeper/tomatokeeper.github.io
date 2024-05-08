@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>闲聊 on 杂货店老板</title>
+    <link>http://localhost:1313/tags/%E9%97%B2%E8%81%8A/</link>
+    <description>Recent content in 闲聊 on 杂货店老板</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%97%B2%E8%81%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>闲聊</title>
+      <link>http://localhost:1313/chit-chat-13-sentinels-aegis-rim/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chit-chat-13-sentinels-aegis-rim/</guid>
+      <description>这两个礼拜把《十三机兵防卫圈》给打完了，真的是神作！ 环环相扣的叙事结构，让每一处线索都有其用武之地。更让人叹为观止的是，由于是13个人的视角</description>
+    </item>
+    <item>
+      <title>如何在FF14里cos孙老师？</title>
+      <link>http://localhost:1313/chit-chat-how-to-cos-ssw-in-ff14/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chit-chat-how-to-cos-ssw-in-ff14/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

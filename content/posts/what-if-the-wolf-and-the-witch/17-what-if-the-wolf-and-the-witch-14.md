@@ -1,6 +1,6 @@
 ---
 author: 番茄烫饭
-date: 2022-08-02
+date: 2023-09-24
 linktitle: What if…狼与魔女 - 访客与魔女
 title: What if…狼与魔女 - 访客与魔女
 url: /what-if-the-wolf-and-the-witch-14/
