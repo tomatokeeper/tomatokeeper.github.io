@@ -5,9 +5,9 @@ bookToc: false
 bookComments: false
 ---
 
-## **About this site**
+## **关于这里**
 - 停车场 & 备份站
-- Favicon & profile image credit: [gentleeeeeeecat](https://www.instagram.com/gentleeeeeeecat/)
+- URL 图标和头像来源: [gentleeeeeeecat](https://www.instagram.com/gentleeeeeeecat/)
 
-## **About me**
-- Lofter: [番茄烫饭](https://tomatohotrice.lofter.com/)
+## **Lofter**
+- [番茄烫饭](https://tomatohotrice.lofter.com/)
