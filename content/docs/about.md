@@ -11,3 +11,6 @@ bookComments: false
 
 ## **Lofter**
 - [番茄烫饭](https://tomatohotrice.lofter.com/)
+
+## **故事**
+- {{< stats >}}

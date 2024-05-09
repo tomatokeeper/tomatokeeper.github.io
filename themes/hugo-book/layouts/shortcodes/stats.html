@@ -1,5 +1,5 @@
 {{$scratch := newScratch}}
-{{ range (where .Site.Pages "Kind" "page" )}}
+{{ range (where .Site.Pages "Section" "posts" )}}
     {{$scratch.Add "total" .WordCount}}
 {{ end }}
 
