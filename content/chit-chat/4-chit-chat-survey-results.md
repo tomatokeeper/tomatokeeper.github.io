@@ -3,11 +3,12 @@ author: 番茄烫饭
 date: 2022-07-10
 linktitle: 问卷调查-反馈篇
 title: 问卷调查-反馈篇
-url: /questionaire-results/
+url: /survey-results/
 categories:
   - 其它
 tags:
   - 粉蓝
+  - 闲聊
   - 问卷
 bookToc: false
 ---
