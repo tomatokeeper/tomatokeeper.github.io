@@ -7,10 +7,8 @@ bookComments: false
 
 ## **关于这里**
 - 停车场 & 备份站
-- URL 图标和头像来源: [gentleeeeeeecat](https://www.instagram.com/gentleeeeeeecat/)
-
-## **故事**
 - {{< stats >}}
+- URL 图标和头像来源: [gentleeeeeeecat](https://www.instagram.com/gentleeeeeeecat/)
 
 ## **Lofter**
 - [番茄烫饭](https://tomatohotrice.lofter.com/)
