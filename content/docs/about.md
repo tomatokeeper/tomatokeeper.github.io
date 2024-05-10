@@ -7,7 +7,6 @@ bookComments: false
 
 ## **关于这里**
 - 停车场 & 备份站
-- {{< stats >}}
 - URL 图标和头像来源: [gentleeeeeeecat](https://www.instagram.com/gentleeeeeeecat/)
 
 ## **Lofter**
