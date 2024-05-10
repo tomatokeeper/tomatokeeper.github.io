@@ -3,9 +3,9 @@
     <li>
       <code>{{.Date.Format "2006-01-02"}}</code>
       <a href="{{ .RelPermalink}}">{{ .Title }}</a> 
-      <!-- {{range (.Params.tags)}}
+      {{range (.Params.tags)}}
         <code>{{. }}</code>
-      {{end }} -->
+      {{end }}
     </li>
   {{ end }}
 </ul>
