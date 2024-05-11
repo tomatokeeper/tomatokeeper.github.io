@@ -13,6 +13,8 @@ bookToc: false
 
 是上次的串字成文。
 
+<!--more-->
+
 -上-
 
 

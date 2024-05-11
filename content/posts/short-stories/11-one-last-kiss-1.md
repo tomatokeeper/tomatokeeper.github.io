@@ -13,7 +13,7 @@ bookToc: false
 
 “无法停止那将要失去什么的预感。”
 
-
+<!--more-->
 
 ONE
 
