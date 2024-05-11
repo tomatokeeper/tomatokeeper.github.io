@@ -11,8 +11,11 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 设定是：
+
 芬兰的导游姐姐和环球漂游六月来到芬兰的浪子完
+{{< /hint >}}
 
 <!--more-->
 
@@ -374,7 +377,12 @@ bookToc: false
 
 -tbc-
 
+{{< hint info >}}
 今天的问题是：
+
 更喜欢哪个水果呢？
+
 a.蔓越莓
+
 b.荔枝
+{{< /hint >}}

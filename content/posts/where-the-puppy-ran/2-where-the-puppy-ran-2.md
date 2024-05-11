@@ -11,8 +11,11 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 越写越长
+
 可本来就是想写中篇不是吗！
+{{< /hint >}}
 
 <!--more-->
 

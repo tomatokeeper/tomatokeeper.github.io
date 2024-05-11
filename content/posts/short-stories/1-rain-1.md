@@ -11,8 +11,9 @@ tags:
 bookToc: false
 ---
 
-
-越写越长……
+{{< hint info >}}
+~~越写越长……~~
+{{< /hint >}}
 
 <!--more-->
 

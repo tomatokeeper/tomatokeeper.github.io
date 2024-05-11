@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
-> <因为是春天呀！
+{{< hint info >}}
+> <因为是春天呀！
+{{< /hint >}}
 
 <!--more-->
 

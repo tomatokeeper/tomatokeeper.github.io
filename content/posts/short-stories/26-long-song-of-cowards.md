@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 虽然lof现在自带首行缩进，但是之前的没有缩进的能不能帮我自动缩进了呀（（（
+{{< /hint >}}
 
 <!--more-->
 

@@ -12,9 +12,13 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 当一个人社畜的压力积蓄到一定程度会做些什么？
+
 ：写ABO
+
 ：写幼女ABO
+{{< /hint >}}
 
 <!--more-->
 

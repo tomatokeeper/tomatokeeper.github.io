@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 끝！
+{{< /hint >}}
 
 <!--more-->
 

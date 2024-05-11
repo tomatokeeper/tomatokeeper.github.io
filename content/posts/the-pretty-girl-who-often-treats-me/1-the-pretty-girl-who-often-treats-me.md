@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 ~~只是借用了题目，这个电视剧完全没有看过~~
+{{< /hint >}}
 
 <!--more-->
 

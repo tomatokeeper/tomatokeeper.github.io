@@ -10,9 +10,11 @@ tags:
   - 粉蓝
 bookToc: false
 ---
-
+{{< hint info >}}
 设定是：
+
 芬兰的导游姐姐和环球漂游六月来到芬兰的浪子完
+{{< /hint >}}
 
 <!--more-->
 

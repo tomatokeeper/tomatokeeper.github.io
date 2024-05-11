@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 水獭真可爱呀！
+{{< /hint >}}
 
 <!--more-->
 

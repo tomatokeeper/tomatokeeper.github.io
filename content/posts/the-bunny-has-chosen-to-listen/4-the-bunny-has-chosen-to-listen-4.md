@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 是说这里能安利到的话……要不要试试玩FF14，我超厉害的，可以带豆芽
+{{< /hint >}}
 
 <!--more-->
 

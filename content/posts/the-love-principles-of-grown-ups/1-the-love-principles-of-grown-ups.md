@@ -12,11 +12,17 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 预警：
+
 炮友设定 
+
 现代paro
+
 可能大概应该会有5.0人物出现？
+
 光♀敏 
+{{< /hint >}}
 
 <!--more-->
 

@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 时隔很久回来了！
+{{< /hint >}}
 
 <!--more-->
 

@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 不知道为什么，这篇的风格逐渐变成都市恋爱轻喜剧了
+{{< /hint >}}
 
 <!--more-->
 

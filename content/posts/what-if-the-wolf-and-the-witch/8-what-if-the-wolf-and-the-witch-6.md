@@ -11,8 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 好久不见（也没有那么久（但是还挺久（算啦，看我更新的人难道会觉得这样的一段日子是久吗？
-
+{{< /hint >}}
 
 <!--more-->
 
@@ -161,4 +162,3 @@ bookToc: false
 当然不会抛弃你了，她想。
 
 还得等你长大，来保护我呢。
-© 番茄烫饭 | Powered by LOFTER

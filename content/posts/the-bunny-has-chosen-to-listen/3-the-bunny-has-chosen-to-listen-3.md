@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 魔偶马戏团真的太好看了！怎么会有这么神的漫画啊！
+{{< /hint >}}
 
 <!--more-->
 

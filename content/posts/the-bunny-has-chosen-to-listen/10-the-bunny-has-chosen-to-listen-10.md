@@ -11,9 +11,13 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 想说点什么
+
 但又不知道该说什么
+
 阻碍粉蓝在一起的罪魁祸首竟是我自己x
+{{< /hint >}}
 
 <!--more-->
 

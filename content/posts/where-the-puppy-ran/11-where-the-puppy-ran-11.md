@@ -11,10 +11,15 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 悄悄推荐歌曲
+
 难过233秒-ChiliChill
+
 是听着歌写的这一章
+
 结果好像跟这首歌的感觉又不一样，好失败orz
+{{< /hint >}}
 
 <!--more-->
 

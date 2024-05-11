@@ -11,9 +11,13 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 请在下面两个选项中选择下次想要看到的更新：
+
 A-最高纪录保持者 
+
 B-有线耳机
+{{< /hint >}}
 
 <!--more-->
 

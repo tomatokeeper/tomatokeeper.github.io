@@ -11,8 +11,11 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 赶上啦！
+
 应该是一次相当灵验的花占卜。
+{{< /hint >}}
 
 <!--more-->
 

@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 可恶，怎么就礼拜天晚上了，我完全没有休息够啊！
+{{< /hint >}}
 
 <!--more-->
 

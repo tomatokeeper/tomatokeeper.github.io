@@ -11,8 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 （你们是真的很喜欢总裁啊！）（是真的有那么喜欢吗？！）
-
+{{< /hint >}}
 
 
 <!--more-->
@@ -126,4 +127,3 @@ bookToc: false
 
  
 如果这是我们终要一起面对的未来。
-© 番茄烫饭 | Powered by LOFTER

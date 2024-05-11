@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 明天应该不会更新，要准备粉蓝日的短篇了（惆怅）
+{{< /hint >}}
 
 <!--more-->
 

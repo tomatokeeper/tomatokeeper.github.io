@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 满足私欲是更新的原动力x
+{{< /hint >}}
 
 <!--more-->
 
@@ -160,4 +162,3 @@ bookToc: false
 你们是两条因为人类偶尔交错的平行线而已。
 
 仅此而已。
-© 番茄烫饭 | Powered by LOFTER

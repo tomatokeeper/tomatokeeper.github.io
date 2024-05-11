@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 新的ost真的太甜啦！
+{{< /hint >}}
 
 <!--more-->
 

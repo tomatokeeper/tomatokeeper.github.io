@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 明天休息一天，嘿嘿> <要更多更多评论才可以继续日更
+{{< /hint >}}
 
 <!--more-->
 

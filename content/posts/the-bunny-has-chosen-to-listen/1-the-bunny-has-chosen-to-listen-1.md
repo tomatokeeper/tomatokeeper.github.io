@@ -11,8 +11,10 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 因为不确定会写多少总之先开一个新的合集
 会填坑的！
+{{< /hint >}}
 
 <!--more-->
 

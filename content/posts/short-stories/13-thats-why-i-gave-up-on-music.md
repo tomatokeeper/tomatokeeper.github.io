@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 是上次的串字成文。
+{{< /hint >}}
 
 <!--more-->
 

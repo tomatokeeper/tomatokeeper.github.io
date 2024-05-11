@@ -11,8 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 工作真累啊~~~
-
+{{< /hint >}}
 
 
 <!--more-->
@@ -138,4 +139,3 @@ bookToc: false
 
 
 我的，她想，谢谢，我的魔女。
-© 番茄烫饭 | Powered by LOFTER

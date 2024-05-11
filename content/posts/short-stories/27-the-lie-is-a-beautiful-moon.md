@@ -11,8 +11,11 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 刷刷碗生日快乐> <
+
 写到最后出现了奇怪的结局，希望月读愉快！ 
+{{< /hint >}}
 
 <!--more-->
 

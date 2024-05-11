@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 呜呜呜，练车太累了，写不出来了
+{{< /hint >}}
 
 <!--more-->
 
