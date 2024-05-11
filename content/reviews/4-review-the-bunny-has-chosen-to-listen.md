@@ -14,9 +14,9 @@ bookToc: false
 
 幸福又美满地躺下（安详
 
-{{< emptylines 1 >}}
-
 <!--more-->
+
+{{< emptylines 1 >}}
 
 softcookie:
   
