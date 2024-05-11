@@ -1,8 +1,8 @@
 ---
 author: 番茄烫饭
 date: 2024-05-09
-linktitle: 救命啊，同居人变成猫了我该怎么办？！- 1
-title: 救命啊，同居人变成猫了我该怎么办？！- 1
+linktitle: 救命啊，同居人变成猫了我该怎么办？！-1-
+title: 救命啊，同居人变成猫了我该怎么办？！-1-
 url: /my-roommate-has-become-a-cat-1/
 categories:
   - 短篇
