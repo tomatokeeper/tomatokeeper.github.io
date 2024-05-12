@@ -19,8 +19,6 @@ bookToc: false
 
 {{< emptylines 1 >}}
 
-#### **2.**
-
 原来当人精神失常到无语的时候，是真的会笑出来啊。
 
 {{< emptylines 1 >}}
