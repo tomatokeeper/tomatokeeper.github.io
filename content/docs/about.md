@@ -1,6 +1,6 @@
 ---
-title: About
-linktitle: About
+title: 关于
+linktitle: 关于
 bookToc: false
 bookComments: false
 ---
