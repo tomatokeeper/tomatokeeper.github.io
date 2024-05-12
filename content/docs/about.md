@@ -8,15 +8,11 @@ bookComments: false
 ## **关于这里**
 - 停车场 & 备份站
 - URL 图标和头像来源: [gentleeeeeeecat](https://www.instagram.com/gentleeeeeeecat/)
-
-#### **如果你想订阅这个网站的内容**
-大概来这里的绝大多数人可以从 Lofter 上获知更新，但如果你想直接订阅这个网站的话，请在任意 RSS 阅读器（比如 Inoreader）里搜索下面这个链接：
+- 大概来这里的绝大多数人可以从 Lofter 上获知更新，但如果你想直接订阅这个网站的话，请在任意 RSS 阅读器（如 Inoreader）里搜索下面这个链接：
 
 ```
 https://tomatokeeper.github.io/index.xml
 ```
-
-目前不考虑提供其它订阅方式 OωO
 
 ## **Lofter**
 - [番茄烫饭](https://tomatohotrice.lofter.com/)
