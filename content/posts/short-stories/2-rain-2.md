@@ -13,11 +13,11 @@ bookToc: false
 
 {{< hint info >}}
 ~~**越写越长……**~~
-
-[雨（上）]({{< relref "1-rain-1" >}})
 {{< /hint >}}
 
 <!--more-->
+
+[雨（上）]({{< relref "1-rain-1" >}})
 
 {{< emptylines 1 >}}
 

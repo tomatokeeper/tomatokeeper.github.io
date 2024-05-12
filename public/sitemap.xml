@@ -140,6 +140,9 @@
     <loc>http://localhost:1313/record-holder-6/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/record-holder-5/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E5%93%A8%E5%90%91/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -178,9 +181,6 @@
   </url><url>
     <loc>http://localhost:1313/raise-hands-and-never-surrender-2/</loc>
     <lastmod>2023-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/record-holder-5/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/glass-and-rum/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
