@@ -14,19 +14,20 @@ bookToc: false
 ---
 
 {{< hint info >}}
-原曲：点我点我
+**原曲：[点我点我](https://www.bilibili.com/video/BV1rs411R7Vz/)**
 
 一些碎碎念：
+
 因为按照原曲设定，7就是指挥家，感觉上是很适合兔兔那篇的设定~
+
 本来是想当做单纯短篇水一下的，这样的话就当做是番外好啦哈哈哈。
-（话说原版张先生是有反击哦）
+
+（话说原版张先生是有[反击](https://www.bilibili.com/video/BV1ws411a7j8/)哦）
 {{< /hint >}}
 
 <!--more-->
 
-
-
-
+{{< emptylines 1 >}}
 
 姜涩琪入场。
 
@@ -57,8 +58,8 @@ bookToc: false
 二十六个电话！
 
 你没有接，你没有接！
- 
 
+{{< emptylines 1 >}}
 
 你回话了——
 
@@ -71,8 +72,8 @@ bookToc: false
 你办完事就回家——
 
 真的不行啦！
- 
 
+{{< emptylines 1 >}}
 
 可是孙胜完！
 
@@ -80,17 +81,17 @@ bookToc: false
 
 你带着姐姐，去了济州！
 
+{{< emptylines 1 >}}
 
- 
 你到底把我家钥匙放在哪里了？
 
 你到底把我家钥匙放在哪里了！
 
-
+{{< emptylines 1 >}}
  
 （卡祖笛）
- 
 
+{{< emptylines 1 >}}
 
 地毯找了！
 
@@ -99,26 +100,26 @@ bookToc: false
 连门口大爷！
 
 我也都问过了！
- 
 
+{{< emptylines 1 >}}
 
 你就是忘了，你就是忘了！
 
 我们家在首尔市！
 
+{{< emptylines 1 >}}
 
- 
 大邱的姑娘真的那么可爱吗？
 
 大邱的姑娘真的那么可爱吗？
 
 大！邱！的！姑！娘！真！的！那！么！可！爱！吗！
- 
 
+{{< emptylines 1 >}}
 
 （卡祖笛）
- 
 
+{{< emptylines 1 >}}
 
 凛冽的风~冰冷的雨~
 
@@ -127,24 +128,24 @@ bookToc: false
 我已经冻得不行~
 
 孙小姐~你在哪里~
- 
 
+{{< emptylines 1 >}}
 
 Sancta Maria~Sancta Maria~
 
 让这个迷途的松鼠回家吧~
- 
 
+{{< emptylines 1 >}}
 
 钥匙啊~钥匙~
 
 你~快~快~出~现~
- 
 
+{{< emptylines 1 >}}
 
 啦啦啦~啦啦啦~啦啦啦~啦~啦~啦~
- 
 
+{{< emptylines 1 >}}
 
 大不了我自己再去重新配一把。
 
@@ -153,8 +154,8 @@ Sancta Maria~Sancta Maria~
 大！不！了！我！自！己！再！去！重！新！配！一！把！
 
 重！新！配！一！把！
- 
 
+{{< emptylines 1 >}}
 
 不用麻烦了！不用麻烦了！
 
@@ -163,8 +164,8 @@ Sancta Maria~Sancta Maria~
 我那么有钱，一下配十把！
 
 你就乖乖住在济州吧，不用回来了！
- 
 
+{{< emptylines 1 >}}
 
 不用麻烦了！不用麻烦了！
 
@@ -174,11 +175,11 @@ Sancta Maria~Sancta Maria~
 
 人家很忙的！
 
-
+{{< emptylines 1 >}}
 
 （重复）
- 
 
+{{< emptylines 1 >}}
 
 曲终。
 
