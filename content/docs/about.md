@@ -12,6 +12,5 @@ bookComments: false
 ## **Lofter**
 - [番茄烫饭](https://tomatohotrice.lofter.com/)
 
-
 ## **QQ群**
 - 欢迎来玩：704137042

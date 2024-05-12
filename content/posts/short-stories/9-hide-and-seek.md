@@ -24,6 +24,8 @@ bookToc: false
 
 <!--more-->
 
+{{< emptylines 1 >}}
+
 **前篇：[今天，我试图亲吻我的好朋友]({{< relref "8-today-i-tried-to-kiss-my-friend" >}})**
 
 **后篇：[恋爱困难少女]({{< relref "10-renai-ni-nayamu-shoujo" >}})**

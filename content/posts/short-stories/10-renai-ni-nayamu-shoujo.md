@@ -21,6 +21,8 @@ bjh生日快乐！
 
 <!--more-->
 
+{{< emptylines 1 >}}
+
 **前篇：[今天，我试图亲吻我的好朋友]({{< relref "8-today-i-tried-to-kiss-my-friend" >}})**
 
 **中篇：[捉迷藏]({{< relref "9-hide-and-seek" >}})**

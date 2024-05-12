@@ -19,6 +19,8 @@ bookToc: false
 
 <!--more-->
 
+{{< emptylines 1 >}}
+
 ### **夜莺**
 
 裴珠泫很想认识这家餐厅的主厨。

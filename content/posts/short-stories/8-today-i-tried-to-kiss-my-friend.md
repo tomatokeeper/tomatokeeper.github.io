@@ -20,6 +20,8 @@ bookToc: false
 
 <!--more-->
 
+{{< emptylines 1 >}}
+
 **中篇：[捉迷藏]({{< relref "9-hide-and-seek" >}})**
 
 **后篇：[恋爱困难少女]({{< relref "10-renai-ni-nayamu-shoujo" >}})**
