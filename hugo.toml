@@ -10,10 +10,3 @@ defaultContentLanguage = 'zh'
     BookMenuBundle = '/menu'
     BookFavicon = 'favicon_v1.png'
     BookLogo = 'favicon_v1.png'
-
-[outputs]
-    home = ["HTML", "RSS"]
-
-[services]
-  [services.rss]
-    limit = 5

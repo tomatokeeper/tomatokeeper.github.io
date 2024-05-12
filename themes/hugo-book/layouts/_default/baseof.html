@@ -3,12 +3,6 @@
 <head>
   {{ partial "docs/html-head" . }}
   {{ partial "docs/inject/head" . }}
-
-  <!-- RSS -->
-  {{ with .OutputFormats.Get "rss" -}}
-  {{ printf `<link rel="%q" type="%q" href="%q" title="%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
-  {{ end }}
-  
 </head>
 <body dir="{{ default "ltr" .Site.Language.LanguageDirection }}">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
