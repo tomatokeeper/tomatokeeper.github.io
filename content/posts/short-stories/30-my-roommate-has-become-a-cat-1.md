@@ -11,7 +11,9 @@ tags:
 bookToc: false
 ---
 
+{{< hint info >}}
 是的，我养了一只猫。
+{{< /hint >}}
 
 <!--more-->
 
