@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tomatokeeper on 杂货店老板</title>
+    <title>番茄烫饭 on 杂货店老板</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in tomatokeeper on 杂货店老板</description>
+    <description>Recent content in 番茄烫饭 on 杂货店老板</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
@@ -959,6 +959,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/archive/</guid>
       <description>归档 # 2024-05-11 救命啊，同居人变成猫了我该怎么办？！-2- 2024-05-09 救命啊，同居人变成猫了我该怎么办？！-1- 2024-04-18 小兔子选择了倾听 30.变化 2024-03-29 金木犀 2024-03-21 花占卜 2024-03-18</description>
+    </item>
+    <item>
+      <title>留言板</title>
+      <link>http://localhost:1313/docs/messages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/messages/</guid>
+      <description>留言板 # 或者说，是（可匿名的）提问箱？</description>
     </item>
   </channel>
 </rss>

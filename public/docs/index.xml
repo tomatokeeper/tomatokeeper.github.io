@@ -21,5 +21,12 @@
       <guid>http://localhost:1313/docs/archive/</guid>
       <description>归档 # 2024-05-11 救命啊，同居人变成猫了我该怎么办？！-2- 2024-05-09 救命啊，同居人变成猫了我该怎么办？！-1- 2024-04-18 小兔子选择了倾听 30.变化 2024-03-29 金木犀 2024-03-21 花占卜 2024-03-18</description>
     </item>
+    <item>
+      <title>留言板</title>
+      <link>http://localhost:1313/docs/messages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/messages/</guid>
+      <description>留言板 # 或者说，是（匿名也可以的）提问箱？</description>
+    </item>
   </channel>
 </rss>

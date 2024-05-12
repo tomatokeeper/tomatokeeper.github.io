@@ -11,10 +11,10 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/categories/%E7%9F%AD%E7%AF%87/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E7%9F%AD%E7%AF%87/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E7%B2%89%E8%93%9D/</loc>
@@ -514,5 +514,7 @@
     <loc>http://localhost:1313/docs/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/archive/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/messages/</loc>
   </url>
 </urlset>
