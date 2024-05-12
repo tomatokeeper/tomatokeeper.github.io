@@ -1,11 +1,11 @@
 ---
 author: 番茄烫饭
 date: 2022-03-08
-linktitle: 社畜与异世界犬科动物
-title: 社畜与异世界犬科动物
+linktitle: 杂谈-社畜与异世界犬科动物
+title: 杂谈-社畜与异世界犬科动物
 url: /the-corporate-slave-and-the-otherworldly-canine/
 categories:
-  - 杂谈
+  - 其它
 tags:
   - 粉蓝
 bookToc: false
