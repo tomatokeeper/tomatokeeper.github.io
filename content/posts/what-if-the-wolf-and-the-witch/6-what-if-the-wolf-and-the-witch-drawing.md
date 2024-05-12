@@ -1,8 +1,8 @@
 ---
 author: 番茄烫饭
 date: 2022-05-23
-linktitle: What if…狼与魔女 - 图
-title: What if…狼与魔女 - 图
+linktitle: What if…狼与魔女 - 画手配图
+title: What if…狼与魔女 - 画手配图
 url: /what-if-the-wolf-and-the-witch-drawing/
 categories:
   - What if…狼与魔女
@@ -21,6 +21,8 @@ XD，呜哇！非常感谢！
 能让大家看得开心，我这边才是感激不尽(*´▽｀)ノノ
 
 <!--more-->
+
+{{< emptylines 1 >}}
 
 What:
 
