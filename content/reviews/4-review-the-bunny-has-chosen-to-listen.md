@@ -18,7 +18,7 @@ bookToc: false
 
 {{< emptylines 1 >}}
 
-softcookie:
+[softcookie](https://softcookie.lofter.com/):
   
 >这篇是给《小兔子》的评论，”兔子“或”兔子小姐“指裴珠泫，”钢琴家“指孙胜完。和《狗狗逃跑之处》一样，也是没完结，总之你们也来追更吧！x)
 >
