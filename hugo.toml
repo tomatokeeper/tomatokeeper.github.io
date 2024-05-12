@@ -13,3 +13,7 @@ defaultContentLanguage = 'zh'
 
 [outputs]
     home = ["HTML", "RSS"]
+
+[services]
+  [services.rss]
+    limit = 5
