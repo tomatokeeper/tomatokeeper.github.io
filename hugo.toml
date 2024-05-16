@@ -8,5 +8,5 @@ defaultContentLanguage = 'zh'
 [params]
     BookTheme = 'auto'
     BookMenuBundle = '/menu'
-    BookFavicon = 'favicon_v1.png'
-    BookLogo = 'favicon_v1.png'
+    BookFavicon = 'favicon_may2024.png'
+    BookLogo = 'favicon_may2024.png'

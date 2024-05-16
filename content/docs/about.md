@@ -7,7 +7,6 @@ bookComments: false
 
 ## **关于这里**
 - 停车场 & 备份站
-- URL 图标和头像来源: [gentleeeeeeecat](https://www.instagram.com/gentleeeeeeecat/)
 - 大概来这里的绝大多数人可以从 Lofter 上获知更新，但如果你想直接订阅这个网站的话，请在任意 RSS 阅读器（如 Inoreader）里搜索下面这个链接：
 
 ```
