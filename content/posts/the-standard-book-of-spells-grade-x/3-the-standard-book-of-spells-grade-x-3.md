@@ -8,6 +8,7 @@ categories:
   - 标准咒语，几级？
 tags:
   - 粉蓝
+  - HPAU
 bookToc: false
 ---
 

@@ -5,7 +5,7 @@
 {{ range $taxonomy, $_ := .Site.Taxonomies }}
   {{ with $terms := $.GetTerms $taxonomy }}
   <div>
-    {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+    {{ range $n, $term := $terms }}{{ if $n }} <span style="color:var(--anchor-color)">| </span> {{ end }}
       <a href="{{ $term.RelPermalink }}"><code>{{ $term.Title }}</code></a>
     {{- end }}
   </div>
