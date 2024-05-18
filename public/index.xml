@@ -1,978 +1,1576 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>番茄烫饭 on 杂货店老板</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in 番茄烫饭 on 杂货店老板</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>救命啊，同居人变成猫了我该怎么办？！-3-</title>
-      <link>http://localhost:1313/my-roommate-has-become-a-cat-3/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-roommate-has-become-a-cat-3/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  睡醒了就会回复评论的（倒头就睡）&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>救命啊，同居人变成猫了我该怎么办？！-2-</title>
-      <link>http://localhost:1313/my-roommate-has-become-a-cat-2/</link>
-      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-roommate-has-become-a-cat-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  今天的更新是猫写的。&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>救命啊，同居人变成猫了我该怎么办？！-1-</title>
-      <link>http://localhost:1313/my-roommate-has-become-a-cat-1/</link>
-      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-roommate-has-become-a-cat-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  是的，我养了一只猫。&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 30.变化</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-30/</link>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-30/</guid>
-      <description>&lt;p&gt;作为恢复上班的第一天而言，这并不是个好天气。&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>关于《小兔子选择了倾听》</title>
-      <link>http://localhost:1313/review-the-bunny-has-chosen-to-listen/</link>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/review-the-bunny-has-chosen-to-listen/</guid>
-      <description>&lt;p&gt;幸福又美满地躺下（安详&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>金木犀</title>
-      <link>http://localhost:1313/osmanthus/</link>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/osmanthus/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;bjh生日快乐，又赶上啦！&lt;/p&gt;&#xA;&lt;p&gt;好像最近都和花有关……&lt;/p&gt;&#xA;&lt;p&gt;虽然是秋天的花，但这首&lt;a href=&#34;https://music.163.com/#/song?id=2071177220&amp;amp;userid=118540179&#34;&gt;金木犀&lt;/a&gt;总有种夏天的感觉，却被我拿来写春天的恋情，该说是思路太跳脱还是怎么回事呢……&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>花占卜</title>
-      <link>http://localhost:1313/floromancy/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/floromancy/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;赶上啦！&lt;/p&gt;&#xA;&lt;p&gt;应该是一次相当灵验的&lt;a href=&#34;https://music.163.com/#/song?id=2096237925&amp;amp;userid=118540179&#34;&gt;花&lt;/a&gt;占卜。&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 29.回家</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-29/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-29/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;strong&gt;明天应该不会更新，要准备粉蓝日的短篇了（惆怅）&lt;/strong&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>关于《狗狗逃跑之处》</title>
-      <link>http://localhost:1313/review-where-the-puppy-ran/</link>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/review-where-the-puppy-ran/</guid>
-      <description>&lt;p&gt;最幸福的事情就是看见长评了（安详）&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 28.舞</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-28/</link>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-28/</guid>
-      <description>&lt;p&gt;裴珠泫觉得有点丢脸。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 27.家</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-27/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-27/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  明天休息一天，嘿嘿&amp;gt; &amp;lt;要更多更多评论才可以继续日更&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 26.过往</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-26/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-26/</guid>
-      <description>&lt;p&gt;裴珠泫被自己闹的闹钟吵醒，不由得开始质疑自己用这种方法来战胜时差是不是合理。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 25.灯塔</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-25/</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-25/</guid>
-      <description>&lt;p&gt;倒时差并不是一件容易的事。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 24.抵达</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-24/</link>
-      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-24/</guid>
-      <description>&lt;p&gt;和裴珠泫想象中不同，全程一直保持高度紧张的人反倒是孙胜完。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谎言是美丽的月亮</title>
-      <link>http://localhost:1313/the-lie-is-a-beautiful-moon/</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-lie-is-a-beautiful-moon/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;刷刷碗生日快乐&amp;gt; &amp;lt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;写到最后出现了奇怪的结局，希望&lt;a href=&#34;https://music.163.com/#/song?id=2072535461&amp;amp;userid=118540179&#34;&gt;月&lt;/a&gt;读愉快！&lt;/strong&gt; &lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 23.航线</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-23/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-23/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;推一首&lt;a href=&#34;https://music.163.com/#/song?id=2124306759&amp;amp;userid=118540179&#34;&gt;歌&lt;/a&gt;。&lt;/p&gt;&#xA;&lt;p&gt;不过，其实跟这章没有特别大的关系？但是好像也不是没有关系？&lt;/p&gt;&#xA;&lt;p&gt;总之，是好听的歌！&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 22.习作</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-22/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-22/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;我震撼了，刚发的时候把我ban了，找了大半天发现居然是这个我不得不加入一整句话的词触发了极致。&lt;/p&gt;&#xA;&lt;p&gt;但是单独发这个词语也没问题……什么意思呢……这么智能呢，微弱的都不行？&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 21.言说</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-21/</link>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-21/</guid>
-      <description>&lt;p&gt;在本周第三次差点迟到后，裴珠泫终于意识到，都是因为新换的遮光窗帘效果太好了。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>傲慢与偏见 - 4</title>
-      <link>http://localhost:1313/pride-and-prejudice-4/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pride-and-prejudice-4/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  呜呜呜，练车太累了，写不出来了&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 过往与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-15/</link>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-15/</guid>
-      <description>&lt;p&gt;医生结束一个下午的看诊，回到了旅馆。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 20.试探</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-20/</link>
-      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-20/</guid>
-      <description>&lt;p&gt;搬家……不对，“同居”究竟意味着什么呢？&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>举起双手（绝不）喊投降 -6-</title>
-      <link>http://localhost:1313/raise-hands-and-never-surrender-6/</link>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/raise-hands-and-never-surrender-6/</guid>
-      <description>&lt;h4 id=&#34;语言是种武器但要注意自己也会被攻击&#34;&gt;&#xA;  &lt;strong&gt;语言是种武器但要注意自己也会被攻击&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e8%af%ad%e8%a8%80%e6%98%af%e7%a7%8d%e6%ad%a6%e5%99%a8%e4%bd%86%e8%a6%81%e6%b3%a8%e6%84%8f%e8%87%aa%e5%b7%b1%e4%b9%9f%e4%bc%9a%e8%a2%ab%e6%94%bb%e5%87%bb&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;</description>
-    </item>
-    <item>
-      <title>巨龙的言行潜规则 - Page1.甩尾</title>
-      <link>http://localhost:1313/the-unspoken-rules-of-the-dragons-behaviour-1/</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-unspoken-rules-of-the-dragons-behaviour-1/</guid>
-      <description>&lt;p&gt;孙胜完咳了两声，没想到反而把积在遗迹上的灰尘吹了起来，换来一阵更加猛烈的咳嗽。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>巨龙的言行潜规则 - Page2.甩尾，但只有尾巴尖</title>
-      <link>http://localhost:1313/the-unspoken-rules-of-the-dragons-behaviour-1/</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-unspoken-rules-of-the-dragons-behaviour-1/</guid>
-      <description>&lt;p&gt;孙胜完很少会在自己身上用“使命感”这个词。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>献给阿尔忒弥斯的花束 -第一部-</title>
-      <link>http://localhost:1313/flowers-for-artemis-1/</link>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/flowers-for-artemis-1/</guid>
-      <description>&lt;h3 id=&#34;ch1剑鞘&#34;&gt;&#xA;  &lt;strong&gt;Ch1. 剑鞘&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ch1%e5%89%91%e9%9e%98&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;</description>
-    </item>
-    <item>
-      <title>胆小鬼的情歌</title>
-      <link>http://localhost:1313/long-song-of-cowards/</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/long-song-of-cowards/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  虽然lof现在自带首行缩进，但是之前的没有缩进的能不能帮我自动缩进了呀（（（&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 19.演奏</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-19/</link>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-19/</guid>
-      <description>&lt;p&gt;其实裴珠泫有点按捺不住。&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>举起双手（绝不）喊投降 -5-</title>
-      <link>http://localhost:1313/raise-hands-and-never-surrender-5/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/raise-hands-and-never-surrender-5/</guid>
-      <description>&lt;h4 id=&#34;都说民以食为天如果不会做菜的话另一个人会就行&#34;&gt;&#xA;  &lt;strong&gt;都说民以食为天如果不会做菜的话另一个人会就行&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e9%83%bd%e8%af%b4%e6%b0%91%e4%bb%a5%e9%a3%9f%e4%b8%ba%e5%a4%a9%e5%a6%82%e6%9e%9c%e4%b8%8d%e4%bc%9a%e5%81%9a%e8%8f%9c%e7%9a%84%e8%af%9d%e5%8f%a6%e4%b8%80%e4%b8%aa%e4%ba%ba%e4%bc%9a%e5%b0%b1%e8%a1%8c&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 访客与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-14/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-14/</guid>
-      <description>&lt;p&gt;当旅店客房的门被敲响时，魔女表现得比狼人还要紧张。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>傲慢与偏见 - 3</title>
-      <link>http://localhost:1313/pride-and-prejudice-3/</link>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pride-and-prejudice-3/</guid>
-      <description>&lt;h4 id=&#34;1721年2月26日午饭&#34;&gt;&#xA;  &lt;strong&gt;1721年，2月26日，午饭&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1721%e5%b9%b42%e6%9c%8826%e6%97%a5%e5%8d%88%e9%a5%ad&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;这是子爵大人叫来的第三杯的咖啡了。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>最高纪录保持者 Exclusive Part</title>
-      <link>http://localhost:1313/record-holder-exclusive-part/</link>
-      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/record-holder-exclusive-part/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;设定是：&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;芬兰的导游姐姐和环球漂游六月来到芬兰的浪子完&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>举起双手（绝不）喊投降 -4-</title>
-      <link>http://localhost:1313/raise-hands-and-never-surrender-4/</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/raise-hands-and-never-surrender-4/</guid>
-      <description>&lt;h4 id=&#34;怎么定义约会和第一次和第一次约会&#34;&gt;&#xA;  &lt;strong&gt;怎么定义约会和第一次和第一次约会&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%80%8e%e4%b9%88%e5%ae%9a%e4%b9%89%e7%ba%a6%e4%bc%9a%e5%92%8c%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%92%8c%e7%ac%ac%e4%b8%80%e6%ac%a1%e7%ba%a6%e4%bc%9a&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;</description>
-    </item>
-    <item>
-      <title>最高纪录保持者 PART6</title>
-      <link>http://localhost:1313/record-holder-6/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/record-holder-6/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;设定是：&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;芬兰的导游姐姐和环球漂游六月来到芬兰的浪子完&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;顺便宣传一下刚刚想起来的群号：704137042&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>最高纪录保持者 PART5</title>
-      <link>http://localhost:1313/record-holder-5/</link>
-      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/record-holder-5/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;设定是：&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;芬兰的导游姐姐和环球漂游六月来到芬兰的浪子完&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;顺便宣传一下刚刚想起来的群号：704137042&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 18.错拍</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-18/</link>
-      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-18/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;请在下面两个选项中选择下次想要看到的更新：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A-最高纪录保持者&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;B-有线耳机&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>有线耳机 -R-</title>
-      <link>http://localhost:1313/wired-earphones-r/</link>
-      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wired-earphones-r/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;是 &lt;a href=&#34;https://guanyue134.lofter.com/&#34;&gt;@独&lt;/a&gt; 的生贺，生日快乐~（每年的传统就是拖延啦~）&lt;/p&gt;&#xA;&lt;p&gt;使用了独老师的哨兵向导设定，在这里丢下整齐的传送门：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b53829c6&#34;&gt;束缊请火 上&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b5412eba&#34;&gt;束缊请火 中上&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b666e566&#34;&gt;束缊请火 中&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b67e763c&#34;&gt;束缊请火 中下&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b6d101fa&#34;&gt;束缊请火 下一&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b744678c&#34;&gt;束缊请火 下二&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;（我太勤劳了！）&lt;/p&gt;&#xA;&lt;p&gt;题目灵感是吃梨球的&lt;a href=&#34;https://www.bilibili.com/video/BV1jc411T7rG/&#34;&gt;有线耳机&lt;/a&gt;，虽然感觉是跟这首歌一点关系都没有啦x，但是如果有人没有听到这首歌我真的会很伤心！&lt;/p&gt;&#xA;&lt;p&gt;还会有下半的~&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;以及最重要的前言：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;虽然用的是独老师哨兵向导，但是写着写着可能有奇怪的地方，请不要在意地读下去吧！那是我懒得考究的后果！&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;时间线在独老师之后！&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;以及群号：704137042&lt;/p&gt;&#xA;&lt;p&gt;以及的以及，是的，我又偷懒地复制了之前的前面部分，要我再自己重新打一遍也太累了吧！&lt;/p&gt;&#xA;&lt;p&gt;以及的以及的以及，由于我任性的没有告知任何人的截止时间，当时的B选项胜出！请看到最后，为下一次的更新做出你的选择~&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>有线耳机 -L-</title>
-      <link>http://localhost:1313/wired-earphones-l/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wired-earphones-l/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;是 &lt;a href=&#34;https://guanyue134.lofter.com/&#34;&gt;@独&lt;/a&gt; 的生贺，生日快乐~（每年的传统就是拖延啦~）&lt;/p&gt;&#xA;&lt;p&gt;使用了独老师的哨兵向导设定，在这里丢下整齐的传送门：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b53829c6&#34;&gt;束缊请火 上&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b5412eba&#34;&gt;束缊请火 中上&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b666e566&#34;&gt;束缊请火 中&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b67e763c&#34;&gt;束缊请火 中下&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b6d101fa&#34;&gt;束缊请火 下一&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guanyue134.lofter.com/post/2003afe4_2b744678c&#34;&gt;束缊请火 下二&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;（我太勤劳了！）&lt;/p&gt;&#xA;&lt;p&gt;题目灵感是吃梨球的&lt;a href=&#34;https://www.bilibili.com/video/BV1jc411T7rG/&#34;&gt;有线耳机&lt;/a&gt;，虽然感觉是跟这首歌一点关系都没有啦x，但是如果有人没有听到这首歌我真的会很伤心！&lt;/p&gt;&#xA;&lt;p&gt;还会有下半的~&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;以及最重要的前言：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;虽然用的是独老师哨兵向导，但是写着写着可能有奇怪的地方，请不要在意地读下去吧！那是我懒得考究的后果！&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;时间线在独老师之后！&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;以及群号：704137042&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 修习与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-13/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-13/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  狗狗和狼的区别到底在哪里呢？&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>最高纪录保持者 PART4</title>
-      <link>http://localhost:1313/record-holder-4/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/record-holder-4/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;设定是：&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;芬兰的导游姐姐和环球漂游六月来到芬兰的浪子完&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;顺便宣传一下刚刚想起来的群号：704137042&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>最高纪录保持者 PART3</title>
-      <link>http://localhost:1313/record-holder-3/</link>
-      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/record-holder-3/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;设定是：&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;芬兰的导游姐姐和环球漂游六月来到芬兰的浪子完&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;顺便宣传一下刚刚想起来的群号：704137042&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>最高纪录保持者 PART2</title>
-      <link>http://localhost:1313/record-holder-2/</link>
-      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/record-holder-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;设定是：&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;芬兰的导游姐姐和环球漂游六月来到芬兰的浪子完&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>最高纪录保持者 PART1</title>
-      <link>http://localhost:1313/record-holder-1/</link>
-      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/record-holder-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;是之前群里点的设定，越写越长，就拆开发了。&lt;/p&gt;&#xA;&lt;p&gt;设定是：&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;芬兰的导游姐姐和环球漂游六月来到芬兰的浪子完&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>别问星星现在几点</title>
-      <link>http://localhost:1313/dont-ask-the-star-what-time-it-is/</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dont-ask-the-star-what-time-it-is/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;逆年龄差&lt;/p&gt;&#xA;&lt;p&gt;小兔子生日快乐XD，生日这天就应该享受漂亮姐姐的主动&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>举起双手（绝不）喊投降 -3-</title>
-      <link>http://localhost:1313/raise-hands-and-never-surrender-3/</link>
-      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/raise-hands-and-never-surrender-3/</guid>
-      <description>&lt;h4 id=&#34;演技或许也是生活的必需品&#34;&gt;&#xA;  &lt;strong&gt;演技或许也是生活的必需品&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%bc%94%e6%8a%80%e6%88%96%e8%ae%b8%e4%b9%9f%e6%98%af%e7%94%9f%e6%b4%bb%e7%9a%84%e5%bf%85%e9%9c%80%e5%93%81&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;</description>
-    </item>
-    <item>
-      <title>春天小偷</title>
-      <link>http://localhost:1313/spring-thief/</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/spring-thief/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &amp;gt; &amp;lt; 因为是春天呀！&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>举起双手（绝不）喊投降 -2-</title>
-      <link>http://localhost:1313/raise-hands-and-never-surrender-2/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/raise-hands-and-never-surrender-2/</guid>
-      <description>&lt;h4 id=&#34;糖衣炮弹也要看是谁装的炮弹&#34;&gt;&#xA;  &lt;strong&gt;糖衣炮弹也要看是谁装的炮弹&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e7%b3%96%e8%a1%a3%e7%82%ae%e5%bc%b9%e4%b9%9f%e8%a6%81%e7%9c%8b%e6%98%af%e8%b0%81%e8%a3%85%e7%9a%84%e7%82%ae%e5%bc%b9&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;</description>
-    </item>
-    <item>
-      <title>玻璃杯与朗姆酒</title>
-      <link>http://localhost:1313/glass-and-rum/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/glass-and-rum/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;刷刷碗生日快乐！&lt;del&gt;又写出了一些和自己最初预想不一样的东西&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;如果阅读前篇更好，不读的话也没关系！&lt;/p&gt;&#xA;&lt;p&gt;不过，就算不是生日，也要一直快乐啦~&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;去年今日——&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/today-i-tried-to-kiss-my-friend/&#34;&gt;【粉蓝】今天，我试图亲吻我的好朋友&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/hide-and-seek/&#34;&gt;【粉蓝】捉迷藏&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/renai-ni-nayamu-shoujo/&#34;&gt;【粉蓝】恋爱困难少女&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 请求与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-12/</link>
-      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-12/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  （你们是真的很喜欢总裁啊！）（是真的有那么喜欢吗？！）&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>举起双手（绝不）喊投降 -1-</title>
-      <link>http://localhost:1313/raise-hands-and-never-surrender-1/</link>
-      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/raise-hands-and-never-surrender-1/</guid>
-      <description>&lt;h4 id=&#34;在没必要的地方请不要鼓起多余的干劲&#34;&gt;&#xA;  &lt;strong&gt;在没必要的地方请不要鼓起多余的干劲&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%9c%a8%e6%b2%a1%e5%bf%85%e8%a6%81%e7%9a%84%e5%9c%b0%e6%96%b9%e8%af%b7%e4%b8%8d%e8%a6%81%e9%bc%93%e8%b5%b7%e5%a4%9a%e4%bd%99%e7%9a%84%e5%b9%b2%e5%8a%b2&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 17.瞬</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-17/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-17/</guid>
-      <description>&lt;p&gt;裴珠泫揉了揉眼睛，伸手关掉了导航。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 16.光年</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-16/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-16/</guid>
-      <description>&lt;p&gt;不论钢琴家再怎么自诩是个“成熟、理智、克制的成年人”，小提琴首席还是一眼就看穿了藏在她眉梢下，指甲尖，以及刚刚洗完澡之后，沾湿了发梢的期待。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 担忧与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-11/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-11/</guid>
-      <description>&lt;p&gt;自从孙胜完拥有了这辆马车之后，裴珠泫开始思考这是否真的是件好事。&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>理智与情感 - 苹果糖浆</title>
-      <link>http://localhost:1313/sense-and-sensibility-apple-syrup/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sense-and-sensibility-apple-syrup/</guid>
-      <description>&lt;p&gt;“非常感谢您这次的稿件，下次也拜托老师了。”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>所以我放弃了音乐</title>
-      <link>http://localhost:1313/thats-why-i-gave-up-on-music/</link>
-      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thats-why-i-gave-up-on-music/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  是上次的串字成文。&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>献给阿尔忒弥斯的花束 -楔子-</title>
-      <link>http://localhost:1313/flowers-for-artemis-0/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/flowers-for-artemis-0/</guid>
-      <description>&lt;p&gt;“砰”。&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>傲慢与偏见 - 2</title>
-      <link>http://localhost:1313/pride-and-prejudice-2/</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pride-and-prejudice-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;相信大家会发现，我就是很喜欢，手杖……&lt;/p&gt;&#xA;&lt;p&gt;谁会不喜欢穿着西装配着大衣然后拿着手杖的年轻又阴沉的贵族呢（掩面）&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 14.言语</title>
-      <link>http://localhost:1313/where-the-puppy-ran-14/</link>
-      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-14/</guid>
-      <description>&lt;p&gt;“幸福”到底是什么？&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 困窘与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-10/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-10/</guid>
-      <description>&lt;p&gt;孙胜完用手指绕着魔女的发尾时，忍不住思考，魔女的头发居然长得那么快吗？&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>乌鸦 - 关于吸血鬼情绪波动的观察报告</title>
-      <link>http://localhost:1313/crow-2/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/crow-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;strong&gt;阅前预警：本文是毫无收敛的个人风格，阅读时产生不适或是烦躁是正常的现象，为了个人的愉悦请不要勉强自己，比心&lt;/strong&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>理智与情感 - 樱桃酸奶</title>
-      <link>http://localhost:1313/sense-and-sensibility-cherry-yogurt/</link>
-      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sense-and-sensibility-cherry-yogurt/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;当一个人社畜的压力积蓄到一定程度会做些什么？&lt;/p&gt;&#xA;&lt;p&gt;：写ABO&lt;/p&gt;&#xA;&lt;p&gt;：写幼女ABO&lt;/p&gt;&#xA;&lt;p&gt;：为了让一切合理试着稍微拉高了一点点年龄&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 15.近</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-15/</link>
-      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-15/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  水獭真可爱呀！&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 道别与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-9/</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-9/</guid>
-      <description>&lt;p&gt;孙胜完尽可能地蹑手蹑脚，但还是吵醒了小小的魔女。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One Last Kiss（下）</title>
-      <link>http://localhost:1313/one-last-kiss-2/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/one-last-kiss-2/</guid>
-      <description>&lt;p&gt;“你的身影，已经烙在我心里的放映机里。”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>接下来就该拷问那个混蛋作家了</title>
-      <link>http://localhost:1313/review-sense-and-sensibility-2/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/review-sense-and-sensibility-2/</guid>
-      <description>&lt;p&gt;作为惯例在最前面 &lt;a href=&#34;https://youfan99.lofter.com/&#34;&gt;@幼凡&lt;/a&gt; 同学&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>最开始的起点只是一碗红豆刨冰</title>
-      <link>http://localhost:1313/review-sense-and-sensibility-1/</link>
-      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/review-sense-and-sensibility-1/</guid>
-      <description>&lt;p&gt;这个系列不知道会有多少，也不知道会更多久，只是看我的心情是不是想水一下而已x&lt;/p&gt;&#xA;&lt;p&gt;非常感谢 &lt;a href=&#34;https://youfan99.lofter.com/&#34;&gt;@幼凡&lt;/a&gt; 在这个周五用一碗红豆刨冰开启了这个系列，所以我们今天聚在这里，是为了庆祝……啊不是。&lt;/p&gt;&#xA;&lt;p&gt;总之就进入正题吧~&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 关心与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-8/</link>
-      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-8/</guid>
-      <description>&lt;p&gt;医生对着镜子调整了一下帽子的高度和方向，用手杖轻轻敲了敲地面，以提醒魔女和好友她的离去：“有什么需要我带的吗？”&lt;/p&gt;&#xA;&lt;p&gt;她的好友保持着阅读的姿势，挥了挥手：“什么都没有。你快去快回，不让你的魔女等着急了，才是最好的事。”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 14.安全距离</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-14/</link>
-      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-14/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  不知道为什么，这篇的风格逐渐变成都市恋爱轻喜剧了&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 13.梦</title>
-      <link>http://localhost:1313/where-the-puppy-ran-13/</link>
-      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-13/</guid>
-      <description>&lt;p&gt;裴珠泫的家像极了裴珠泫。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 冷战与魔女（下）</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-side-story-2/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-side-story-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;是给 &lt;a href=&#34;https://guanyue134.lofter.com/&#34;&gt;@独&lt;/a&gt; 的生贺&lt;/p&gt;&#xA;&lt;p&gt;虽然迟了……………………不知道多久，但是不重要，剩下的部分还是wp见吧~&lt;/p&gt;&#xA;&lt;p&gt;不要在wp评论啦（懒人是不会去那边看的x&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>理智与情感 - 红豆刨冰</title>
-      <link>http://localhost:1313/sense-and-sensibility-patbingsu/</link>
-      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sense-and-sensibility-patbingsu/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;当一个人社畜的压力积蓄到一定程度会做些什么？&lt;/p&gt;&#xA;&lt;p&gt;：写ABO&lt;/p&gt;&#xA;&lt;p&gt;：写幼女ABO&lt;/p&gt;&#xA;&lt;p&gt;：明明只是pwp怎么突然有了剧情线？&lt;/p&gt;&#xA;&lt;p&gt;：呀！wp看完的感想倒是回来这里评论啦！&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>傲慢与偏见 - 1</title>
-      <link>http://localhost:1313/pride-and-prejudice-1/</link>
-      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pride-and-prejudice-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;俗话说，当一个人参考了一些设定，但又没有完全参考，那么此时的参考其实就是白参考。&lt;/p&gt;&#xA;&lt;p&gt;本文如是。&lt;/p&gt;&#xA;&lt;p&gt;而俗话又说，当一个人既想要表达时间地点是虚构的，又不想要说得那么透彻，那么此时的文前碎碎念就是最后的底线。&lt;/p&gt;&#xA;&lt;p&gt;本文亦如是。&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 手杖与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-7/</link>
-      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-7/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  工作真累啊~~~&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>问卷调查-反馈篇</title>
-      <link>http://localhost:1313/survey-results/</link>
-      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/survey-results/</guid>
-      <description>&lt;p&gt;首先非常感谢大家参与我的问卷调查！（虽然这个调查以一个非常不专业的形式，用一种非常不专业的表述，在一个非常不专业的人士的主导下进行，但是我真的收获了非常多！）&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>问卷调查</title>
-      <link>http://localhost:1313/survey/</link>
-      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/survey/</guid>
-      <description>&lt;p&gt;1.看文会在意粉1或是蓝1吗？&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One Last Kiss（上）</title>
-      <link>http://localhost:1313/one-last-kiss-1/</link>
-      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/one-last-kiss-1/</guid>
-      <description>&lt;p&gt;“无法停止那将要失去什么的预感。”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 13.却步</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-13/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-13/</guid>
-      <description>&lt;p&gt;裴珠泫有的时候觉得自己并不了解孙胜完。&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>闲聊</title>
-      <link>http://localhost:1313/chit-chat-13-sentinels-aegis-rim/</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chit-chat-13-sentinels-aegis-rim/</guid>
-      <description>&lt;p&gt;这两个礼拜把《十三机兵防卫圈》给打完了，真的是神作！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>理智与情感 - 桃子布丁</title>
-      <link>http://localhost:1313/sense-and-sensibility-peach-pudding/</link>
-      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sense-and-sensibility-peach-pudding/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;当一个人社畜的压力积蓄到一定程度会做些什么？&lt;/p&gt;&#xA;&lt;p&gt;：写ABO&lt;/p&gt;&#xA;&lt;p&gt;：写幼女ABO&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 亲吻与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-6/</link>
-      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-6/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  好久不见（也没有那么久（但是还挺久（算啦，看我更新的人难道会觉得这样的一段日子是久吗？&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 骑士与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-5/</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-5/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;-拯救选择恐惧症患者大作战-&lt;/p&gt;&#xA;&lt;p&gt;评论的时候把下周想看什么告诉我吧&lt;/p&gt;&#xA;&lt;p&gt;虽然我也不一定会照着写，但是至少帮助我减少选择的恐惧……！&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 12.邻座</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-12/</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-12/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;因为见到两个人的约会，所以就写了约会，这种逻辑没有问题吧？&lt;/p&gt;&#xA;&lt;p&gt;等一下啦！是回家了的回家了的！我都换行了就是场景切换了啦！&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;什么狗屁逻辑了啦！&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 画手配图</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-drawing/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-drawing/</guid>
-      <description>&lt;p&gt;XD，呜哇！非常感谢！&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;都说写手最快乐的事情就是钓到画手配图（不是）&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;有人给我画图的日子，就已经是很特别的日子啦ヾ(✿ﾟ▽ﾟ)ノ&lt;/p&gt;&#xA;&lt;p&gt;能让大家看得开心，我这边才是感激不尽(*´▽｀)ノノ&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 12.雨伞</title>
-      <link>http://localhost:1313/where-the-puppy-ran-12/</link>
-      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-12/</guid>
-      <description>&lt;p&gt;孙胜完很喜欢下雨。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 森林与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-4/</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-4/</guid>
-      <description>&lt;p&gt;严格意义上，孙胜完还是接触过一些幼崽的。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>孙胜完你昨天晚上到底把我家钥匙放在哪里了？</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-side-story-2/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-side-story-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;原曲：&lt;a href=&#34;https://www.bilibili.com/video/BV1rs411R7Vz/&#34;&gt;点我点我&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;一些碎碎念：&lt;/p&gt;&#xA;&lt;p&gt;因为按照原曲设定，7就是指挥家，感觉上是很适合兔兔那篇的设定~&lt;/p&gt;&#xA;&lt;p&gt;本来是想当做单纯短篇水一下的，这样的话就当做是番外好啦哈哈哈。&lt;/p&gt;&#xA;&lt;p&gt;（话说原版张先生是有&lt;a href=&#34;https://www.bilibili.com/video/BV1ws411a7j8/&#34;&gt;反击&lt;/a&gt;哦）&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 冷战与魔女（上）</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-side-story-1/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-side-story-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;是给 &lt;a href=&#34;https://guanyue134.lofter.com/&#34;&gt;@独&lt;/a&gt; 的生贺&lt;/p&gt;&#xA;&lt;p&gt;虽然迟了但是不重要，开心的日子就可以是生日嘛！（胡言乱语&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;本来想要一篇完的，但是好像写着写着要变成上下了&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>理智与情感 - 西瓜汽水</title>
-      <link>http://localhost:1313/sense-and-sensibility-watermelon-juice/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sense-and-sensibility-watermelon-juice/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;当一个人社畜的压力积蓄到一定程度会做些什么？&lt;/p&gt;&#xA;&lt;p&gt;：写ABO&lt;/p&gt;&#xA;&lt;p&gt;：写幼女ABO&lt;/p&gt;&#xA;&lt;p&gt;：为了让一切合理试着稍微拉高了一点点年龄&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 雨与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-3/</link>
-      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-3/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;谢谢大家祝我生日快乐！（虽然是昨天）&lt;/p&gt;&#xA;&lt;p&gt;因为每个回都是“谢谢”所以偷懒不回啦x&lt;/p&gt;&#xA;&lt;p&gt;在这里一起谢掉不是还减少了重复沟通嘛！&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 月兔回旋于空中</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-side-story-1/</link>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-side-story-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;啊~祝我生日快乐！&lt;/p&gt;&#xA;&lt;p&gt;之前被点的题目，写了点分手的场景，一直想补完，借着自己的生日把这个写完啦~XD&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 契约与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-2/</link>
-      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  满足私欲是更新的原动力x&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>What if…狼与魔女 - 火与魔女</title>
-      <link>http://localhost:1313/what-if-the-wolf-and-the-witch-1/</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-if-the-wolf-and-the-witch-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;谢谢 &lt;a href=&#34;https://garfi14.lofter.com/&#34;&gt;@Garfi&lt;/a&gt; 老师出借设定，&lt;del&gt;虽然现在的设定已经完全天壤之别、云泥之别、除了还是这两个人之外，可能没有任何相同之处了吧……&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;但还是谢谢fifi老师！&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;唯一预警：逆年龄注意！体型差注意！&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>恋爱困难少女</title>
-      <link>http://localhost:1313/renai-ni-nayamu-shoujo/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/renai-ni-nayamu-shoujo/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;bjh生日快乐！&lt;/p&gt;&#xA;&lt;p&gt;为了奖励辛苦了一年的bjh（和我自己），送上一只哭唧唧的狗狗XD&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>捉迷藏</title>
-      <link>http://localhost:1313/hide-and-seek/</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hide-and-seek/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;粉蓝日好耶！ヾ(✿ﾟ▽ﾟ)ノ&lt;/p&gt;&#xA;&lt;p&gt;（如果阅读了前篇，应该会更好理解）&lt;/p&gt;&#xA;&lt;p&gt;（但如果不读应该也没事啦）&lt;/p&gt;&#xA;&lt;p&gt;（数字不是无意义的）（不要说太多啊！）（是在这里玩什么自言自语的游戏啊(╯‵□′)╯︵┻━┻）&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 11.并肩？</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-11/</link>
-      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-11/</guid>
-      <description>&lt;p&gt;如果说习惯一个人需要一段时间的话，习惯另一个人的陪伴也需要同样的努力吗？&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>杂谈-社畜与异世界犬科动物</title>
-      <link>http://localhost:1313/the-corporate-slave-and-the-otherworldly-canine/</link>
-      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-corporate-slave-and-the-otherworldly-canine/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;格式说明：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;1.最新更新的部分会放在文章最前，附以日期。&lt;/p&gt;&#xA;&lt;p&gt;2.考虑到不是成篇的完整文章，不打tag了。&lt;/p&gt;&#xA;&lt;p&gt;3.主要内容是这样单句的形式，可能会很乱，没有时间线。&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;4.其实只是来安利漫画的。&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>经常请吃饭的漂亮妹妹</title>
-      <link>http://localhost:1313/the-pretty-girl-who-often-treats-me/</link>
-      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-pretty-girl-who-often-treats-me/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;del&gt;只是借用了题目，这个电视剧完全没有看过&lt;/del&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>今天，我试图亲吻我的好朋友</title>
-      <link>http://localhost:1313/today-i-tried-to-kiss-my-friend/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/today-i-tried-to-kiss-my-friend/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;刷刷碗生日快乐XD&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;似乎写出了和我想要的不同的东西，只能期待大家阅读愉快了（&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 11.答问</title>
-      <link>http://localhost:1313/where-the-puppy-ran-11/</link>
-      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-11/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;悄悄推荐歌曲&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1ju41197Kt/&#34;&gt;难过233秒-ChiliChill&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;是听着歌写的这一章&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;结果好像跟这首歌的感觉又不一样，好失败orz&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 10.床头灯</title>
-      <link>http://localhost:1313/where-the-puppy-ran-10/</link>
-      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-10/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;在这里放上一朵小花，&lt;/p&gt;&#xA;&lt;p&gt;它不需要浇水，也不会长大，&lt;/p&gt;&#xA;&lt;p&gt;但这又什么关系呢？&lt;/p&gt;&#xA;&lt;p&gt;我很喜欢它。&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 10.追及问题</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-10/</link>
-      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-10/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;想说点什么&lt;/p&gt;&#xA;&lt;p&gt;但又不知道该说什么&lt;/p&gt;&#xA;&lt;p&gt;阻碍粉蓝在一起的罪魁祸首竟是我自己x&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 9.恍惚</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-9/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-9/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;其实最开始不是想这样的剧情的，可是怎么就……&lt;/p&gt;&#xA;&lt;p&gt;就还蛮突然的。&lt;/p&gt;&#xA;&lt;p&gt;不是猫，不是老虎，不是狗狗，是被雨淋湿的小兔子XD&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>乌鸦 - 关于吸血鬼体温变化的研究报告</title>
-      <link>http://localhost:1313/crow-1/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/crow-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;strong&gt;阅前预警：本文是毫无收敛的个人风格，阅读时产生不适或是烦躁是正常的现象，为了个人的愉悦请不要勉强自己，比心&lt;/strong&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 9.泪</title>
-      <link>http://localhost:1313/where-the-puppy-ran-9/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-9/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;del&gt;惊喜就是打开文档发现一个月前的自己已经写了一半的更新，并且和现在的自己想的后续一模一样&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;低情商说法：毫无长进&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 8.一步</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-8/</link>
-      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-8/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  年会抽到了二等奖就是很开心&amp;gt; &amp;lt;！&#xA;&lt;del&gt;（打开文档的时候才发现原来更新是一个月前的事情了）（年前真的很忙！）（辛苦大家等我了呜呜）（真的有人在等吗）&lt;/del&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>姬佬还是女爱豆</title>
-      <link>http://localhost:1313/les-or-idol/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/les-or-idol/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;原梗出自 &lt;strong&gt;《律政俏佳人》&lt;/strong&gt;，&lt;a href=&#34;https://www.bilibili.com/video/BV1oX4y1K79S/&#34;&gt;there right there&lt;/a&gt;片段&lt;/p&gt;&#xA;&lt;p&gt;就是觉得ssw超级适合这个所以改了个词&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;说不定会钓到什么太太给我做个手书视频之类的&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;怎么突然就发布了我格式还没调整啊！（花了巨长时间调格式orz&lt;/del&gt;  &lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>夜莺与玫瑰</title>
-      <link>http://localhost:1313/the-nightingale-and-the-rose/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-nightingale-and-the-rose/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;和《夜莺与玫瑰》已经完全完全完全没有关系了&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;其实我本来是想要有关系的……&lt;/del&gt; 写着写着，哈哈！&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>标准咒语，几级？ -塔朗泰拉舞-</title>
-      <link>http://localhost:1313/the-standard-book-of-spells-grade-x-4/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-standard-book-of-spells-grade-x-4/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;del&gt;逐渐暴露出没有做详细设定但想写详细梗的劣势了&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;其实还没有定好她们什么时候在一起的，但是因为很喜欢两个人暧昧的状态就先一直暧昧下去吧！&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;  &lt;del&gt; 好想试着写能把完弄哭的梗但暂时想不到什么好梗x  &lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 7.模糊</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-7/</link>
-      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-7/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  时隔很久回来了！&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>租房</title>
-      <link>http://localhost:1313/the-tenant-and-the-house/</link>
-      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-tenant-and-the-house/</guid>
-      <description>&lt;p&gt;就是说一些随想&lt;/p&gt;&#xA;&lt;p&gt;一些&lt;strong&gt;克系&lt;/strong&gt;随想&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>标准咒语，几级？ -愈合如初-</title>
-      <link>http://localhost:1313/the-standard-book-of-spells-grade-x-3/</link>
-      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-standard-book-of-spells-grade-x-3/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;其实最近超级想写ABO设定的，word文档都建好了，&lt;del&gt;结果因为可以设定的可能性太多了而一字未动&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;同样一字未动的还有另外一个不知道想写中篇还是短篇的题目，这个进度比较快，&lt;del&gt;我已经建好合集了&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;在写了！在写了！&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 6.摇摆</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-6/</link>
-      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-6/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  笼中窥梦好好玩鸭！流程也短，2-3小时，还在打折，对视觉错觉解密感兴趣的话可以去试试XD&#xA;如果喜欢同类型解密的话，我也推荐carto！也是超级可爱的，流程大概4-5小时的样子~&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 8.回忆</title>
-      <link>http://localhost:1313/where-the-puppy-ran-8/</link>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-8/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;最近又重温了《自远方来》Come From Away，b站直接搜就可以啦。真的是从头又哭又笑看到尾……非常非常棒！希望大家去看看！&lt;del&gt;并且写观后感给我&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;不出意外的话明天应该更新小兔子。&lt;del&gt;出意外的话就后天更新&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;以及看了《遗言博物馆》，觉得这句话非常棒，但是不知道该怎么用……所以出于分享的心记录在这里（也避免我自己忘记）：&lt;/p&gt;&#xA;&lt;p&gt;“不要为我哭泣，我将前往音乐诞生的地方。”&lt;/p&gt;&#xA;&lt;p&gt;最后的废话：这两天在循环泰妍姐的歌，11:11和四季的歌词看了好想写……但是我又还没到写虐文的心情！可是真的好适合写BE，可我不想写BE，可是真的好适合，可我……&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Free Hug（下）</title>
-      <link>http://localhost:1313/free-hug-3/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/free-hug-3/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;找太太画了可爱的头像！&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;就是为了给大家看可爱的头像所以更新了&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;끝！&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>如何在FF14里cos孙老师？</title>
-      <link>http://localhost:1313/chit-chat-how-to-cos-ssw-in-ff14/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chit-chat-how-to-cos-ssw-in-ff14/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>标准咒语，几级？ -荧光闪烁-</title>
-      <link>http://localhost:1313/the-standard-book-of-spells-grade-x-2/</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-standard-book-of-spells-grade-x-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;所以你们到底是喜欢hpau，还是喜欢这种一篇完结，还是喜欢这种甜就是了的类型，还是什么呀！！为什么这系列的点赞会那么多！我不懂！为什么嘛！其他不好嘛！&lt;/p&gt;&#xA;&lt;p&gt;嘤QAQ&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;再及，这下不是一礼拜才更新一次了吧！我缩短时间了╭(╯^╰)╮&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>标准咒语，几级？ -清理一新-</title>
-      <link>http://localhost:1313/the-standard-book-of-spells-grade-x-1/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-standard-book-of-spells-grade-x-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;拉文克劳X赫奇帕奇&lt;/p&gt;&#xA;&lt;p&gt;哪个CP能逃过HPAU呢！&lt;/p&gt;&#xA;&lt;p&gt;食用提醒：没有时间线这回事（指想到哪里写哪里）；没有逻辑这回事（指想写什么写什么）；没有连贯性（指每章都可以独立）（大概）；没有客观性这回事（指自由发挥主观性极强，赫奇帕奇人该站起来了！）（才不是因为自己是赫奇帕奇所以把完也写成赫奇帕奇）&lt;del&gt;（是又怎么样！）&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Free Hug（中？）</title>
-      <link>http://localhost:1313/free-hug-2/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/free-hug-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;del&gt;又越写越长！&lt;/del&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 7.眼</title>
-      <link>http://localhost:1313/where-the-puppy-ran-7/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-7/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  哎呀我不想做目录链接啦！相信聪明的大家一定会点开合集看前文的对不对（瘫&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Free Hug（上）</title>
-      <link>http://localhost:1313/free-hug-1/</link>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/free-hug-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;灵感是来自这个&lt;a href=&#34;https://www.bilibili.com/video/BV1yq4y197hE/&#34;&gt;视频&lt;/a&gt;！ 不知道能不能打开，不行的话，在b站搜索“蒙上眼睛，给路过的心碎陌生人一个拥抱”。看的时候觉得超级适合刷刷碗的！&lt;/p&gt;&#xA;&lt;p&gt;今天的碎碎念好像有点多，不要嫌我烦啦！&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;这次也会不拖长篇幅的&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 5.接近</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-5/</link>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-5/</guid>
-      <description>&lt;p&gt;该如何判断恋人与朋友之间相差的距离呢？&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 6.拥抱</title>
-      <link>http://localhost:1313/where-the-puppy-ran-6/</link>
-      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-6/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  可恶，怎么就礼拜天晚上了，我完全没有休息够啊！&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 4.远</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-4/</link>
-      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-4/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;del&gt;是说这里能安利到的话……要不要试试玩FF14，我超厉害的，可以带豆芽&lt;/del&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 5.卧室</title>
-      <link>http://localhost:1313/where-the-puppy-ran-5/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-5/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;del&gt;呜哇，同时更两篇有点头晕&lt;/del&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 3.近？</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-3/</link>
-      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-3/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  魔偶马戏团真的太好看了！怎么会有这么神的漫画啊！&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 2.遥远</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-2/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-2/</guid>
-      <description>&lt;p&gt;她好像一点都没变。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小兔子选择了倾听 1.极远</title>
-      <link>http://localhost:1313/the-bunny-has-chosen-to-listen-1/</link>
-      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;del&gt;因为不确定会写多少总之先开一个新的合集&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;会填坑的！&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 4.袖口</title>
-      <link>http://localhost:1313/where-the-puppy-ran-4/</link>
-      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-4/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  什么时候加班才是尽头&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 3.笑容</title>
-      <link>http://localhost:1313/where-the-puppy-ran-3/</link>
-      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-3/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  ost真的好甜（好甜！&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 2.茶水间</title>
-      <link>http://localhost:1313/where-the-puppy-ran-2/</link>
-      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;del&gt;越写越长&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;可本来就是想写中篇不是吗！&lt;/del&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>狗狗逃跑之处 1.面包店</title>
-      <link>http://localhost:1313/where-the-puppy-ran-1/</link>
-      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/where-the-puppy-ran-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  新的ost真的太甜啦！&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>雨（下！）</title>
-      <link>http://localhost:1313/rain-3/</link>
-      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rain-3/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  끝！&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>雨（中？）</title>
-      <link>http://localhost:1313/rain-2/</link>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rain-2/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;del&gt;&lt;strong&gt;越写越长……&lt;/strong&gt;&lt;/del&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>雨（上）</title>
-      <link>http://localhost:1313/rain-1/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rain-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;del&gt;&lt;strong&gt;越写越长……&lt;/strong&gt;&lt;/del&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>大人的恋爱法 - Chapter 2</title>
-      <link>http://localhost:1313/the-love-principles-of-grown-ups-1/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-love-principles-of-grown-ups-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;预警：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;炮友设定&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;现代paro&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;可能大概应该会有5.0人物出现？&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;光♀敏&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;阿莉琳要素出没&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>大人的恋爱法 - Chapter 1</title>
-      <link>http://localhost:1313/the-love-principles-of-grown-ups-1/</link>
-      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-love-principles-of-grown-ups-1/</guid>
-      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;预警：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;炮友设定&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;现代paro&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;可能大概应该会有5.0人物出现？&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;光♀敏&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>关于</title>
-      <link>http://localhost:1313/docs/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/about/</guid>
-      <description>关于这里 # 停车场 &amp;amp; 备份站 大概来这里的绝大多数人可以从 Lofter 上获知更新，但如果你想直接订阅这个网站的话，请在任意 RSS 阅读器（如 Inoreader）里</description>
-    </item>
-    <item>
-      <title>归档</title>
-      <link>http://localhost:1313/docs/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/archive/</guid>
-      <description>归档 # 2024-05-13 救命啊，同居人变成猫了我该怎么办？！-3- 2024-05-11 救命啊，同居人变成猫了我该怎么办？！-2- 2024-05-09 救命啊，同居人变成猫了我该怎么办？！-1- 2024-04-18</description>
-    </item>
-    <item>
-      <title>留言板</title>
-      <link>http://localhost:1313/docs/messages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/messages/</guid>
-      <description>留言板 # 或者说，是（可匿名的）提问箱？</description>
-    </item>
+    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>救命啊，同居人变成猫了我该怎么办？！-3-</title>
+        <link>http://localhost:1313/my-roommate-has-become-a-cat-3/</link>
+        <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-roommate-has-become-a-cat-3/</guid>
+        <description>杂货店老板 http://localhost:1313/my-roommate-has-become-a-cat-3/ -&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  睡醒了就会回复评论的（倒头就睡）
+&lt;/blockquote&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;什么意思？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完直勾勾地盯着屏幕，仿佛感受不到身边那道来自裴珠泫的视线。&lt;/p&gt;
+&lt;p&gt;她听到了？为什么当时转移了话题？为什么现在又再次提出来？我该说吗？我不该说吗？明明只是在内心里动摇，怎么手心却慢慢渗出了那么多汗？一旦错过了做出反应的最佳时机，后面的每一分每一秒都像是精神上的自我凌迟。该装傻吗？该反问吗？该怎么做才是正确答案呢？&lt;/p&gt;
+&lt;p&gt;口干舌燥的孙胜完干巴巴地挤出一句：“什……什么？”&lt;/p&gt;
+&lt;p&gt;她不敢转头，怕看见变成猫的裴珠泫也露出失望的眼神。&lt;/p&gt;
+&lt;p&gt;只是白色的布偶猫并没有在屏幕上再次敲打出让人动摇的词句，也没有发出让人恍神的猫叫。她只是踩着无声的脚步走了过来，贴在孙胜完的身边，用那个小小的脑袋碰了碰孙胜完的手臂，像是在示意对方摸摸自己的脑袋。&lt;/p&gt;
+&lt;p&gt;这个时候，你到底在想些什么呢？&lt;/p&gt;
+&lt;p&gt;孙胜完生气地发现就算在这样的情况下，自己还是会忍不住满足对方的想法。&lt;/p&gt;
+&lt;p&gt;她一边摸着裴珠泫毛绒绒的脑袋，一边对自己感到失望。&lt;/p&gt;
+&lt;p&gt;为什么我说不出口呢？她想。&lt;/p&gt;
+&lt;p&gt;为什么我总想要等到一切都是肯定的时候，才敢做些什么呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;还以为闹了这么一通，裴珠泫会不愿意在自己房间睡觉了。&lt;/p&gt;
+&lt;p&gt;孙胜完维持着近乎自我惩罚式的沉默，直到准备关上门的时候，才发现白猫一动不动地蹲在门口，一脸“你干什么？要把我关在门外吗？”的质问。&lt;/p&gt;
+&lt;p&gt;只跟人类模样的裴珠泫经历过冷战的孙胜完一时没能反应过来，漏了个小小的门缝，就让柔软的猫找到了可乘之机。等孙胜完转过头的时候，对方已经俨然一副“我现在就要睡觉，谁吵醒我就会被我挠花”的严肃模样，威严不可亵渎。&lt;/p&gt;
+&lt;p&gt;好吧，我还能怎么办呢？&lt;/p&gt;
+&lt;p&gt;孙胜完想跨过正在舒展身体的白色猫咪，对方却仿佛预判了她的行动，一个翻身滚到了里面。&lt;/p&gt;
+&lt;p&gt;白色的后脑勺一动不动，坚定地表达了自己的想法。&lt;/p&gt;
+&lt;p&gt;孙胜完无奈地躺了下来。在猫一身毛要不要盖被子，和虽然是猫也是人应该一样怕冷两种想法之间思来想去，最后还是决定把床上的毛毯扯过来，轻轻地盖在对方身上。&lt;/p&gt;
+&lt;p&gt;背对着她的白色小猫呼吸规律又平静。&lt;/p&gt;
+&lt;p&gt;这种事情应该可以鼓起勇气了吧？孙胜完想。她藏在被子下的手紧张地交握成拳，用力地要在自己的手掌心留下深深的指甲印。“我喜欢你”，不对，那个时候连主语都没有，所以应该是“喜欢你”。嗯，先张嘴，然后发音……这么迟了，说不定会吵醒她，不出声的话应该也能算吧？说到底，这种事情本来就不需要太在意科学依据吧！&lt;/p&gt;
+&lt;p&gt;……好，那么先从张开嘴开始。&lt;/p&gt;
+&lt;p&gt;她甚至都没有和她对视，光是想到要说出这句话，心跳就快如擂鼓，连带着全身都紧绷起来。关灯的时间过去了太久，以至于孙胜完的双眼都适应了黑暗，能够看见猫的轮廓，后脑勺和两只耳朵。&lt;/p&gt;
+&lt;p&gt;她做了两个深呼吸，闭上眼睛又睁开循环了三次，双手之间换了四个姿势，决定数到五就开口。&lt;/p&gt;
+&lt;p&gt;她张嘴。喜，欢，你。三个字像是黏在了喉咙里，怎么用力都撕扯不出来，想要使劲就能回忆起那些若即若离的瞬间，像是缺了一道关键论证的问答题，“所以”不出那个确定的结果，也根本没有可靠的“综上所述”。最后连“答”都变得摇摇欲坠，只剩下那个胆小的自己，愈发显眼，愈发后退。&lt;/p&gt;
+&lt;p&gt;猫耳朵在黑暗里抖了抖。最后什么也没有。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完想，什么都没有。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;如果非要说变成猫有什么好处的话，那就是像这样闹了微妙的别扭之后，也不会因为对视或是接触而感到尴尬了。&lt;/p&gt;
+&lt;p&gt;当然了，确切地说，主要是孙胜完觉得自己不那么尴尬了。&lt;/p&gt;
+&lt;p&gt;猫罐头和猫粮买了可以吃到裴珠泫以猫的模样再生活半年的量，但身为偶像组合队长的布偶猫除了最开始的放纵之外，在变成猫的第三天就恢复了身材管理。除了饭前会让孙胜完系上围兜这种可爱行径之外，还会郑重地用自己的爪子推上卫生间的门，掩盖自己上厕所这件事。&lt;/p&gt;
+&lt;p&gt;孙胜完走神地想，要是以裴珠泫为主角经营一个布偶猫频道的话，应该很快也会凭借着超猫的智慧、冷淡的眼神和偶尔的犯蠢迅速走红吧？&lt;/p&gt;
+&lt;p&gt;当然了，如果能够不要在自己帮她铲屎的时候一脸错杂地看着自己就更好了。&lt;/p&gt;
+&lt;p&gt;原本今天的孙胜完没有行程，但是鉴于和裴珠泫处于同一空间实在有些精神折磨，她在下午约了普拉提老师，出门的时候在裴珠泫谴责的眼神之下差点没有行个大礼祈求对方的原谅。裴珠泫说不上是什么情绪的“哼”了一声，熟悉得让孙胜完以为对方已经变回来了。可偷偷瞥过去的时候，裴珠泫还是一只高傲、矜持又冷漠的小猫，只有微微摇动的尾巴尖在偷偷泄露猫咪的心。&lt;/p&gt;
+&lt;p&gt;要不再等等我吧？孙胜完想，等我变得更加勇敢一点就好了。&lt;/p&gt;
+&lt;p&gt;猫没有做过多的表示，踩着猫步就回去了。&lt;/p&gt;
+&lt;p&gt;孙胜完坐在电梯里的时候忍不住想，说猫走猫步本来是歧义的句子吧？就像说人走人步一样……可如果是人变成的猫呢？那用来这么形容也是没问题的吧？说到底，这种规则又是谁在制定的呢？&lt;/p&gt;
+&lt;p&gt;这个无厘头又小小的疑问在孙胜完运动的时候也没有被甩出她的大脑。&lt;/p&gt;
+&lt;p&gt;悄悄相反，她甚至越想越觉得有意义，迫切地想要发点什么信息给什么人表达一下内心的好奇之情。第一个出现在脑海里的人又是裴珠泫。可惜裴珠泫队长目前正是一只小猫，不仅完全不能回答自己的问题，估计还会翻自己一个小小的白眼，并且提出另一个更加直击心灵的问题。&lt;/p&gt;
+&lt;p&gt;孙胜完沉重地叹了口气。&lt;/p&gt;
+&lt;p&gt;老天啊，你当初怎么不把我变成小狗呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完回家的时候，裴珠泫正在看电视。&lt;/p&gt;
+&lt;p&gt;她在脱鞋的时候想到这句话，突然有种一切生活都照常的错觉。变成白色小猫的裴珠泫也依旧会走到她的身边，也会用蹭蹭腿来表达“你回来了”，也会打个哈欠来表达自己等了很久有点累了。&lt;/p&gt;
+&lt;p&gt;只不过这个房间唯一会说话的人类反而才是丧失语言系统的那一个。&lt;/p&gt;
+&lt;p&gt;她伸手又缩回手，最后轻轻地拍了拍白色小猫的背。&lt;/p&gt;
+&lt;p&gt;在裴珠泫准备转身走的时候，失效已久的声带恢复了功能。&lt;/p&gt;
+&lt;p&gt;“裴珠泫，”孙胜完觉得自己的声音有种古怪的陌生感。要是能用生锈来形容声音的话，她觉得自己的喉咙正因为太过多样和复杂的情感而锈迹斑斑。情歌里可以用声音表达爱意，但离开了那层音乐的伪装，想要诚心诚意地表达内心的爱意竟然如此艰难，“喜欢你。”&lt;/p&gt;
+&lt;p&gt;她想要这么说的。&lt;/p&gt;
+&lt;p&gt;她还想要说，我喜欢你每次对我耍赖，让我觉得我很特别，我喜欢你总是要站在我的身边，让我觉得我很重要，我喜欢你从来都看着我的眼睛说话，让我觉得我被珍惜，我喜欢你的眼睛，不是因为它本来就那么漂亮，而是因为这是你的眼睛，我喜欢你的笑容，不是因为它多么让人心跳，而是因为你笑的原因总是我。&lt;/p&gt;
+&lt;p&gt;我喜欢你，想要我说多少次都可以。&lt;/p&gt;
+&lt;p&gt;她真的想要这么说的。&lt;/p&gt;
+&lt;p&gt;可是突然飘过的一团猫让她打了一个大大的喷嚏，于是那些词语和句子都消散无踪，从嘴里说出口的话变成了：“裴珠泫，你知道你掉毛很严重吗？”&lt;/p&gt;
+&lt;p&gt;走到一半的猫咪身体一僵，转过身来用可以说是眼睛喷火的表情死死地蹬着孙胜完。&lt;/p&gt;
+&lt;p&gt;孙胜完又打了一个喷嚏：“……要帮你梳梳毛吗？”&lt;/p&gt;
+&lt;p&gt;“……喵！”&lt;/p&gt;
+&lt;p&gt;看来是非常健康而又有力的一句肯定的回答呢。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完在宿舍楼下的二十四小时便利店里竟然真的找到了宠物用具。&lt;/p&gt;
+&lt;p&gt;搞不好现在养宠物的人比自己想象中的要多很多？孙胜完离开超市的时候，袋子里不仅有宠物梳子，还有猫抓板、逗猫棒，甚至不知道怎么回事就听信了店员的谗言，买了两公斤的宠物沐浴液（还附带了一斤的赠品）。&lt;/p&gt;
+&lt;p&gt;直到在裴珠泫面前展示并介绍自己的购物成果时，她才意识到自己的立场如此坚定又不坚定。&lt;/p&gt;
+&lt;p&gt;她支支吾吾地试图解释：“主要还是那个人太会推销了……而且我们现在也确实不知道怎么办才好嘛。”&lt;/p&gt;
+&lt;p&gt;裴珠泫一脸不信任，用爪子戳穿了孙胜完试图通过猫抓板遮掩住的猫包和猫衣服。&lt;/p&gt;
+&lt;p&gt;孙胜完眨眨眼：“这个是赠品。”&lt;/p&gt;
+&lt;p&gt;猫又指了指结算单上的数字。&lt;/p&gt;
+&lt;p&gt;无处可逃的暂时养猫人只好坦白从宽：“这个……最近天气忽冷忽热，我怕你冷嘛。”她小声地补充，“人类的时候就怕冷，变成猫冷了我都不能第一时间给你暖宝宝。”&lt;/p&gt;
+&lt;p&gt;裴珠泫看上去做了一番激烈的思想斗争，叼着猫衣服放在了垃圾桶旁边。&lt;/p&gt;
+&lt;p&gt;这样的妥协已经远超孙胜完的预料了。&lt;/p&gt;
+&lt;p&gt;她还以为裴珠泫会什么都不要呢。&lt;/p&gt;
+&lt;p&gt;只不过白色布偶也没有这么快就接受所有的条件。她坐在那个沐浴液前面发呆。哪怕看不见她的表情，孙胜完也能够感受到对方身上突然产生的一阵浓烈的害羞。&lt;/p&gt;
+&lt;p&gt;啊，对哦。孙胜完后知后觉地意识到。如果要帮猫洗澡的话……&lt;/p&gt;
+&lt;p&gt;不就是帮裴珠泫洗澡吗？！&lt;/p&gt;
+&lt;p&gt;她和裴珠泫在空气中交换了一个尴尬的眼神。&lt;/p&gt;
+&lt;p&gt;“不好意思，”孙胜完牺牲自己，做最先开口的人。不过本来裴珠泫现在就算开口，也只能喵喵喵喵吧……“我是有点混乱了。”&lt;/p&gt;
+&lt;p&gt;裴珠泫一路小跑然后坐在了iPad前面。&lt;/p&gt;
+&lt;p&gt;“你真的想帮我洗澡吗？”&lt;/p&gt;
+&lt;p&gt;这也不是我想不想的问题吧？至少孙胜完现在没有脱口而出这句直接到过头的话。她想了想，让自己听上去专业又客观：“我查过了，猫倒是不用那么勤快的洗澡。但是毕竟……嗯……总之，如果你需要而且不嫌弃的话……”&lt;/p&gt;
+&lt;p&gt;裴珠泫的尾巴一晃一晃，将她的思考具象化。&lt;/p&gt;
+&lt;p&gt;“要不、要不还是算了？”孙胜完试探着说，“说不定今晚就会变回来了呢。”&lt;/p&gt;
+&lt;p&gt;裴珠泫歪着脑袋，一点一点地打着字：“那就再看看情况吧。”&lt;/p&gt;
+&lt;p&gt;孙胜完点点头。她一直没来得及去洗澡，现在总算是告一段落，清点了三次浴巾和换洗衣物才走进去。洗到一半的时候想起看过的视频，说猫会在门口守着人。孙胜完洗了把脸，觉得如果裴珠泫再不变回来，她就真的要模糊人和猫之间的界线了。&lt;/p&gt;
+&lt;p&gt;孙胜完擦完头发，担心吹风机的声音太响会吓到裴珠泫现在敏锐的猫耳朵。孙胜完收拾完打开门，毫无心理准备地看见了蹲坐在门口的裴珠泫。&lt;/p&gt;
+&lt;p&gt;她忍了忍还是让尖叫声从嘴里漏了出来，只不过多少因为停顿了一会儿，音量没有那么大。&lt;/p&gt;
+&lt;p&gt;裴珠泫见怪不怪地看了她一眼，喵喵地喊了两声。&lt;/p&gt;
+&lt;p&gt;猜不出来啊。孙胜完挠了挠头。人的时候就猜不透，变成猫了还加了一层语言壁垒。&lt;/p&gt;
+&lt;p&gt;她亦步亦趋地跟着走在前面的猫，才发现原来是水喝光了。&lt;/p&gt;
+&lt;p&gt;“抱歉抱歉，”孙胜完倒了一碗水，放在了猫面前，“总觉得珠泫变成猫之后，在奇怪的地方更加亲近了……”&lt;/p&gt;
+&lt;p&gt;裴珠泫痛快地喝了一会儿水，才抬起头看着孙胜完。&lt;/p&gt;
+&lt;p&gt;她又想起那场不够成功的告白，半途而废的告白，在嘴边无法说出口的告白。&lt;/p&gt;
+&lt;p&gt;在很没有意外的地方倒是变得疏远了呢。&lt;/p&gt;
+&lt;p&gt;她们说，人身上的情绪能够被动物闻到。那么此时此刻我的失落，也是因为被变成猫的裴珠泫闻到了，所以她才会这样温柔地贴在我的身边，像是一个柔软的拥抱吗？孙胜完终于开始讨厌起自己的迟疑。可是，当她是我的队长、朋友和暗恋对象的时候，是怎么总是第一时间注意到我的呢？&lt;/p&gt;
+&lt;p&gt;她会不会也有那么一点点喜欢我呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;或许是因为连着两天都跟裴珠泫睡在一张床上，而每一天又都精神和肉体双重的透支，孙胜完几乎是倒在枕头上就睡着了。&lt;/p&gt;
+&lt;p&gt;相当长时间的睡眠并没有让孙胜完有足够休息的感觉。&lt;/p&gt;
+&lt;p&gt;她坐在保姆车里，下车前都打了一个大大的哈欠。经纪人关切地问了一句：“Wendy啊，最近很累吗？可以稍微休息一下的。”&lt;/p&gt;
+&lt;p&gt;孙胜完摆摆手：“没有没有，昨天熬了下夜。录制的时候不会出现差错的！”&lt;/p&gt;
+&lt;p&gt;经纪人有些担忧，又嘱咐了一下：“Irene也在宿舍吧？需要的时候也可以依靠一下她的。”&lt;/p&gt;
+&lt;p&gt;孙胜完下车的脚差点被车门绊倒，在粉丝和记者面前用行大礼的方式亮相。所幸她反应足够快，在平衡被打破之前稳住了身形。该怎么解释就是因为Irene自己才这么辛苦呢？我喜欢的队长变成猫了这种事情怎么也没办法开口啊……孙胜完摇摇头：“没事，只是刚刚没有看好脚下的路。”&lt;/p&gt;
+&lt;p&gt;“下班的时候，我们也会来接你的。”&lt;/p&gt;
+&lt;p&gt;“嗯，麻烦了！”孙胜完说，“那我就去上班了。”&lt;/p&gt;
+&lt;p&gt;录制的过程还是挺轻松的。原本就做过一段时间的电台DJ，只不过身份从主持人变成了嘉宾之后，还是会下意识地想要做出一些主持的行为。孙胜完很快意识到了自己的行径，悬崖勒马得算是及时，但还是被主持人调侃了几句。&lt;/p&gt;
+&lt;p&gt;“记得以前Wendy做主持的时候，Irene都会听电台呢。”主持人笑着说，“现在的Irene也还是会关注着Wendy的行程吗？”&lt;/p&gt;
+&lt;p&gt;真是奇怪，怎么突然一下子全世界都和裴珠泫有关了。&lt;/p&gt;
+&lt;p&gt;孙胜完不知道裴珠泫在家里会不会也听着广播，但自己的思考时间如果太长就有可能出现两人关系不和的古怪传闻。她先恰当地笑了笑表达合适的情绪，再开口的时候已经调整好了心情：“Irene真的是非常称职的队长，不管我们成员做什么都会非常关注。前段时间我很忙，每次回宿舍都会有料理或者是给我煲汤。怎么说呢？也是住在宿舍的福利吧，其他成员们没有办法享受吧？”&lt;/p&gt;
+&lt;p&gt;但自己的真心呢？&lt;/p&gt;
+&lt;p&gt;孙胜完突然很想念裴珠泫。&lt;/p&gt;
+&lt;p&gt;这种思念如此轻盈又轻松，让她毫无心理负担，自得其乐。主持人很巧妙地结束了这个话题，开始了下一个。只是很偶尔的时候，孙胜完会忽然觉得自己很有裴珠泫的感觉。&lt;/p&gt;
+&lt;p&gt;就好像她在自己身边一样。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;结束的时候有例行的合照环节。孙胜完恭敬地递出自己的手机，让已经用两个手机拍过照片的工作人员再拍一次。试着做了几个动作发现都很别扭，孙胜完最后还是选择了惯用的表情。工作人员递回手机的时候提醒她：“刚刚好像有震动，可能是讯息。”&lt;/p&gt;
+&lt;p&gt;“啊，好的！谢谢您，麻烦您了。”&lt;/p&gt;
+&lt;p&gt;“不会不会，”工作人员也鞠了一躬，“今天过得真是太愉快了，您回去的路上小心。”&lt;/p&gt;
+&lt;p&gt;孙胜完以为是经纪人的消息，打开通讯软件的时候发现并不是。&lt;/p&gt;
+&lt;p&gt;是裴珠泫。&lt;/p&gt;
+&lt;p&gt;“快回家。”&lt;/p&gt;
+&lt;p&gt;裴珠泫没头没尾地发了这么一条，让孙胜完想要回家的心达到了巅峰。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;似乎是因为自己从来没有过的焦急语气吓到了经纪人，对方赶来的时候不知所措到了极致。孙胜完拿捏不好这个度，只好说是裴珠泫联系了自己，家里好像出了点事。&lt;/p&gt;
+&lt;p&gt;“但是也没有那么严重？”孙胜完的语气也极度不确定，“我、我也不知道。珠泫姐姐也说得不是很清楚，但我觉得还是快点回家比较好吧？”&lt;/p&gt;
+&lt;p&gt;经纪人被这么一说也不知道该怎么处理：“应、应该是吧？那我们还是快点回去比较好……？应该也没有出什么大事吧？毕竟公司也没有发消息来。”&lt;/p&gt;
+&lt;p&gt;孙胜完愣了愣，才明白经纪人说的大事可能是真的大事——诸如宿舍里进了私生饭，房间内突然着火或者其它这样那样会迫切危机生命的大事。虽然做不到这种大事，孙胜完想，她们在某种程度上倒是遭遇了比这种更可怕的大事。&lt;/p&gt;
+&lt;p&gt;万一裴珠泫永远变不回来，她们可能会出现四人带一猫上台表演的画面吧。&lt;/p&gt;
+&lt;p&gt;孙胜完忍不住想笑。&lt;/p&gt;
+&lt;p&gt;怎么说呢，还是挺符合我们组合概念的啦。&lt;/p&gt;
+&lt;p&gt;紧张的心情都快消失殆尽了啊！&lt;/p&gt;
+&lt;p&gt;原本要十来分钟的路程，硬是被缩短成了几分钟。孙胜完几乎要担心司机会不会收到一堆罚单。这次轮到孙胜完在下车的时候忍不住叮嘱了几句，千万不要超速，注意安全。最后想了想这好像也都是因为自己，不好意思地说了：“我也会报个平安的。”&lt;/p&gt;
+&lt;p&gt;经纪人摇摇手：“你快去看看珠泫吧。”&lt;/p&gt;
+&lt;p&gt;孙胜完想说点什么，最后还是鞠了个躬赶紧上楼了。&lt;/p&gt;
+&lt;p&gt;等电梯的时候孙胜完想了无数种可能，回到家的时候究竟会看见什么样的场景。她想，最差最差最差也就是家里……厨房炸了或者之类的吧。但是考虑到经纪人和自己也没有收到什么人受伤或者财产受损的消息，那在这一方面应该是安全的。&lt;/p&gt;
+&lt;p&gt;孙胜完想，难道裴珠泫变回人了？&lt;/p&gt;
+&lt;p&gt;这个如同闪电一样出现在脑海里的想法，竟然意外地合理。&lt;/p&gt;
+&lt;p&gt;这反倒让孙胜完慢了下来。&lt;/p&gt;
+&lt;p&gt;你太可恶了，孙胜完。她想，你居然因为自己还没有做好面对裴珠泫的准备，就希望她还是只不会说话，更加黏人的猫。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;打开门的时候，出现在眼前的并不是裴珠泫。&lt;/p&gt;
+&lt;p&gt;她的意思是，出现的并不是裴珠泫这个人，而是裴珠泫这只猫。&lt;/p&gt;
+&lt;p&gt;孙胜完说不上是松了口气还是提了口气——因为她暂时无法判断自己到底应该为什么事都没有发生而感到放心，还是该为什么事都没有发生而感到揪心。孙胜完急切地询问裴珠泫发生了什么，此时此刻的布偶猫看上去和消息里的简短严肃截然不同。&lt;/p&gt;
+&lt;p&gt;她先是绕了一圈闻了闻孙胜完，让孙胜完有种自己偷偷去了猫咖回来被抓包的心虚感。接着像是确认无误了，裴珠泫才慢悠悠地踱步到自己的房间，示意跟在身后的孙胜完看自己手机的界面。&lt;/p&gt;
+&lt;p&gt;上面是经纪人和裴珠泫的聊天记录。&lt;/p&gt;
+&lt;p&gt;“……你后天有个活动要出席？！”&lt;/p&gt;
+&lt;p&gt;猫点了点头，眨了眨眼，最后舔了舔自己的爪子。&lt;/p&gt;
+&lt;p&gt;难道是已经过了吃惊和恐慌的时候了吗？可是这个时候害怕的是我了啊！&lt;/p&gt;
+&lt;p&gt;“你解释了吗？”孙胜完慌不择言，“呃……这个现状？”&lt;/p&gt;
+&lt;p&gt;裴珠泫摇摇头。&lt;/p&gt;
+&lt;p&gt;“那怎么办？”&lt;/p&gt;
+&lt;p&gt;裴珠泫长久地凝视着孙胜完。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;好吧，孙胜完想。好吧。&lt;/p&gt;
+&lt;p&gt;这种事情简直就像是迪士尼电影照进现实。她身上还穿着衬衫，连鞋子都没有换下来。她坐在裴珠泫的面前，姿势恭敬，心情紧张。这简直比做练习生时每天都要担心能不能出道还要可怕。她调整着呼吸，想着不就是一句话吗，还能有多难？&lt;/p&gt;
+&lt;p&gt;她说：“不知道有没有用，也不知道是不是有关系，但是如果你想听的话，我可以一直说给你听。”&lt;/p&gt;
+&lt;p&gt;她说：“虽然没有下酒菜和啤酒……不过那些可能也不重要，对吧？”&lt;/p&gt;
+&lt;p&gt;她说：“我以为你不喜欢我，或者你并不想要听到那样逾矩的话，所以那天晚上才转移了话题。是因为觉得我喝醉了吗？还是觉得我说的话太不像话了呢？”&lt;/p&gt;
+&lt;p&gt;她说：“我不知道。”&lt;/p&gt;
+&lt;p&gt;裴珠泫的眼睛里只能倒映出自己的模样。&lt;/p&gt;
+&lt;p&gt;于是孙胜完继续说：“我还是不敢直接说出来。”&lt;/p&gt;
+&lt;p&gt;孙胜完继续说：“是不是又被你看出来这一点了呢？”&lt;/p&gt;
+&lt;p&gt;孙胜完继续说：“总之……”&lt;/p&gt;
+&lt;p&gt;她深深地吸了一口气，然后吐出来。&lt;/p&gt;
+&lt;p&gt;“……喜欢你。”&lt;/p&gt;
+&lt;p&gt;她又重复了一遍，这次完整又清晰。&lt;/p&gt;
+&lt;p&gt;“裴珠泫，我喜欢你。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;可是裴珠泫还是一只小猫咪。&lt;/p&gt;
+&lt;p&gt;她摇着尾巴眯着眼睛的样子，洋洋得意，让人看了只能怪罪自己。&lt;/p&gt;
+&lt;p&gt;孙胜完还没有感受多少说出心里话的畅快，就听见“嗒嗒嗒”的声音。她耐着害怕去看，发现界面从和经纪人的对话被切换成了和自己的。在写着“胜完”的备注下面，在“快回家”这条信息下面，是一直在闪烁的光标，光标前面是已经打好的字。&lt;/p&gt;
+&lt;p&gt;“我也是。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;可恶。&lt;/p&gt;
+&lt;p&gt;孙胜完想。&lt;/p&gt;
+&lt;p&gt;裴珠泫这个人，真的是太可恶了！&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;&lt;strong&gt;-tbc?-&lt;/strong&gt;&lt;/p&gt;- http://localhost:1313/my-roommate-has-become-a-cat-3/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>救命啊，同居人变成猫了我该怎么办？！-2-</title>
+        <link>http://localhost:1313/my-roommate-has-become-a-cat-2/</link>
+        <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-roommate-has-become-a-cat-2/</guid>
+        <description>杂货店老板 http://localhost:1313/my-roommate-has-become-a-cat-2/ -&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  今天的更新是猫写的。
+&lt;/blockquote&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;原来当人精神失常到无语的时候，是真的会笑出来啊。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完试图在自己的手掌里躲开这残酷又荒诞的事实，但白色布偶……或者说是裴珠泫在她身边拖长音调慢悠悠地“喵”了一声，让寄希望于闭眼睁眼就能回归正常的主唱不得不直视两人目前的困境。&lt;/p&gt;
+&lt;p&gt;被现状冲击的大脑逐渐开始响应，孙胜完想到自己接下来的两天没有什么行程，那么问题就在于……“你接下来有行程吗？”&lt;/p&gt;
+&lt;p&gt;孙胜完习惯性地又没说敬语，不过裴珠泫看上去并没有在意这一点。&lt;/p&gt;
+&lt;p&gt;好吧，其实孙胜完也不知道对方是不是在乎，毕竟现在那张白色的严肃小猫脸上实在很难和平时的漂亮脸蛋相对等。&lt;/p&gt;
+&lt;p&gt;裴珠泫……或者说是白色布偶摇了摇头，接着又在平板上噼里啪啦地打起字来。孙胜完谨慎地凑上前去。认真地用爪子拍着屏幕的后脑勺看着相当可爱，孙胜完必须用尽全身的力气才能不伸手摸一摸。&lt;/p&gt;
+&lt;p&gt;从实际体验上来说，她是在摸一只小猫，但是同样从实际体验上来说，她也是在摸一个和她目前关系多少有点微妙的……队长。&lt;/p&gt;
+&lt;p&gt;可孙胜完无法忽略内心悄然升起的一股侥幸情绪。&lt;/p&gt;
+&lt;p&gt;裴珠泫的前爪用力地推了推孙胜完，让这个又开始发呆的人类看清自己的话。&lt;/p&gt;
+&lt;p&gt;“接下来几天是没有，但是这个样子肯定也瞒不了太久。你明后天也都在家里吧？我记得你大后天的下午才有个录制。”&lt;/p&gt;
+&lt;p&gt;孙胜完点点头：“对。”她又看了一遍裴珠泫的话，突然发现有很多事情要处理，“至少这两三天还是可以安全度过的？该从哪里开始做起……珠泫在变成猫之前经历了什么？应该不会是许愿什么的吧？按照民俗故事，是不是要实现什么心愿才会变回来？童话故事的话，呃……”她顿了顿，脑子里闪过的片段全都是王子公主因为接吻所以解决了疑难杂症，在这种时候提出这样的意见，怎么看都像是在趁机占便宜，孙胜完飞快地改口，差点咬到自己舌头，“呃……是不是要找些魔法手段？哈哈哈……好像不太可能。”&lt;/p&gt;
+&lt;p&gt;她不敢抬头看猫，在看见平板上的时间后缓缓意识到：“对了，那我该给你吃猫粮，还是人吃的东西？”&lt;/p&gt;
+&lt;p&gt;显然被迫吃了那索然无味鸡胸肉的裴珠泫已经想过这个问题了。孙胜完感觉对方的力道甚至快要砸穿屏幕：“我不吃鸡胸肉。”&lt;/p&gt;
+&lt;p&gt;孙胜完没忍住笑，想要躲闪裴珠泫的爪击时，又看见她扑棱一下自己滑了一跤。&lt;/p&gt;
+&lt;p&gt;这下更不能笑了。&lt;/p&gt;
+&lt;p&gt;孙胜完打开手机：“那我看看猫能吃什么……”网页给出的答案多又复杂，孙胜完一阵头晕，“转念一想，你是从人变的猫，吃人吃的应该也没事吧？”&lt;/p&gt;
+&lt;p&gt;这话说的，孙胜完都不敢相信这是日常对话里能够出现的。&lt;/p&gt;
+&lt;p&gt;布偶猫看上去也不清楚，摇晃着尾巴，仔仔细细地走着每一步。&lt;/p&gt;
+&lt;p&gt;这样看着倒挺有平时走路的样子的。孙胜完开着冰箱门，用余光观察着裴珠泫。她似乎还没有和现在的身体做好协调，可那些细枝末节的地方已经颇有一只猫的神态了。裴珠泫仰着头，看样子是在估量自己能不能跳上厨卫台。她又盯了几秒，往后退了几小步，向前一跳。&lt;/p&gt;
+&lt;p&gt;不知道是哪个环节出了差错，裴珠泫的前半身倒是扒拉住了台面，可下半身没有能够蹬上来。僵持了甚至不到两三秒，白色布偶猫就不轻不重地落回了地上。&lt;/p&gt;
+&lt;p&gt;也没人跟我说过，世界上最难的事情是憋笑啊？&lt;/p&gt;
+&lt;p&gt;孙胜完兀自跟“这是我喜欢的人，我该给她留点面子”和“但是掉下去还要装作无事发生，尴尬地扫扫尾巴转身离开页太可爱了”两种想法斗争，艰难地关上了冰箱门。小白猫离开了厨房，她抬高些声音问：“冰箱里有蔬菜和五花肉，我煮个汤，煎点五花肉，怎么样？”&lt;/p&gt;
+&lt;p&gt;裴珠泫又踩着小碎步回到了厨房，字正腔圆地回答：“喵。”&lt;/p&gt;
+&lt;p&gt;拿着食材的临时主厨歪了歪脑袋，总算想起来这好像是自己最开始约定的回答：“叫一声是‘是’的意思？”&lt;/p&gt;
+&lt;p&gt;“喵。”&lt;/p&gt;
+&lt;p&gt;孙胜完刚准备转头开始备菜，就感觉自己的小腿被狠狠地撞了一下。&lt;/p&gt;
+&lt;p&gt;这又是什么意思呢？&lt;/p&gt;
+&lt;p&gt;“你想上来？”孙胜完揣摩，“万一把你的……毛弄湿了，不太好吧？”&lt;/p&gt;
+&lt;p&gt;裴珠泫只是用那双圆溜溜的棕色猫眼看着她，孙胜完都没想过抵抗，就投降了：“好吧……那你小心点。”&lt;/p&gt;
+&lt;p&gt;她放下手上的菜，弯下腰，努力地想该怎么样才能礼貌地抱起一只人变成的猫。反倒是对方丝毫没有介意的样子，在心理上接受了自己目前受制于猫的身体的事实，主动地把身体往孙胜完怀里一靠，相当自然地找到了最合适的位置。&lt;/p&gt;
+&lt;p&gt;也对，孙胜完借助于胡思乱想的力量，好让自己不再去胡思乱想。&lt;/p&gt;
+&lt;p&gt;……才怪！平时随便靠在自己身上，都要僵硬个半天的身体，就算现在是只猫也不会好到哪里去啊！&lt;/p&gt;
+&lt;p&gt;孙胜完在心里苦恼地再次呐喊。&lt;/p&gt;
+&lt;p&gt;老天啊！你为什么要这样折磨我们两个……不，现在看起来受折磨的只有我而已！&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;很难说裴珠泫要求能够坐在厨卫台上，到底是为了监工孙胜完，还是单纯想要用这种方式找回一些人类时的视角高度。&lt;/p&gt;
+&lt;p&gt;至少对于孙胜完来说，她感觉自己更加心不在焉了。&lt;/p&gt;
+&lt;p&gt;之前的事情还没有个答案呢……&lt;/p&gt;
+&lt;p&gt;孙胜完满脑子没有个一二三四，做出来的料理倒是没有出现什么大问题——她甚至还有闲心考虑到可能猫不能吃得味道太重，几乎没有下多少调料。不过这也导致端到餐桌上的菜除了颜色比鸡胸肉鲜艳一点之外，在本质上和那水煮的料理可能没有什么太大的区别。&lt;/p&gt;
+&lt;p&gt;脱敏训练就是这种感觉吧……&lt;/p&gt;
+&lt;p&gt;孙胜完伸手抱起布偶，觉得自己的手往哪放都可以称作是性骚扰，瞥了三四眼手上的猫，七上八下的心情一半是放弃一半是放心。不过，饿了一天的裴珠泫看上去是没有什么谴责她动手动脚的心思。白色的长毛猫在餐桌上闻了半天料理，看了看孙胜完，看了看菜，又看了看孙胜完，在一张猫脸上硬是让孙胜完看出了大写的“无奈”。&lt;/p&gt;
+&lt;p&gt;“你不会还想吃辣的吧？”孙胜完拉开椅子坐下来，指出这种想法和其它裴珠泫可能会有的想法的不可能，“可乐应该也是不能喝的？虽然拿不准你现在到底走的是谁的生理系统，但我觉得本来就不该吃那么多辣的……嗯，嗯。”说到一半，孙胜完又开始后悔这张没有回应就会忍不住说太多的嘴，问我了吗！“今天也迟了，先这么吃吧。明天我再研究研究有没有看上去闻上去都好吃的猫饭。”&lt;/p&gt;
+&lt;p&gt;猫叹了一口长长的气。&lt;/p&gt;
+&lt;p&gt;如果是人的话，长长的头发还能扎在脑后。可猫长长的毛显然非常阻碍进食。&lt;/p&gt;
+&lt;p&gt;裴珠泫和身上的长毛斗争了半天，很直观地让孙胜完理解了鸡胸肉的惨状是如何出现的。矜贵的布偶是人类的习惯，吃一口咬半天，可猫的嘴小，就算孙胜完贴心地让碗微微倾斜，一辈子都没有用过脸埋在碗里吃饭的裴珠泫最多只能让脑袋不掉进去。最开始吃的时候还能保持一点优雅，到后面就变成生理的本能和情感的矜持在撕扯，导致的结果就是碗的周围是细碎的残渣。偏偏裴珠泫因为丢脸而出现的脸红很好地被猫的脸给掩盖了下去，只有身后轻轻摇摆着的尾巴尖在悄悄说着猫的心事。&lt;/p&gt;
+&lt;p&gt;孙胜完歪着脑袋看裴珠泫吃完，说了句“等等”，去厨房找了张湿巾，嘀咕着“抱歉，凑合一下吧，明天我去买点宠物用湿巾”，伸手固定住猫的下巴，耐心地擦着脸颊两边出现的碎渣。&lt;/p&gt;
+&lt;p&gt;她仔细地擦完，才发现现在两个人的对视距离和之前电视剧里的男女主接吻前的距离一模一样。孙胜完在心里尖叫，表面上只能顾左右而言他：“对、对了，那个，上厕所的话……”&lt;/p&gt;
+&lt;p&gt;裴珠泫怒瞪了一眼：“喵嗷啊啊啊！”&lt;/p&gt;
+&lt;p&gt;这高音确实很有裴珠泫的魄力。孙胜完客观公正地在心里点评。&lt;/p&gt;
+&lt;p&gt;“……抱歉，”她发现很难让问句变得委婉，而对方目前杀伤力再高，也只能用指甲划破自己或者用牙咬伤自己，退一万步来说，裴珠泫应该也舍不得吧？嗯……至少不那么舍得吧？“今天你是怎么解决的？”&lt;/p&gt;
+&lt;p&gt;裴珠泫嗷了半天，意识到这是猫同人讲。她一扭头，干脆地从桌子上跳了下去，吓得孙胜完差点喊出声。或许是愤怒反而让裴珠泫保持了清醒，她这次没有摔倒，相当轻巧地四脚着地，奔跑得像是一只小豹子。接着从房间里传出了电子女声：“你出门的时候没有关马桶。”&lt;/p&gt;
+&lt;p&gt;虽然电子音的语气四平八稳，但是孙胜完觉得自己看见了裴珠泫写在这句话后面的三个感叹号。&lt;/p&gt;
+&lt;p&gt;“对不起啦……”她说着走回房间，发现裴珠泫怒气冲冲地蹲坐在iPad前面。她又想笑，那种微妙的想法又滋生起来，像是某种藤蔓植物爬满了她的心间。&lt;/p&gt;
+&lt;p&gt;这样也挺好的，不是吗？她还在身边，哪怕不知道答案，也可以享受对方现在的依赖。她心里的良善占着不太上风的位置指责她，孙胜完，你太恶劣了，这样下去肯定不是什么好事，不说之后的行程，对裴珠泫来说这样也不是什么好事，你怎么可以趁人之危……&lt;/p&gt;
+&lt;p&gt;孙胜完坐下来，和猫保持了一个相当礼貌的距离，继续之前的话题：“要买猫砂吗？”&lt;/p&gt;
+&lt;p&gt;猫愤怒地蹿了过来，咬了一口孙胜完的手。&lt;/p&gt;
+&lt;p&gt;说是咬，孙胜完却完全没有感觉到力道。反而是对方跳到身上时的那股重量更加让人记忆犹新。裴珠泫没有想着真的用力，甚至在咬完之后还弥补似的用舌头舔了舔孙胜完。&lt;/p&gt;
+&lt;p&gt;她是猫她是猫她现在是一只猫……&lt;/p&gt;
+&lt;p&gt;孙胜完给自己灌输语言枷锁。&lt;/p&gt;
+&lt;p&gt;活跃的大脑却在恶魔般地低语：“裴珠泫在舔你……”&lt;/p&gt;
+&lt;p&gt;不行。孙胜完叹息，还是得想点办法让裴珠泫赶紧变回来！&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;这漫长的一天总觉得怎么都没办法结束。&lt;/p&gt;
+&lt;p&gt;孙胜完总算是洗漱完，推开自己房间门的时候，裴珠泫还躺在平板前面。或许是因为已经用了一天去接受这个知识，现在的裴珠泫看上去相当冷静，还能因为看到好玩的视频而颇为满意地摇摇尾巴尖。&lt;/p&gt;
+&lt;p&gt;挺好的，她们两个之中有一个人处于精神崩溃的状态就够了……&lt;/p&gt;
+&lt;p&gt;……不对！孙胜完在打开床头灯，准备关房间灯的时候，才意识到这古怪的感觉是什么：“珠泫，你不回去睡吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫奇怪地看了她一眼，叫了两声。&lt;/p&gt;
+&lt;p&gt;不不不，我知道你现在一副赖在我房间不要走的样子，我问这个问题是更想要知道原因啊！孙胜完开始质疑自己，难道那个晚上她并没有说出“喜欢你”这样的话吗？难道那个晚上是场巨大的幻觉吗？难道她这一整天的纠结都是建立在一个虚无上的海市蜃楼吗？&lt;/p&gt;
+&lt;p&gt;孙胜完试探地开口：“我们……嗯，我们是可以这样的关系吗？”&lt;/p&gt;
+&lt;p&gt;一定是因为太困了，孙胜完想，不然她怎么会这么直白地问出这样的问题，简直就是在向裴珠泫逼问一个答案。&lt;/p&gt;
+&lt;p&gt;裴珠泫状似苦恼地歪了歪脑袋，让孙胜完在心里又吼了一句好可爱。接着她踩着慢悠悠的小猫步走了过来，坐在了孙胜完的身边，神态温柔，让孙胜完想起曾经无数次裴珠泫这样看着她，说出或是安慰或是鼓励的话。&lt;/p&gt;
+&lt;p&gt;她想，真是可恶，不管她怎么样对我，我都会好喜欢她。&lt;/p&gt;
+&lt;p&gt;白色的布偶猫仿佛看透了她的烦闷，轻轻地、轻轻地蹭了蹭她的手臂。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;现在的氛围也很好。&lt;/p&gt;
+&lt;p&gt;孙胜完轻飘飘地想。不如说，她在裴珠泫的身边，就会感觉氛围正好。她们总是默契，总是能够在眼神里看见对方没有说出口的情绪，总是可以变得如此亲昵。她不敢埋怨对方让自己产生这样的错觉，不敢进一步挑明这样的关系，不敢后退离开现在的暧昧。&lt;/p&gt;
+&lt;p&gt;如果现在问“你喜欢我吗？”，是不是太过唐突，太过迟钝，太过想要一份感动自己的证明，而根本不在乎对方的爱意是有还是无？&lt;/p&gt;
+&lt;p&gt;现在的氛围不该这么好。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完爬到床的里面，把外面的部分让给了裴珠泫。&lt;/p&gt;
+&lt;p&gt;她应该同样害怕、无助和恐慌。孙胜完拿起手机，发现原本坐着的猫已经趴了下来，两只眼睛要闭上又努力睁开，像是隐隐谴责她怎么还不睡。&lt;/p&gt;
+&lt;p&gt;孙胜完只好放下手机，关上床头灯。&lt;/p&gt;
+&lt;p&gt;明明是和喜欢的人躺在一张床上，心里的悸动已经全数被愁绪替代了。&lt;/p&gt;
+&lt;p&gt;唉……&lt;/p&gt;
+&lt;p&gt;孙胜完翻了个身。&lt;/p&gt;
+&lt;p&gt;既然这么不讲理的事情都发生了，那说不定明天一觉醒来，裴珠泫就变回人了呢？&lt;/p&gt;
+&lt;p&gt;不过，要是变回来的话，她还会穿着衣服吗？那些童话故事和民间传说关于这一部分的内容怎么都闭口不谈啊……要是我醒得比她迟还好说，如果我醒得比她早怎么办？总觉得我装睡也会被她发现啊……我出道的时候可没有想过会有这样的精神压力啊！&lt;/p&gt;
+&lt;p&gt;身后传来细微的悠长呼吸。&lt;/p&gt;
+&lt;p&gt;裴珠泫睡着了。&lt;/p&gt;
+&lt;p&gt;孙胜完在黑暗中睁着眼睛，维持着姿势一动不敢动。&lt;/p&gt;
+&lt;p&gt;我今天晚上能睡着吗？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;……我什么时候睡着的？&lt;/p&gt;
+&lt;p&gt;孙胜完做了一晚上的梦。&lt;/p&gt;
+&lt;p&gt;梦境混乱无序。她先发现似乎大家都变成了动物。有的人是猫，有的人是狗，但出门的时候发现还有更多不同的动物。在三只大象排着队经过她面前之后，她竟然变得毫无波澜。裴珠泫还是那只白色布偶，只是可以开口说话了。&lt;/p&gt;
+&lt;p&gt;她说，胜完啊，你蹲下来一点。孙胜完蹲了下来。裴珠泫看上去还要说些什么，她却完全听不清对方的话。身体变得很沉重，她摇头晃脑，世界逐渐没了色彩，嗅觉却变得清晰无比。她能够闻到裴珠泫身上的味道，闻到十米外的红薯摊香气，闻到在空气中浮动的不安。怎么回事？&lt;/p&gt;
+&lt;p&gt;梦境又改变了。她坐在宿舍的地上，眼前是酒瓶子。裴珠泫听完了她的告白。而她开始绞尽脑汁想要解释自己的爱意并非一时兴起，也不是吊桥效应。她张开嘴，声音滞涩，词不成句。&lt;/p&gt;
+&lt;p&gt;怎么回事？&lt;/p&gt;
+&lt;p&gt;她就这样茫然地醒来了。&lt;/p&gt;
+&lt;p&gt;身后没有猫的身影。&lt;/p&gt;
+&lt;p&gt;孙胜完推开门，裴珠泫并没有变回人。她交叠着前爪，正在看电视。&lt;/p&gt;
+&lt;p&gt;……是《动物世界》。&lt;/p&gt;
+&lt;p&gt;这什么黑色幽默的世界，比梦还像梦。&lt;/p&gt;
+&lt;p&gt;裴珠泫看见她醒了，冲着她“喵”了一声，算是打过招呼了。孙胜完捂着嘴打了个哈欠，含糊地回了一句“早上好”。&lt;/p&gt;
+&lt;p&gt;洗漱的时候才注意到时间，已经快要中午了。孙胜完一肚子心事不觉得饿，但裴珠泫看上去如果没有一顿好吃的午饭，就会把眼前能够看到的一切撕碎的模样。&lt;/p&gt;
+&lt;p&gt;孙胜完有商有量地开始讨论起中午吃什么，不能重油重盐，不能太甜太辣，思来想去还是准备下楼买点猫罐头和猫条。裴珠泫的眼睛里满是“不是说要给我做好吃的午饭吗？”，孙胜完不能说出心声，其实她是想逃，只好临时解说自己的奇怪行径：“说不定你现在的味觉也变了呢？”&lt;/p&gt;
+&lt;p&gt;等孙胜完拎着大袋小袋回到宿舍，裴珠泫仍然是生气的表情。&lt;/p&gt;
+&lt;p&gt;她不知道怎么跳到了冰箱的上面，居高临下地看着孙胜完一点点拆出猫罐头。可能被孙胜完说中了一半，这香味确实让猫心情愉悦。孙胜完猜对方也不能这么快就丢了面子，举着猫碗哄着她：“试试看？”&lt;/p&gt;
+&lt;p&gt;裴珠泫三两步跳了下来，仰着下巴，让她把碗放在面前。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;好可爱。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;人和猫都解决了食物的问题，两个人面对面坐在客厅里，开始追根溯源。&lt;/p&gt;
+&lt;p&gt;孙胜完先提问：“那个……你是什么时候发现的？”&lt;/p&gt;
+&lt;p&gt;猫低着脑袋拍打着屏幕：“醒来的时候……大概是昨天早上六点多。”&lt;/p&gt;
+&lt;p&gt;“睡觉的时候有什么不对劲的吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫摇了摇头。&lt;/p&gt;
+&lt;p&gt;“还是说昨天我们吃的东西有问题吗？”孙胜完说完也觉得这个猜测很微妙，“我们好像吃的都是一样的东西吧？”&lt;/p&gt;
+&lt;p&gt;“是一样的。”裴珠泫想了想，“啤酒的味道好像不一样。”&lt;/p&gt;
+&lt;p&gt;“那喝了啤酒的人都会变成猫吗……”孙胜完问，“应该也不会吧？”&lt;/p&gt;
+&lt;p&gt;短暂的沉默。&lt;/p&gt;
+&lt;p&gt;裴珠泫慢慢地打字：“是不是你许愿了？”&lt;/p&gt;
+&lt;p&gt;“我没有！”孙胜完委屈地反驳，“我要许愿的话也不会让你变成猫吧！怎么也应该是许愿我自己变才对……”&lt;/p&gt;
+&lt;p&gt;猫一瞬间露出了“抓住你的马脚了”的表情。&lt;/p&gt;
+&lt;p&gt;虽然知道这就是裴珠泫，可这真的太裴珠泫了。孙胜完为自己一时的词穷捶胸顿足。&lt;/p&gt;
+&lt;p&gt;“总之不是我！”孙胜完说，“难道你许愿了？”&lt;/p&gt;
+&lt;p&gt;裴珠泫看着她的眼睛，慢慢地眨了眨眼睛。&lt;/p&gt;
+&lt;p&gt;完全看不出到底是因为被自己说中了而感到心虚，还是因为被自己无端地指责而无声谴责。孙胜完有点讨厌起两个人之间，总是被对方看透心思这一点了。对我来说一点都不公平！我也想要能够看穿裴珠泫的想法！&lt;/p&gt;
+&lt;p&gt;但是目前的线索寥寥无几，孙胜完觉得死马当活马医何尝不是一种出路：“要不晚上的时候，再试试看？这回换我来喝那个酒。如果是同样的时间，同样的地点，同样的食物，再准确一点的话，同样的食物……”只是日期是没法一样了。不过这也是没办法的事，如果时间可以倒流的话，她就会干脆倒流到一切尴尬的开始了。孙胜完继续说，“怎么样？试试看？不过猫应该不能喝酒吧……”&lt;/p&gt;
+&lt;p&gt;裴珠泫抗议地叫了一声。&lt;/p&gt;
+&lt;p&gt;孙胜完格外坚定：“除了酒，其它都可以吃。还好昨天没吃辣年糕……”&lt;/p&gt;
+&lt;p&gt;猫还是不开心地看着她。&lt;/p&gt;
+&lt;p&gt;“我也不能喝酒，万一我们俩都变成猫了，那就更麻烦了。”孙胜完说，“如果还是不行的话……”她想了半天，也不知道自己能够干什么，可话都起了个头了，必须得有个落脚的地方才行，“我就转发转运的祈福图片并且在网络上求神拜佛。”&lt;/p&gt;
+&lt;p&gt;裴珠泫看上去非常无语。&lt;/p&gt;
+&lt;p&gt;孙胜完无意识地撒娇：“那我也没有办法了嘛……”&lt;/p&gt;
+&lt;p&gt;裴珠泫扭过头，继续看着电视。&lt;/p&gt;
+&lt;p&gt;但孙胜完看得出来，猫的心情不知道怎么就变好了。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;按照聊天记录和实际购买的记忆，孙胜完再次采购了一模一样的菜回来。&lt;/p&gt;
+&lt;p&gt;裴珠泫兴致高涨。孙胜完把这个归因于对方吃了一天的猫罐头，对于人类的料理期待万分。要不是良好的习惯让裴珠泫能够坐在一旁，看着孙胜完把料理一道道放在餐具里，孙胜完怀疑对方早就一个猛子扎进去开始享受大餐了。&lt;/p&gt;
+&lt;p&gt;孙胜完给猫戴上一个小围兜，那是中午去猫罐头时送的。裴珠泫眯着眼睛，理所应当地享受着孙胜完细致的动作。如果不是变成猫的话，她们再亲近也不会做到这种地步吧。孙胜完往后退了点，看着裴珠泫开始吃饭。&lt;/p&gt;
+&lt;p&gt;这对我来说，究竟是一种奖励还是一次惩罚呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;……不用怀疑，这显然是惩罚。&lt;/p&gt;
+&lt;p&gt;距离她们的同样试验已经过去三个小时了，除了越来越浓重的睡意之外，什么都没有发生。孙胜完有些痛苦地想，不会还要等到第二天的早上六点才能知道结果吧？这么奇幻的事情不要在这个上面充满科学依据啊！&lt;/p&gt;
+&lt;p&gt;坐在一边的裴珠泫此时倒是精神奕奕。&lt;/p&gt;
+&lt;p&gt;可恶，你是猫，我不是啊！孙胜完揉了揉眼睛，想着这个时候如果跟对方提出自己想要睡觉的话，会不会在她变回来之后得到更加残忍的拒绝。话又说回来，如果都是拒绝的话，那残忍不残忍重要吗？&lt;/p&gt;
+&lt;p&gt;裴珠泫注意到了她低头抬头的困顿，在屏幕上打了一行字。&lt;/p&gt;
+&lt;p&gt;孙胜完打着哈欠去看，看到一半哈欠卡在了喉咙里。&lt;/p&gt;
+&lt;p&gt;“和昨天晚上还有不一样的地方。”&lt;/p&gt;
+&lt;p&gt;这是前半句，后半句是——&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;“刚刚，你没有说‘喜欢我’。” &lt;/p&gt;- http://localhost:1313/my-roommate-has-become-a-cat-2/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>救命啊，同居人变成猫了我该怎么办？！-1-</title>
+        <link>http://localhost:1313/my-roommate-has-become-a-cat-1/</link>
+        <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-roommate-has-become-a-cat-1/</guid>
+        <description>杂货店老板 http://localhost:1313/my-roommate-has-become-a-cat-1/ -&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  是的，我养了一只猫。
+&lt;/blockquote&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完是被……呃，她也说不清，感觉是在一阵又热又重的氛围之下艰难醒来的。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;她的第一反应是想去捞一下床头的手机，身体的经验告诉她现在天应该还没亮，但拉得太过严实的窗帘会产生巨大的误导，还是相信准确的科学更加严谨。只不过孙胜完刚一动作，身上那种沉重的感觉就消失得无影无踪。&lt;/p&gt;
+&lt;p&gt;兴许是幻觉？&lt;/p&gt;
+&lt;p&gt;她迷迷糊糊的，视线也连带着变得混乱不清。&lt;/p&gt;
+&lt;p&gt;总觉得好像看见了什么毛绒绒的东西，是艺琳之前来宿舍丢过来的不要的毛绒布偶玩具吗？孙胜完总算找到了手机，乍亮的屏幕告诉她现在是凌晨四点刚过九分钟。她翻了个身，强制自己再睡一会儿，好为第二天的行程做准备。&lt;/p&gt;
+&lt;p&gt;最好能够比她的室友早出门，省得尴尬……&lt;/p&gt;
+&lt;p&gt;她闭上眼，听漏了床底下一声柔软的猫叫。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;闹钟准时在六点把孙胜完叫醒。&lt;/p&gt;
+&lt;p&gt;她好像睡得还不错，但又困得不行。她先坐在床上缓了一会儿，侧着耳朵试图听见室友是否有什么动静。等了半天，只有空荡荡的清晨和再次响起的闹钟在提醒她，动作再不快点就要迟到了。&lt;/p&gt;
+&lt;p&gt;孙胜完照镜子的时候发现自己有点黑眼圈，不得已随便遮了遮。这个时候半夜的记忆总算找到了她，她开始关心起那个让她几乎呼吸不畅的起因到底是什么。对着卫生间的镜子思考显然毫无进展，她一开门，就发现一团白色的东西以常人所不能及的速度一闪而过。&lt;/p&gt;
+&lt;p&gt;闹鬼……？&lt;/p&gt;
+&lt;p&gt;不应该吧。孙胜完想。那怎么不半夜闹？&lt;/p&gt;
+&lt;p&gt;也有可能是因为这片土地上的韩国人已经进化掉了睡眠，所以鬼也无所谓什么时候出现了？&lt;/p&gt;
+&lt;p&gt;孙胜完差点被自己逗笑。&lt;/p&gt;
+&lt;p&gt;她环顾了下宿舍，发现什么都没找到。&lt;/p&gt;
+&lt;p&gt;估计是自己太累出现幻觉了吧？&lt;/p&gt;
+&lt;p&gt;这种说不上是不是侥幸的想法，在出门的时候被打击个粉碎。&lt;/p&gt;
+&lt;p&gt;一只白色的布偶蹲坐在门口……应该是布偶吧？孙胜完有些不太确定。如果是狗的话，她还算有点自信能够说出什么品种。看上去是就当是吧，反正现在也没有人跟她做纠错，这只猫也不会跟她的心理活动进行激烈的辩论。&lt;/p&gt;
+&lt;p&gt;为什么家里会有只猫？是艺琳带回来的吗？不对，我怎么每次一出事就觉得是金艺琳的问题……这到底是我的问题还是她的问题？还是说是……绕了半天，孙胜完还是得在脑子里蹦出那个名字，是珠泫带回来的吗？也不对啊，昨天珠泫就一直在宿舍里，昨天之前也没有动物的迹象呀？再说了，珠泫也不会往回捡猫吧，更何况这猫看着还挺矜贵，怎么也不像只流浪猫。&lt;/p&gt;
+&lt;p&gt;孙胜完下意识地向猫伸出手，在猫和自己反应过来之前，手机先响了起来。&lt;/p&gt;
+&lt;p&gt;是经纪人。&lt;/p&gt;
+&lt;p&gt;“胜完啊，”经纪人算不上催促，听着相当镇定，“已经在楼下了，你可以下来了。”&lt;/p&gt;
+&lt;p&gt;“啊，好……我这就下来。”&lt;/p&gt;
+&lt;p&gt;孙胜完再转头的时候，猫已经不见了。&lt;/p&gt;
+&lt;p&gt;她迅速回忆了一下，但还是有点不放心，干脆脱了鞋子绕了一圈，确认窗户都关好了才出门。又担心这扑朔迷离的猫在家里会饿着，找了两个干净的小碗，一碗放着水，另一碗放了点为了身材管理煮的鸡胸肉。看上去是索然无味了点，但应该不至于让猫饿死吧？&lt;/p&gt;
+&lt;p&gt;一整天的行程啊……这白猫悬案得晚上回来才能侦破了。&lt;/p&gt;
+&lt;p&gt;孙胜完不知道自己什么心理，出门的时候冲着屋里喊了声“我出去了！”才关门。&lt;/p&gt;
+&lt;p&gt;她甚至不敢看裴珠泫的门是不是关得严严实实，还是和往常一样漏了条缝。&lt;/p&gt;
+&lt;p&gt;唉。&lt;/p&gt;
+&lt;p&gt;她想，早知道就不那么冲动了。&lt;/p&gt;
+&lt;p&gt;唉……&lt;/p&gt;
+&lt;p&gt;她又想，可是那个时候真的太容易让人冲动了。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;一整天的行程没有给孙胜完多少复盘自己行为的机会。&lt;/p&gt;
+&lt;p&gt;上午在公司里讨论新企划，孙胜完干脆灌了自己两杯美式，不仅压下了几个没打出来的哈欠，还让精神直接拉到满格，兴致勃勃地聊了不少想要的效果。甚至于会议结束都有灵感一个接一个冒出来，身边没有纸笔，她干脆打开手机，准备记在备忘录里。&lt;/p&gt;
+&lt;p&gt;结果好奇心让她没忍住查看通讯软件，和裴珠泫的聊天记录定格在前一天回家前的信息。&lt;/p&gt;
+&lt;p&gt;“我要回去了，要带点什么吗？”&lt;/p&gt;
+&lt;p&gt;“吃的？或者带点酒吧。”&lt;/p&gt;
+&lt;p&gt;“好！”&lt;/p&gt;
+&lt;p&gt;聊天记录戛然而止。&lt;/p&gt;
+&lt;p&gt;以往除非关系冷到极致，不然裴珠泫多少还是会发点什么来的。可是直到现在都杳无音讯，孙胜完又不好向其他人求助。她顿了顿的手指又控制不住得往前面翻了翻，试图找到让自己可以不用这么不安的证据，但越翻心越慌。&lt;/p&gt;
+&lt;p&gt;还好下午又是录制节目，一录就是一下午，还拖延到了傍晚。孙胜完纠结了一会儿要不要发消息，觉得自己还是没必要太僵持，若无其事地说点什么也是成年人的尊严。她思来想去措辞了半天，觉得这是一个很自然的提问，一点也没有没事找事的意思：“晚上回去的时候，要给你带点什么吗？”&lt;/p&gt;
+&lt;p&gt;嗯，非常自然，非常合适，一点都没有那种突兀的感觉。&lt;/p&gt;
+&lt;p&gt;孙胜完刚放下手机，工作人员就走了过来：“抱歉，刚刚录制的地方好像有点问题，可以麻烦Wendy再来一下吗？”&lt;/p&gt;
+&lt;p&gt;应该不会很慢吧？孙胜完犹豫了一下没有再打开手机，对着脸上带有歉意的工作人员回答：“当然了！我这边还需不需要改进些什么？”&lt;/p&gt;
+&lt;p&gt;“太感谢您了！不用不用，就是想要出点更好的效果，所以想试试看……”工作人员手里拿着iPad，对着上面的写写画画开始说明想要的效果。&lt;/p&gt;
+&lt;p&gt;孙胜完想要利落地把私事抛在脑后，可那封没有立刻得到“已读”的信息就好像一个隐形的钩子，抓着她的心不放。&lt;/p&gt;
+&lt;p&gt;可是，孙胜完，她虽然没有说好，可也没有说不吧？也不需要这么悲观消极……&lt;/p&gt;
+&lt;p&gt;虽然没有说不，但是跟说好的距离看着也很远啊！太积极了才会让人喘不过气吧？&lt;/p&gt;
+&lt;p&gt;孙胜完用力眨眨眼，觉得自己至少不能在工作上也失误。如果不回我的话，干脆自己看着买点年糕烤肉之类的好了？大晚上吃烤肉好像有点罪恶，明明前几天才刚开始准备健身的。但是大晚上带个蔬菜沙拉回去，总觉得不像是请罪而是找茬。孙胜完觉得苦恼，把这摇摆不定的选择题丢在脑后，想一会儿求助一下搜索引擎，说不定网友会有好答案。&lt;/p&gt;
+&lt;p&gt;只可惜真正下班的时候，已经接近午夜了。&lt;/p&gt;
+&lt;p&gt;下午的录制到晚上七八点就结束了，孙胜完借口还想要练习，让经纪人把自己送回公司。等打开练习室的门时，她才想起家里还有个神秘的白猫。可都已经到练习室了，不练个一会儿总觉得自己不仅没骗过经纪人，连自己都没上当。&lt;/p&gt;
+&lt;p&gt;孙胜完忍了一晚上都没有打开通讯软件，等到练习结束的时候才终于鼓起勇气。可上一条发给裴珠泫的信息还显示未读，孙胜完都说不准自己的心跳到底是慌乱如鼓还是平静如水了。她盘坐在练习室的地上，捧着手机纠结了好一会儿，还没彻底发出个什么结果的呆来，手机就响了一下，吓得她差点把它丢出去，连同着那份不知道算不算有个结果的爱情一起，换来一个破碎的结局。&lt;/p&gt;
+&lt;p&gt;她手忙脚乱地稳住手机，打开一看，是惦记了一整天的裴珠泫的消息。&lt;/p&gt;
+&lt;p&gt;只是这个回信实在有点看不懂。&lt;/p&gt;
+&lt;p&gt;“敢块……”&lt;/p&gt;
+&lt;p&gt;后面就是一串标点符号的乱码。&lt;/p&gt;
+&lt;p&gt;不会是裴珠泫在家里喝醉了吧？孙胜完想起自己出门前放在地上的鸡胸肉和水，又开始担心起裴珠泫会不会觉得自己在发疯。&lt;/p&gt;
+&lt;p&gt;孙胜完想了半天，既没有办法破译裴珠泫这神秘的回复，也想不明白家里那只白猫是什么情况。她抓了抓头发，得出唯一的结论就是——&lt;/p&gt;
+&lt;p&gt;回家。&lt;/p&gt;
+&lt;p&gt;啊啊啊……她无声地尖叫。&lt;/p&gt;
+&lt;p&gt;世界上哪里可以买时间倒转的药啊！&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;正好遇上准备离开的相熟职员，孙胜完顺利地搭上便车，有一搭没一搭地聊着天，她空闲的大脑开始回忆昨天的错误。&lt;/p&gt;
+&lt;p&gt;昨天裴珠泫出门锻炼，孙胜完溜去录音室，所以她们傍晚的时候才在家里碰面。&lt;/p&gt;
+&lt;p&gt;说是碰面有些生疏，更合理的应该是两个人约好了带的食物，享受一个普通的惬意夜晚。&lt;/p&gt;
+&lt;p&gt;那个时候是谁先提议喝酒的呢？明明家里的冰箱都没有常备酒精，倒是裴珠泫从便利店的袋子里掏出两听啤酒来。刚洗完澡的裴珠泫随意地吹了几下头发，脸上和头发上都冒着热气，凑近孙胜完的动作没有任何额外意思，可偏偏心怀鬼胎的人就控制不住地胡思乱想。&lt;/p&gt;
+&lt;p&gt;漂亮的姐姐皱着眉，费了半天劲也打不开啤酒，孙胜完在对方投来求助的视线之前就伸出手，接过了这个小小任务。&lt;/p&gt;
+&lt;p&gt;发出呲呲气泡声的小麦酒精饮料像是能够揭穿藏在表象之下的爱恋心情，而接触在冰凉啤酒瓶上的手指正攀爬着无数紧张和胆小，只剩下佯装镇定的视线尽可能地巧妙回避着对视。孙胜完根本不敢想那压在心底的小小侥幸，一旦去纠结这样的撒娇和依赖有没有可能推导出公式右边的“她会不会有点喜欢我”，就会陷入无边无际的自我怀疑和自我肯定。&lt;/p&gt;
+&lt;p&gt;可是怎么办呢？孙胜完打开属于自己的那一听啤酒，苦涩夹杂着苦恼顺着喉咙一路往下，毫无阻拦地抵达灵魂深处。&lt;/p&gt;
+&lt;p&gt;她能怎么办呢？&lt;/p&gt;
+&lt;p&gt;中间是可以被忽略的普通时间，直到酒精终于让孙胜完的理智被消耗殆尽，而裴珠泫一双多情的眼睛又那样直直地望着她。电视上正在播放最近热播的韩剧，可孙胜完什么剧情都没有看进去。&lt;/p&gt;
+&lt;p&gt;试一下吧？说不定她也喜欢我呢？那些没有诉诸于口的亲昵会是假的吗？可是如果真的这么做了，她们又该走向哪里呢？她们可以享受恋爱吗？就像那些路上的情侣一样？孙胜完不知道这些问题的答案该去哪里找，昏暗的灯光、酒精的余韵和裴珠泫靠在肩膀上的热度都让她的内心跃跃欲试。&lt;/p&gt;
+&lt;p&gt;她怎么开口的呢？用什么语气说出来的呢？她有没有好好地念出裴珠泫的名字呢？&lt;/p&gt;
+&lt;p&gt;孙胜完挫败地发现她记不太清了。&lt;/p&gt;
+&lt;p&gt;但她记得自己看向那双眼，着迷了一样地低声念白，却换来了对方因为惊讶而瞪大的神情。&lt;/p&gt;
+&lt;p&gt;“……喜欢你。”&lt;/p&gt;
+&lt;p&gt;原来她连主语都没有说。&lt;/p&gt;
+&lt;p&gt;孙胜完坐在车上，绝望地发现这个告白简直就是失败中的失败。&lt;/p&gt;
+&lt;p&gt;但成熟的队长只是摸了摸她的头，巧妙地绕过了本该给出的拒绝或是同意，不知道从哪里掏出一杯蜂蜜水：“胜完，很迟了，明天还要赶行程吧？”&lt;/p&gt;
+&lt;p&gt;总觉得失去了什么的醉鬼愣愣地看着为自己忙前忙后的暗恋对象——或者说明恋对象：“嗯、嗯……好像是的。”&lt;/p&gt;
+&lt;p&gt;就算在模糊的醉眼里，裴珠泫还是笑得温柔：“那就先休息吧。”&lt;/p&gt;
+&lt;p&gt;这是拒绝吧！&lt;/p&gt;
+&lt;p&gt;孙胜完微笑着关上车门，挥着手送别好心的职员，迈开沉重的脚步上楼。&lt;/p&gt;
+&lt;p&gt;如果没有时间倒流的药的话，来点失忆药也可以。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完做了五分钟心理准备，还是拧开了家门。&lt;/p&gt;
+&lt;p&gt;这里会不会很快就不是我的家了……她有点悲伤地想。家里还维持着出门的样子，一片漆黑，无声无息。&lt;/p&gt;
+&lt;p&gt;有点不太对劲。&lt;/p&gt;
+&lt;p&gt;就算裴珠泫对她有什么意见，也不至于变成这种样子。&lt;/p&gt;
+&lt;p&gt;孙胜完伸手开灯，发现自己放在地上的水碗空了一半，鸡胸肉只剩下零碎的三分之一。就是这个残局看着不太像是乐意吃的样子……更像是饿得受不了了无可奈何之下的选择。孙胜完安慰自己，这至少说明那只白色布偶不是自己的幻觉。&lt;/p&gt;
+&lt;p&gt;那么问题就变成了这只猫到底是从哪里来的。&lt;/p&gt;
+&lt;p&gt;首先不是我自己，孙胜完回到自己房间，可感觉也不像是珠泫吧？她换好家居服，开始满屋子找猫。总不能是她们仨半夜的时候来宿舍丢了只猫吧？怎么会一只白色的猫也那么难找呢……孙胜完在外面兜了半天，出于微妙的羞耻感，也不好在嘴里“喵喵猫”地叫，只能光凭借肉眼遍地寻找。&lt;/p&gt;
+&lt;p&gt;只剩下裴珠泫的房间没有看过了。&lt;/p&gt;
+&lt;p&gt;孙胜完在门口徘徊又踱步，蹑手蹑脚地感觉自己才是这个空间里的那一只猫。&lt;/p&gt;
+&lt;p&gt;这下开口比告白更难了。&lt;/p&gt;
+&lt;p&gt;她停下来，试图听出裴珠泫房间里有没有任何声响。&lt;/p&gt;
+&lt;p&gt;什么也没有。&lt;/p&gt;
+&lt;p&gt;……这也不是什么好事啊！孙胜完抓耳挠腮。难道珠泫已经睡了吗？可是她到家的路程也不过十来分钟，既然都回信了，也不至于在自己到家之前立刻睡着吧？要用这种方式逃跑的人也应该是她吧！孙胜完好想狂野地砸门，质询到底什么情况，可现实里的她只敢在纠结到第六分钟的时候，用尽全身的勇气敲门：“珠泫？你在吗？”&lt;/p&gt;
+&lt;p&gt;原来相对论可以通过身体感知啊，孙胜完漫无目的地想，我居然感觉秒针的每一次移动都像是经过我的脊背。&lt;/p&gt;
+&lt;p&gt;啊……要不写到下次专辑的歌词里？&lt;/p&gt;
+&lt;p&gt;在孙胜完准备再敲一次门的时候，房间里传来了“咚咚咚”的动静。&lt;/p&gt;
+&lt;p&gt;这听着可不太安全啊？孙胜完嘴里喊着：“抱歉！”冲了进去，发现那只找了半天的白色布偶看上去是从裴珠泫的桌子上跌了下来，倒是没受伤的样子，就是有些狼狈。&lt;/p&gt;
+&lt;p&gt;虽然这么想一只陌生猫不太对，但这猫怎么一副刚认识自己身体的样子？&lt;/p&gt;
+&lt;p&gt;孙胜完从队友丢的猫一路想到私生饭，又从逻辑上一个个击破这些猜想的不可能。她瞥到桌子上裴珠泫的手机亮着，想着或许万物有灵，万一这猫听得懂人话，一本正经地开口：“你怎么能乱动陌生人的手机呢？”出于国际精神，孙胜完又把这句话用英语讲了一遍。在她思考要不要再用日文说一次的时候，猫似乎带着恼怒和无奈地“喵”了一声。&lt;/p&gt;
+&lt;p&gt;孙胜完再怎么见过世面也没法控制自己的惊讶了：“你听得懂韩语？！”她顿了顿，“呃……还是英语？”&lt;/p&gt;
+&lt;p&gt;“喵。”&lt;/p&gt;
+&lt;p&gt;这什么意思？孙胜完眨眨眼，是“是”还是“否”？这样交流的效率太低了，而且会让自己有种智商坠入谷底的感觉。她小心地坐在地板上，开始有商有量：“要不……如果对的话，你就叫一声，不是的话，你叫两声？”&lt;/p&gt;
+&lt;p&gt;她边说边觉得好笑，以至于最后的疑问声听上去都快笑成气音。&lt;/p&gt;
+&lt;p&gt;布偶恶狠狠地拍了下爪子，摇了摇头。&lt;/p&gt;
+&lt;p&gt;哦，对哦。孙胜完觉得自己好傻，赶紧改口：“抱歉，忘了，你还可以点头摇头。”&lt;/p&gt;
+&lt;p&gt;对一只猫还用敬语感觉好微妙。孙胜完小小地反省了一下自己。看昨天和裴珠泫那样尴尬的结束，看来她以后搞不好也只能对队长在公开场合和私底下都得用敬语了。唉！孙胜完又开始忍不住难过起来。&lt;/p&gt;
+&lt;p&gt;感觉到猫盯着自己的视线，她又不得不回到现实中来：“呃……那我可以问你问题吗？”&lt;/p&gt;
+&lt;p&gt;猫点点头。&lt;/p&gt;
+&lt;p&gt;孙胜完这下才得以好好地看清白色布偶的模样。眼睛的颜色并不是蓝色，而是棕色。看着真像裴珠泫。不对不对……孙胜完觉得自己有点疯狂。布偶的耳朵尖尖地立着，像是在等着她的下一句话。只有尾巴显示出有些躁动的不安。孙胜完想，要是能在宿舍养只猫好像也不错的样子。&lt;/p&gt;
+&lt;p&gt;她犹犹豫豫地开口：“你是自己进来的吗？”&lt;/p&gt;
+&lt;p&gt;想不到这个问题让猫也迟疑了。猫先是点了点头，又摇了摇头。&lt;/p&gt;
+&lt;p&gt;“这、这是什么意思？是其他人把你送进来的？”&lt;/p&gt;
+&lt;p&gt;这回是肯定的摇头了。&lt;/p&gt;
+&lt;p&gt;“难道你自己按电梯上来的？”&lt;/p&gt;
+&lt;p&gt;孙胜完可以肯定，对方给自己丢了一个白眼之后才摇头的。&lt;/p&gt;
+&lt;p&gt;“那你见过这房间的主人吗？”&lt;/p&gt;
+&lt;p&gt;猫摇摇头，又点点头。&lt;/p&gt;
+&lt;p&gt;难道是自己提问的方式不对吗？孙胜完开始质疑自己。但是回顾一下这几个问题，明明都是很普通平常的事，回答起来会这么困难吗？不对……从一开始这只猫听得懂自己的话就感觉很蹊跷啊！&lt;/p&gt;
+&lt;p&gt;孙胜完决定场外求助。她想问问姜涩琪，又怕等下越说越复杂，想问问金艺琳，又怕对方好奇心上来直接杀到宿舍，至于朴秀荣……别等下抓这只猫去拍综艺了。还是问问搜素引擎吧。孙胜完打开谷歌，开始输入“猫能听得懂人说话吗？”&lt;/p&gt;
+&lt;p&gt;搜索栏弹出一大堆网页，看上去全是养猫人的相互交流。&lt;/p&gt;
+&lt;p&gt;“我家猫好像听得懂我说话，每次让她去睡觉的时候都乖乖上床。”&lt;/p&gt;
+&lt;p&gt;“都说我家这种猫会很笨，可我觉得他很聪明啊！跟他说今天不吃罐头的时候都会冲着我狂叫。”“是在骂你吧！”“才不是！对着我喵喵叫着是在撒娇啊！”&lt;/p&gt;
+&lt;p&gt;“我家孩子说不上是聪明还是笨，但感觉是那种只听自己爱听的话的类型……”&lt;/p&gt;
+&lt;p&gt;孙胜完看了半天，感觉没什么有效信息，反倒是让自己产生了从狗狗派动摇的心。她还想再看看有没有有效回复，就被一爪子从虚拟世界拍回现实世界。站在眼前的白色布偶明明那么小只，此时却露出了如此严肃以至于有些让人畏缩的表情。&lt;/p&gt;
+&lt;p&gt;“怎、怎么了？”&lt;/p&gt;
+&lt;p&gt;猫扒拉着她的手机，用爪子在上面指指点点。&lt;/p&gt;
+&lt;p&gt;“你要……”孙胜完努力斟酌了一下措辞，“你要打字吗？”&lt;/p&gt;
+&lt;p&gt;坐在旁边的猫郑重地点了点头。&lt;/p&gt;
+&lt;p&gt;这也太魔幻了。孙胜完晕晕乎乎的：“手机屏幕太小了，你没办法这么精准地打字吧？又感应不到你的指甲……”她在这种仿佛奇幻故事展开之中试图抓住理智的绳子，努力找到科学的解决办法，“我记得家里还有个iPad，那个应该可以。”&lt;/p&gt;
+&lt;p&gt;她站起身，白色布偶亦步亦趋地跟着她。&lt;/p&gt;
+&lt;p&gt;iPad很久没有开机，等待充电的过程难捱又漫长。孙胜完看着认真盯着iPad的猫，那股奇妙的熟悉感又浮现了上来。不能吧？不应该吧？她心里冒出的泡泡像昨天喝的啤酒，只不过之前是为了辛酸又心跳的暗恋，现在是为了神奇又神怪的奇妙体验。又不是在写小说，这种事情怎么能给我遇上呢？孙胜完发着呆，肆无忌惮地蹬着猫的后脑勺，结果被对方抓个正着。&lt;/p&gt;
+&lt;p&gt;该死的，她在下意识地错开视线后骂自己，怎么跟偷看裴珠泫被抓包一模一样。&lt;/p&gt;
+&lt;p&gt;所幸iPad及时充好电，开机之后调整了半天键盘，才算是弄到了连猫都能使用的程度。孙胜完打开备忘录，好整以暇地希望奇迹不会出现，至少这样也不过是只普通的猫，裴珠泫可能也就是回了大邱老家，一切都是普通又平凡地行进在生活的既定轨道上，最大的变数也就是她可能没法再用平常心对待自己的队长……嗯……最好是这样，这样是最好……&lt;/p&gt;
+&lt;p&gt;键盘随着猫一个一个符号用力地拍打，逐渐形成了完整的句子。&lt;/p&gt;
+&lt;p&gt;孙胜完跟着字符开始念。&lt;/p&gt;
+&lt;p&gt;“我……是……裴……珠……泫……”&lt;/p&gt;
+&lt;p&gt;她停了下来。猫也停了下来。&lt;/p&gt;
+&lt;p&gt;孙胜完眨眨眼，又揉揉眼。她往后移动了一点，又往前靠近了一点。这韩文怎么越看越陌生啊？她忍住没说出这句话，可行动让她的不敢置信暴露无遗。孙胜完干脆闭上眼睛，深呼吸了几下，再次睁开眼。备忘录上的文字没有丝毫改变。&lt;/p&gt;
+&lt;p&gt;我是裴珠泫。&lt;/p&gt;
+&lt;p&gt;哦，她甚至没用敬语。&lt;/p&gt;
+&lt;p&gt;孙胜完没法管理好自己的表情，也没法管理好自己的语言系统。&lt;/p&gt;
+&lt;p&gt;号称自己是裴珠泫的猫又开始打字了。&lt;/p&gt;
+&lt;p&gt;屏幕上逐渐被两个人之间才知道的事情填满，包括但不限于孙胜完制作太多的面包做了裴珠泫一个月的早餐，腌得有点过咸的辣白菜在吃之前都会被裴珠泫手动在水里刷几遍，有几个晚上偷偷吃的拉面被裴珠泫发现，因为冲进浴室太快而忘记带浴巾不得不让裴珠泫送进来，随后发现换洗内衣也没带，就又喊了一次，还有……&lt;/p&gt;
+&lt;p&gt;孙胜完捂着脸，发现自己的祈祷和祈愿没有一个神明听见。&lt;/p&gt;
+&lt;p&gt;“好了、好了，我相信了，您是裴珠泫。”&lt;/p&gt;
+&lt;p&gt;布偶猫听上去像是“哼”了一声，傲气地抬起头，还顺带着甩了甩尾巴。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;老天啊，我的室友变成猫了。&lt;/p&gt;
+&lt;p&gt;孙胜完把脸埋在手里，不愿意直面现实。&lt;/p&gt;
+&lt;p&gt;救命啊！Red Velvet 的队长、我的同居人、昨天我刚刚告白过但是好像失败了的暗恋对象变成一只猫了！&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;我该怎么办啊！&lt;/p&gt;- http://localhost:1313/my-roommate-has-become-a-cat-1/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>小兔子选择了倾听 30.变化</title>
+        <link>http://localhost:1313/the-bunny-has-chosen-to-listen-30/</link>
+        <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-30/</guid>
+        <description>杂货店老板 http://localhost:1313/the-bunny-has-chosen-to-listen-30/ -&lt;p&gt;作为恢复上班的第一天而言，这并不是个好天气。
+ &lt;/p&gt;
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;裴珠泫出门的时候没法睁开眼，踉跄着差点在家门口摔一跤。孙胜完眼疾手快地抱住女朋友，还不得不分心锁上门。裴珠泫眯着眼睛趴在恋人的肩膀，开始思考现在请假会不会意欲太过明显。&lt;/p&gt;
+&lt;p&gt;“要不换个指纹锁吧？”&lt;/p&gt;
+&lt;p&gt;“嗯？”小提琴首席没有跟上钢琴家的节拍，发出含混的困惑，“什么指纹锁？”&lt;/p&gt;
+&lt;p&gt;“锁门太麻烦了。周末的时候，我去联系换一个吧。”孙胜完三言两语就定下了日程，让裴珠泫没有太多的参与感。孙胜完自然地牵着她的手——确切地说，是她的手腕。钢琴家摩挲着手腕上明显的骨节，在裴珠泫想起一些其它的回忆之前开口，“体重又轻了吗？怎么感觉又瘦了很多。”&lt;/p&gt;
+&lt;p&gt;裴珠泫想起昨天半夜作为夜宵的蛋糕，拿不准这句话到底是真的在追责自己的体重，还是一句随口开启的话题。她不想纠缠这个部分，于是干脆一路沉默，装着自己因为太困而不愿说话。&lt;/p&gt;
+&lt;p&gt;孙胜完在上车的时候偷亲了一下她，小声嘀咕地抱怨：“又装睡，下次这招可不管用了。”&lt;/p&gt;
+&lt;p&gt;才不会不管用呢。&lt;/p&gt;
+&lt;p&gt;裴珠泫闭上眼，坦坦荡荡地从装睡变成真的小睡。&lt;/p&gt;
+&lt;p&gt;再说了，本来招式就不在数量，管用才是最重要的。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;或许是因为能够放心地补眠，裴珠泫感觉自己到练习室的时候状态都好了很多。&lt;/p&gt;
+&lt;p&gt;她们先是遇上了还处在旅行兴奋期的叽叽喳喳的小朋友们。不得不承认，裴珠泫觉得自己面对这些并非初次的调笑，之前的那些微弱的不自在感减弱了不少。是为什么呢？总不能是因为见了一下孙胜完的家人，一切困难全都莫名地迎刃而解了吧？可纠结又烦恼的裴珠泫也说不清楚，她到底是希望能够这样轻松地得到一个答案，还是希望可以在这种难以言喻的事情上纠结更久。&lt;/p&gt;
+&lt;p&gt;她光明正大又偷偷摸摸地看了眼孙胜完，对方正在描述多伦多下雪的情景。&lt;/p&gt;
+&lt;p&gt;“在室内的话就不会很冷了。在圣诞节前后，路边还会有很漂亮的装饰……哎，你们这次去北海道遇上下雪天了吗？”&lt;/p&gt;
+&lt;p&gt;“遇到了遇到了！”&lt;/p&gt;
+&lt;p&gt;“好大的雪！感觉比首尔的大多了。”&lt;/p&gt;
+&lt;p&gt;“哪有那么夸张啦，而且是谁到了那边第二天就喊着要吃韩餐了？”&lt;/p&gt;
+&lt;p&gt;“……咳，胜完姐姐和珠泫姐姐玩得开心吗？”&lt;/p&gt;
+&lt;p&gt;孙胜完非常刻意地用大幅度的动作戳了戳裴珠泫：“怎么样，珠泫？玩得开心吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫低着头，沉思了半天，直到让游刃有余的孙胜完都忍不住有些焦急起来。让人心焦的小提琴首席慢悠悠地评价：“嗯……还是挺开心的，就是有的独立的快乐，似乎建立在高昂的价格上。”&lt;/p&gt;
+&lt;p&gt;“多伦多的物价很高吗？”&lt;/p&gt;
+&lt;p&gt;“倒也不是物价的问题。”裴珠泫笑着说，“应该是自尊心的价格比较高。”&lt;/p&gt;
+&lt;p&gt;孙胜完露出沮丧的幼犬表情。裴珠泫忍住了摸摸对方脑袋的想法。&lt;/p&gt;
+&lt;p&gt;和平时比起来稍稍有些迟到的指挥家在此时进入讨论，两三句就让氛围从轻松愉快变成了练习前的稍显紧张。姜涩琪简短地介绍了一下接下来几场表演的严肃程度和练习难度，在结尾的时候状似不经意地指出乐团并不抵触办公室恋爱：“当然了，如果让练习进度停滞的话是肯定不行的。不过，我相信诸位的专业素养不会出现这种状况吧？”&lt;/p&gt;
+&lt;p&gt;钢琴家坐在钢琴后面，弹出几个俏皮的音节，然后才蹦出一个拟声词：“昂。”&lt;/p&gt;
+&lt;p&gt;大家很没有默契地笑出了不同的节奏，但又非常统一地把视线转移到了裴珠泫的身上。&lt;/p&gt;
+&lt;p&gt;小提琴首席只好拉起琴弦，配合地拉出几个沉稳的音符。&lt;/p&gt;
+&lt;p&gt;总觉得心情奇怪地变好了。裴珠泫想。&lt;/p&gt;
+&lt;p&gt;看来回笼觉是必要的，以后还是多睡点回笼觉吧。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;作为返工惯例的聚餐又让大家陷入了讨论。&lt;/p&gt;
+&lt;p&gt;一方是坚持韩餐的烤肉派，另一方是提议花点钱的西餐派。裴珠泫的手机又被热络的讨论吵得一卡一顿，不得不放下来盯着孙胜完开车的侧脸发呆。钢琴家在红绿灯的时候看了看女友，很快就得出了结论：“为什么不换手机呢？”&lt;/p&gt;
+&lt;p&gt;“不知道最近有什么好的选择。”&lt;/p&gt;
+&lt;p&gt;“怎么不问我呢？”&lt;/p&gt;
+&lt;p&gt;“之前还没有这么卡的。”裴珠泫说，“再说了，现在家里多了一张嘴，经济上不是应该更加有计划吗？”&lt;/p&gt;
+&lt;p&gt;孙胜完吃惊地看着她：“什么？我这么能吃吗？”&lt;/p&gt;
+&lt;p&gt;“……为什么会得出这个结论啊。”裴珠泫想打一下女友以表现出自己的无奈，但是想了想对方正在开车，出于安全的考虑还是收回了手，“我明明在为你着想。”&lt;/p&gt;
+&lt;p&gt;“嗯……”孙胜完似乎想问为什么这么说。裴珠泫突然觉得自己是不是说得太多了，正想要强硬地切换话题，聊一聊手机该选什么品牌，聪明的小狗就得出了答案，“难道珠泫也要一起负担吗？多伦多的？”&lt;/p&gt;
+&lt;p&gt;裴珠泫把视线从车内移到车外。已经暗下来的街道亮起了路灯，还有一些偷懒的店家没有把一两个月前的圣诞节装饰收起来，但春季的营销活动又蓄势待发，让整个环境看上去有种奇怪的季节错乱感。&lt;/p&gt;
+&lt;p&gt;以前会觉得不耐烦的情景，如今却没有过多的心思去苦恼了。&lt;/p&gt;
+&lt;p&gt;裴珠泫绞尽脑汁地在想到底要怎么说，才能让自己的心思听上去不那么明显——可她怎么想，都觉得自己已经非常自然地把对方纳入了自己的人生计划中，也在没有和对方确认的情况下，就认为对方的未来也有着自己的存在了。&lt;/p&gt;
+&lt;p&gt;她的双手握紧，在膝盖的上方踌躇又坚定。&lt;/p&gt;
+&lt;p&gt;“不要想着停在旁边！”裴珠泫在孙胜完减速的时候急急地喊，“我又没有要哭的意思。”&lt;/p&gt;
+&lt;p&gt;“好好……”&lt;/p&gt;
+&lt;p&gt;“干嘛？难道你不是这个意思吗？”裴珠泫说，“每次都只会停在路边然后抱着我，也不会换点别的。”&lt;/p&gt;
+&lt;p&gt;孙胜完笑嘻嘻的，一点也没有为自己的行为感到什么：“怎么了？珠泫不也这样对我吗？”&lt;/p&gt;
+&lt;p&gt;“怎么样对你了。”&lt;/p&gt;
+&lt;p&gt;“就只会用一招，一直用一直用。”&lt;/p&gt;
+&lt;p&gt;“……”裴珠泫哼了一声，“对啊，我是这么想的。”&lt;/p&gt;
+&lt;p&gt;孙胜完以为自己的挑眉没有被发现，但裴珠泫早就注意到现在的她就喜欢悄悄地模仿自己。看在对方辛辛苦苦做司机的份上，裴珠泫觉得不做追究，在适当的时候再拿出来做武器，才能最大的发挥这样的效力。她差点被自己这样幼稚的想法逗笑，于是急忙地收住嘴角，严肃地继续谈论经济问题：“总不能只让你一个人负担吧？以前……就算了，现在你又不是一个人了。”&lt;/p&gt;
+&lt;p&gt;“以前就算了？”&lt;/p&gt;
+&lt;p&gt;“……那你要怎么算。”&lt;/p&gt;
+&lt;p&gt;孙胜完眨眨眼：“不知道哎，珠泫要怎么算？”&lt;/p&gt;
+&lt;p&gt;“还能怎么算？”裴珠泫真诚地被拐到了思维的陷阱里，开始认真琢磨起该怎么计算，“按天算吗？还是按周、按月算？这样感觉很像分手费吧……而且你的房子是什么时候开始买的，要不干脆找个之前念法律的……”&lt;/p&gt;
+&lt;p&gt;“珠泫，”孙胜完说，“我很开心。”&lt;/p&gt;
+&lt;p&gt;“什么啊？我们还没算好呢，”裴珠泫说，“现在很多人就算结婚也算不清楚的，我感觉我们也需要认认真真算一算才行。你搬进来之后，其实房子也是需要稍微改一改装修的吧？不过这部分应该不用支出太多，可以把书房稍微改改就好。卧室的床应该是要改大一点的……干嘛，不是让你不要停在旁边吗？我又没有……”&lt;/p&gt;
+&lt;p&gt;孙胜完说：“我知道，你没有哭。”&lt;/p&gt;
+&lt;p&gt;“那你怎么还停下来了。”&lt;/p&gt;
+&lt;p&gt;“因为我刚刚说我很开心，你没有理我。”&lt;/p&gt;
+&lt;p&gt;“……”裴珠泫伸出手，非常用力地揉了揉对方的脑袋，“好好，你的开心我收到了。”&lt;/p&gt;
+&lt;p&gt;孙胜完温顺地眯着眼睛，又非常不温顺地拉过裴珠泫，交换了一个有些不太短的吻。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;接吻的时候，是怎么感受到恋人的情绪的呢？&lt;/p&gt;
+&lt;p&gt;是通过直接接触的双唇，还是颤抖不已的呼吸？是黑暗中愈发敏锐的感官，还是纠结于睁开还是闭上的双眼？是无数习惯累积起来的下意识，还是偶尔发现的小动作？&lt;/p&gt;
+&lt;p&gt;又或者，这些以为从对方身上体验到的情绪，实际上都是自己的呢？&lt;/p&gt;
+&lt;p&gt;在长长的吻里，毫不担心地释放出的安全感和信任，是从什么时候开始从不安和惊慌变化而来的呢？&lt;/p&gt;
+&lt;p&gt;裴珠泫想，如果现在她开口问的话，孙胜完会不会给出答案呢？还是又故弄玄虚地装成大人的样子，要她自己一步一步地发现藏在真心后面的、用苍白话语无法描述的情感，再表扬她终于做到了呢？又干脆这个讨厌的女友要一副自己也不知道的样子，诱哄着她，要她和自己一起踏上寻找的路，用短暂的同行掩盖永恒的许诺呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;但她从未如此确定，不论是哪一种可能，她都感到非常开心。&lt;/p&gt;
+&lt;p&gt;非常开心。&lt;/p&gt;- http://localhost:1313/the-bunny-has-chosen-to-listen-30/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>关于《小兔子选择了倾听》</title>
+        <link>http://localhost:1313/review-the-bunny-has-chosen-to-listen/</link>
+        <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/review-the-bunny-has-chosen-to-listen/</guid>
+        <description>杂货店老板 http://localhost:1313/review-the-bunny-has-chosen-to-listen/ -&lt;p&gt;幸福又美满地躺下（安详&lt;/p&gt;
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://softcookie.lofter.com/&#34;&gt;softcookie&lt;/a&gt;:
+  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这篇是给&lt;a href=&#34;http://localhost:1313/categories/%E5%B0%8F%E5%85%94%E5%AD%90%E9%80%89%E6%8B%A9%E4%BA%86%E5%80%BE%E5%90%AC/&#34;&gt;《小兔子》&lt;/a&gt;的评论，”兔子“或”兔子小姐“指裴珠泫，”钢琴家“指孙胜完。和《狗狗逃跑之处》一样，也是没完结，总之你们也来追更吧！x)&lt;/p&gt;
+&lt;p&gt;最近看了作者的很多作品后，发现其中不少是用视角有限的第三人称写的，比如《小兔子》、《花占卜》、《金木犀》聚焦在裴珠泫身上，《狗狗逃跑之处》、《What if…狼与魔女》聚焦在孙胜完身上。这种叙述方式的趣味在于不可预知，没有作者的允许读者无法知道其她人物在想什么、会做什么；但又因为聚焦在一方身上，作者可以从容地描写一方开不了口的内省、行为的动机。不过对我来说最有趣的不是作者采用什么视角（毕竟手法上的选择像螺丝刀一样谁拿着都可以拧螺丝），而在于有时候作者会写一些令我觉得有点胆战心惊的人物心理：《小兔子》里是兔子设想在钢琴家弹琴时把琴盖狠狠砸下、《狗狗》里是第二章“孙胜完心想，要是她现在追问的话，我以后一定、一定、一定不会再来了。就让我们两人之间的交集停下。就像那个夜晚之后，我就不应该再出现一样”。胆战心惊在作者用她罕见的带点暴烈的描写表达出两个人表面想虐待对方实际上想自虐的心理，有趣在看到作者写作方面的不同面貌。还有一点！就是兔子在想砸手后，又“对着前任的手”，“控制不住地浮想联翩，回忆起过去的旖旎细节”——兔子对钢琴家的种种欲望实在是太有意思了。&lt;/p&gt;
+&lt;p&gt;作者擅长抛出问题——我觉得《小兔子》里出现的问题比《狗狗》里的难理清。或许主要问题就是如何定义爱情。很多同人作品里出现的爱情是一种随机出现的奇观，观感会类似于“惨啦，你俩被人推进爱河啦”。并不是要对人物的坠落进行一种带有厌恶的审判，其实作为读者我会为奇观驻足，有时候还挺享受观察作者是用什么力度什么角度推人的……如果是奇观，那么不需要困惑也不需要迷茫，对美进行一个崇敬就完事儿了。但人就是难满足：享受够了奇观又觉得演出结束后落寞得很，一回头，困惑和迷茫都还在。在这种情况下，《小兔子》的出现填补了这种不满。小兔子是真纠结啊……我想，对她来说，就算有人点出“你如果为这段关系思索这么多问题，那说明它已经足够特殊，对方也足够特殊，是和友人不一样的”，她也不会照单全收。对兔子小姐来说，爱情不比小提琴简单，爱情像艺术或一切能力一样，既需要理论钻研也需要行为实践。&lt;/p&gt;
+&lt;p&gt;但是兔子想不清理论，也实践不了行为。因为爱情在场，恋人却缺席。或许两个人进行感情重建时对过往的回望的醍醐味就在于这种在场和缺席之间的张力。“爱情这个课题连谱面都没有，而她也无从找到可以练习的序曲。孙胜完曾经是她在这个研究上的唯一搭档，而她的搭档也无法容忍她，最后逃离了她的身边。”兔子会想：“悲伤不应该是心碎的、折磨的、无法愈合的伤口吗？就像自己在每个不同却相似的黑夜里，试着挖掘伤疤，以为这样就能哭出来，而哭出来就是恢复成冷漠的成年人的第一步。“兔子会在深夜去家附近的便利店买酒（醉）。兔子的思绪会被过去的回忆侵入、行为会被过去的恋人改写。（读者会嗑生嗑死。）而对于钢琴家来说，或许爱情已经被很好地内化了。之前我非常好奇一个音乐家在即兴演奏时脑中都会思考什么。有一位音乐家说：“不要以为我演出的同时还想着很多概念……我会在练习时思考这些概念，直至它们变为我直觉和习惯的一部分”。钢琴家进行过大量的间接的练习吧，不过练习到看起来像天才的程度是会令人觉得有些“狡猾”。如果钢琴家直截了当地否认她对于理论有任何困扰——那她属于是 Jimi Hendrix 转世了，兔子小姐请帮无能狂怒的我多骂她几句大傻瓜。&lt;/p&gt;
+&lt;p&gt;回到如何定义爱情这个问题。对于兔子来说，如果不能回答爱情的由来和表现方式，那么就无法确认自己被爱（“有那么多人爱你，我的爱在其中如此渺小、如此稀薄。为什么要和我在一起呢？”），也没法确认自己是否“正确地”爱着钢琴家。或许会陷入陀氏所说的“苦于不能施爱，那就是地狱”。（所以我认为《小兔子》里的兔子考虑过的“成人法则”即变得冷漠比《狗狗》里的不暴露脆弱更严苛）。奇观式的因为钢琴家的接近而引起的种种生理反应也不是能令兔子小姐信服的答案。&lt;/p&gt;
+&lt;p&gt;不知道看到这篇评论的人有没有玩过《哈迪斯》的，提到它是因为这个游戏的主人公得一遍遍地走已经走过的关卡，但每一次冒险会有一点点随机的变化、一点点新剧情。《小兔子》的前十四章让我回想起了被《哈迪斯》支配的心情：除了开篇两人在宴会厅相遇外，场景基本就是在兔子的家中、钢琴家的家中、钢琴家的车上和乐团。家里、乐团里、车上，家里、乐团里，家里。但不是说在看《小兔子》的前半时我陷入某种鬼打墙了，因为每个环境再现时两个人之间的距离在变化，比较她们在不同时间的同一环境中的不同本身就是个有趣的解读游戏。而且这种环境变化虽然不是线性的（《哈迪斯》里的四大关卡顺序是固定的），但我觉得这种无规则的反复反而很像兔子小姐的纠结……爱情的定义没办法用线性的因果关系来推导。两个人在宴会厅重遇后，恋人在场，爱情在场，信心缺席。兔子小姐在相同环境下的进行种种尝试、练习，能和钢琴家再次回到星夜下的营地重新确立关系真的是特别值得一读的故事。两个人从试用转正后，环境开始向外延伸并且飞速变换：家具商场、和乐团在外聚餐、兔子家附近的便利店、飞机上、钢琴家在加拿大的公寓、她过去经常去的小餐馆、高中、家、音乐厅、二人起舞的大街、首尔的超市，这种空间上的延展和节奏切换给我一种豁然开朗的感觉——两个人仿佛在理清了感情的乐旨后进入了更广阔的天地。&lt;/p&gt;
+&lt;p&gt;两个人直接之后会发生什么呢、还有哪些事情需要理清呢、番茄烫饭什么时候更新呢，带着这些问题，结束这个周末吧 🥲&lt;/p&gt;
+&lt;/blockquote&gt;- http://localhost:1313/review-the-bunny-has-chosen-to-listen/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>金木犀</title>
+        <link>http://localhost:1313/osmanthus/</link>
+        <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/osmanthus/</guid>
+        <description>杂货店老板 http://localhost:1313/osmanthus/ -&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;p&gt;bjh生日快乐，又赶上啦！&lt;/p&gt;
+&lt;p&gt;好像最近都和花有关……&lt;/p&gt;
+&lt;p&gt;虽然是秋天的花，但这首&lt;a href=&#34;https://music.163.com/#/song?id=2071177220&amp;amp;userid=118540179&#34;&gt;金木犀&lt;/a&gt;总有种夏天的感觉，却被我拿来写春天的恋情，该说是思路太跳脱还是怎么回事呢……&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;1&#34;&gt;&lt;strong&gt;1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;裴珠泫平时不怎么买花。
+ 
+
+&lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;所以她也没有办法解释，自己怎么就鬼使神差地走进了这家街口的花店。可能是因为料峭的春风让她迫切地想要找个温暖的地方躲躲，也或许是因为从敞开的店门里飘出了微弱的香气。&lt;/p&gt;
+&lt;p&gt;总之，她不由自主地迈开了脚步，走向了这家从开业以来就没有进入过的花店。&lt;/p&gt;
+&lt;p&gt;门推开的时候，发出了清脆的风铃响声，随后在装满花和多肉的架子后面，慢悠悠地露出一张惊讶的、温柔的脸。&lt;/p&gt;
+&lt;p&gt;怎么这个店主看上去比自己这个顾客更惊讶有人来啦。&lt;/p&gt;
+&lt;p&gt;裴珠泫不知道自己是不是该开口，毕竟她既没有什么想要被解答的困惑，也没有什么想要购买的花朵。&lt;/p&gt;
+&lt;p&gt;如果真要问的话，倒是很想问问……&lt;/p&gt;
+&lt;p&gt;如果买一束花送给花店的主人，那算是借花献佛的范畴吗？&lt;/p&gt;
+&lt;p&gt;所幸这位店主体贴地解围：“今天真是个好天气呢，香味是不是都飘出去了？”&lt;/p&gt;
+&lt;p&gt;“嗯、嗯……”裴珠泫有些感激对方没有上来就用推销式的问题开口。要是她问的是诸如“想要买什么花？”或是“买花送给对象还是朋友呢？”这类的话，裴珠泫觉得自己可能会嗫嚅着夺门而出。她把视线从对方的脸上挪开，让自己不要那么不礼貌，“很好闻，所以进来了。”&lt;/p&gt;
+&lt;p&gt;自己在说什么啊……&lt;/p&gt;
+&lt;p&gt;花店的店主绽放出比花还要漂亮的笑容：“而且不冲，对吧？以前香水百合送来的时候，差点把我也熏晕过去。”&lt;/p&gt;
+&lt;p&gt;真会有把自己也熏晕的花店店主吗？“看来开花店也好辛苦。”&lt;/p&gt;
+&lt;p&gt;“是啦，”店主说，“不过看着那么多漂亮的孩子，心情还是很愉悦的，对吧？”&lt;/p&gt;
+&lt;p&gt;裴珠泫忍不住抓了抓手臂。她想，要是每天看见像您这样的人，心情也会变得很愉悦的。她正思忖着该怎么样才能把这句话转换成不那么露骨的语句，就看见店主惊讶地瞪大了眼睛。&lt;/p&gt;
+&lt;p&gt;“那、那是文身吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫低下头，看见因为自己刚刚的动作，左手的衬衫袖口被卷了上去，露出了在手臂末端接近手肘位子上的文身。&lt;/p&gt;
+&lt;p&gt;那是一个粉色的、小小的圆点。&lt;/p&gt;
+&lt;p&gt;为什么文这个来着？她也有点忘了。好像是因为可爱来着。&lt;/p&gt;
+&lt;p&gt;店主招呼着她，走到了稍微靠近柜台的地方。店主笑得像是拥有了什么世纪大发现，光是看着也让裴珠泫想要和她一起笑。店主眨眨眼，指着柜台前一排小小的多肉，上面也都贴着粉色的、小小的圆形图标，和她的文身一模一样。&lt;/p&gt;
+&lt;p&gt;只不过，在图标的右边有个小小的说明，是手写的字，圆圆的字体，看着很温馨。&lt;/p&gt;
+&lt;p&gt;“贴有粉色标签的，全部九折喔！”&lt;/p&gt;
+&lt;p&gt;裴珠泫终于也忍不住笑起来。&lt;/p&gt;
+&lt;p&gt;“原来我九折了？”&lt;/p&gt;
+&lt;p&gt;“嗯……好像是这样的呢。”店主笑着说，“这个，送给你吧。”&lt;/p&gt;
+&lt;p&gt;店主拿起柜台边的一个小小盆栽，上面开着温顺的小小花朵。&lt;/p&gt;
+&lt;p&gt;裴珠泫下意识就想拒绝：“不、不用了……”&lt;/p&gt;
+&lt;p&gt;“就当作都是九折的惺惺相惜啦。”&lt;/p&gt;
+&lt;p&gt;裴珠泫受不住对方期待的目光，不好意思说自己养植物并不是什么好手，甚至很容易会忙起来导致这些不会说话的生命就此消逝在世界上。店主像是看穿了她的担忧，慢条斯理地介绍着裴珠泫记不住名字的小花该如何饲养，不需要浇太多的水，也不需要天天晒太阳，只要放在室内就好，要是稍微有点不开心的样子，给一小勺水就好。&lt;/p&gt;
+&lt;p&gt;裴珠泫问，不开心的样子是什么样子？店主歪着脑袋想了想，回答她说，就像是熬夜了几天之后的样子。&lt;/p&gt;
+&lt;p&gt;裴珠泫想，我好像听懂了，又好像完全没有听懂。&lt;/p&gt;
+&lt;p&gt;店主郑重其事地把小花交到裴珠泫手里，像是拜托又像是请求一样地说：“有空的时候，常来玩呀？”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;本来应该拒绝的。&lt;/p&gt;
+&lt;p&gt;裴珠泫坐在文身店里想，当时怎么就答应了呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;一定是因为那天的花开得太香、太香了。&lt;/p&gt;
+&lt;p&gt;
+&lt;br&gt;&lt;br&gt;
+
+ &lt;/p&gt;
+&lt;h4 id=&#34;2&#34;&gt;&lt;strong&gt;2.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;文身师的工作并不繁重。&lt;/p&gt;
+&lt;p&gt;非要说的话，只有需要特别定做图案的时候，才会需要加班加点地调整。排除掉这种特别的工作，一般进来的客人，要么翻看店里的图案集，选定之后就开工，要么就是转了半天，因为没有下定决心就走了。&lt;/p&gt;
+&lt;p&gt;总之……裴珠泫觉得自己并没有那么忙。&lt;/p&gt;
+&lt;p&gt;所以……能够时不时地出现在花店里，应该也不是太奇怪的事情。
+ 
+
+&lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;裴珠泫给自己做好心理准备，刚推开门就听见孙胜完欣喜的欢迎：“今天来晚了哦。”&lt;/p&gt;
+&lt;p&gt;交换名字是在裴珠泫莫名答应承诺、来访第四次时候的事。&lt;/p&gt;
+&lt;p&gt;提起这件事的也是孙胜完。当时她正在完成当天的插花订单，然后对着在旁边耐心帮忙的裴珠泫突然开口：“说起来，还没问名字呢。”&lt;/p&gt;
+&lt;p&gt;沉浸在帮忙中的裴珠泫被吓了一跳，忍不住抖了一下。她顶着对方盛满笑意的眼神回答：“我叫裴珠泫。”&lt;/p&gt;
+&lt;p&gt;于是店主也从善如流地回应：“我是孙胜完。”&lt;/p&gt;
+&lt;p&gt;接着她们顺理成章地聊到了年纪，然后孙胜完惊讶地说：“原来我比你大！”然后她急匆匆地补充，“我总是会以为大家的年纪跟我差不多。哎，没想到我也已经是姐姐的年纪了吗……”&lt;/p&gt;
+&lt;p&gt;裴珠泫不好意思说，她一直以为自己才是能被称为姐姐的那一个。&lt;/p&gt;
+&lt;p&gt;孙胜完又说：“不过，我们就不要用敬语那一套了。”&lt;/p&gt;
+&lt;p&gt;“啊……”裴珠泫愣愣的，“为什么？”&lt;/p&gt;
+&lt;p&gt;“之前也没怎么说吧？我不想都变亲近了之后，又要因为这种小事疏远。”&lt;/p&gt;
+&lt;p&gt;这种小事……裴珠泫想，这种事情在有些人眼里可是天大的事啊。&lt;/p&gt;
+&lt;p&gt;但既然身为姐姐的孙胜完都这么说了，裴珠泫觉得自己没有不从善如流的道理。她点点头，把帮忙修好枝叶的花递给孙胜完，磕磕绊绊地喊了一句：“那……胜、胜完？”&lt;/p&gt;
+&lt;p&gt;孙胜完赞赏地看着她，接过了她的劳动：“珠泫很擅长这个啊，要不要干脆来我这里工作？”&lt;/p&gt;
+&lt;p&gt;裴珠泫低下头，为自己对这个提议心动而感到羞耻。&lt;/p&gt;
+&lt;p&gt;裴珠泫，你根本不是因为擅长这个才想来的吧！&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;于是……这是裴珠泫这周第三天来孙胜完的花店报道了。&lt;/p&gt;
+&lt;p&gt;既然……孙胜完也没有表现出什么，那她应该也是欢迎自己的吧？&lt;/p&gt;
+&lt;p&gt;这个时候，那个问题显然无法回避了啊——&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;给花店老板送花，不仅不会有惊喜的感觉，反而会将自己的心思暴露无遗啊。&lt;/p&gt;
+&lt;p&gt;
+&lt;br&gt;&lt;br&gt;
+
+ &lt;/p&gt;
+&lt;h4 id=&#34;3&#34;&gt;&lt;strong&gt;3.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;裴珠泫在孙胜完这里学到了很多。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;像是为了在两个人的心照不宣下，让她这个文身师在花店里的存在顺理成章，孙胜完甚至弄到了一套跟自己衣服差不多的制服。裴珠泫很想让自己不要那么幼稚，可每次从镜子里看见两条相似的衣服，脑筋还是忍不住转到情侣装上。&lt;/p&gt;
+&lt;p&gt;但言归正传，和文身师几乎不怎么需要开口不同，平时总是不怎么说话的孙胜完，在接待客人的时候总能恰到好处地说出合适的话来。&lt;/p&gt;
+&lt;p&gt;裴珠泫试着分析这到底是什么回事。&lt;/p&gt;
+&lt;p&gt;究竟是因为孙胜完露出的笑容弧度正适合呢，还是因为她那双眼睛能够看穿来客的想法呢，又或是因为她愿意去倾听对方的烦恼或请求呢，也有可能是因为她的手可以实现客人的期待呢？&lt;/p&gt;
+&lt;p&gt;在认识孙胜完之前，裴珠泫从没想过原来花店的老板是这么辛苦的一份职业。&lt;/p&gt;
+&lt;p&gt;她还以为，只要客人说什么，给出对应的东西就好了。&lt;/p&gt;
+&lt;p&gt;“你是不是觉得，花店只要给出订单的内容就好了？”&lt;/p&gt;
+&lt;p&gt;裴珠泫没有办法控制被说穿的心虚，但这个时候认输总觉得太过轻易。于是她扭过头，小声地反驳：“不要把你对客人的那一套用在我身上……”&lt;/p&gt;
+&lt;p&gt;孙胜完假装不懂地说：“哪一套？”&lt;/p&gt;
+&lt;p&gt;“就是这样那样，然后就把人家的想法都看清楚的这一套。”裴珠泫说，“不许用在我身上！”&lt;/p&gt;
+&lt;p&gt;“好吧。”孙胜完用手捂住自己的眼睛，“那这样呢？”&lt;/p&gt;
+&lt;p&gt;裴珠泫有种一拳打在棉花上的无力感。&lt;/p&gt;
+&lt;p&gt;于是她转头，专心地放空。&lt;/p&gt;
+&lt;p&gt;孙胜完依旧捂着眼，站在原地发问：“之前给珠泫的小花，现在长得怎么样了？”&lt;/p&gt;
+&lt;p&gt;“还可以。”裴珠泫拿出手机，开始翻找前两天拍的照片。实际上，就连她自己也感到惊讶。这株看着其貌不扬的小花，竟然真的和孙胜完说的一样，会出现看着没精打采的时候。而只要偶尔浇下水，隔天就能再次精神奕奕。从这点上而言，跟孙胜完倒是很像。裴珠泫找到了照片，准备递过去给花店主人看的时候，却发现对方还捂着眼，“你这样怎么看？”&lt;/p&gt;
+&lt;p&gt;“不是让我不要看清楚吗？”孙胜完理直气壮地说，“我这是在遵守诺言。”&lt;/p&gt;
+&lt;p&gt;“……”裴珠泫伸手掰开对方的手指，反倒发现无法直视对方的其实是自己。她在心里叹口气，想着这样滋生的情感应该不会持续太久。&lt;/p&gt;
+&lt;p&gt;短期内和一个人太过亲近，总是会产生这样多余的情感。裴珠泫想，她也是一样的。因为遇见一个跟自己年纪没有差太多的、善解人意的人，总会产生一些无法控制的依赖感。是不是不该这么放任自己呢？她想。&lt;/p&gt;
+&lt;p&gt;和孙胜完接触的手指还在隐隐发烫。&lt;/p&gt;
+&lt;p&gt;她把前几天拍下的照片递给孙胜完：“看吧。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完的称赞没有进入她的耳朵，就像花的香气微不可察。
+ 
+
+&lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;4&#34;&gt;&lt;strong&gt;4.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;并不是裴珠泫刻意不去找孙胜完，而是这段时间确实来了很多客人。
+ 
+
+&lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;也不知道平时总是神龙见首不见尾的老板从哪里招揽来的大学生，一个个似乎还都是艺术系的，要求又多又复杂。裴珠泫熬夜画着图，心里在想所谓清晰的混乱线条到底是什么鬼，明明一个个都还没出校园，怎么会提出这种见鬼了的要求。&lt;/p&gt;
+&lt;p&gt;她有些后悔，自己应该把那株小花带回家，可转念又觉得，还好没有带回家。&lt;/p&gt;
+&lt;p&gt;不然现在很有可能并不是在查找资料，而是将大把的时间浪费在傻傻地看着花上。&lt;/p&gt;
+&lt;p&gt;搞不好还会做出一些残害植物的行为。&lt;/p&gt;
+&lt;p&gt;裴珠泫把注意力拉回到画上，耳机里唱着的歌仔细一听，发现又是在唱的爱情。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;不行，集中，裴珠泫！&lt;/p&gt;
+&lt;p&gt;看看你手头还有多少个手稿得画，哪里还有时间谈情说爱啊？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;话虽然这么说，裴珠泫还是没办法控制自己去想。&lt;/p&gt;
+&lt;p&gt;孙胜完现在在做什么呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;5&#34;&gt;&lt;strong&gt;5.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;该怎么去界定这种心情就是恋爱呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;是心情被另一个人掌控的感觉？是总是无端生出的缠绵思念？是不曾感知的孤独突然强烈？是听见窗外落下的春雨时，会想到对方有没有穿得足够温暖？是雨天过后的闷热晴天，会担心对方的花有没有变得恹恹的？是这样反常的温度，导致自己想要关心对方？&lt;/p&gt;
+&lt;p&gt;是发现自己无意间记住了对方足够多的细节，还是意识到自己有意地想要更加亲近？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;恋爱为什么不能像花语呢？&lt;/p&gt;
+&lt;p&gt;它怎么没有被下一个足够肯定的定义，让所有人都能够借此表达心意呢？
+ 
+
+&lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;该怎么去确认对方也拥有和自己一样的想法呢？&lt;/p&gt;
+&lt;p&gt;……在自己那么多天、那么多天都缺席了对方的生活之后，该怎么保证自己仍然能够成为对方特殊的那一个呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;该怎么去界定这种心情呢？&lt;/p&gt;
+&lt;p&gt;
+&lt;br&gt;&lt;br&gt;
+
+ &lt;/p&gt;
+&lt;h4 id=&#34;6&#34;&gt;&lt;strong&gt;6.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;“欢迎光……”裴珠泫在听见推门的声音时，近乎麻木地张嘴，抬头才发现是孙胜完正冲着她笑，“……你怎么来了？”&lt;/p&gt;
+&lt;p&gt;啧。裴珠泫在心里谴责自己，你怎么用这种语气说话呢？像是不想看见对方一样。&lt;/p&gt;
+&lt;p&gt;孙胜完温和地回答：“因为听说珠泫很忙，所以就来看看你，说不定有我能帮上忙的部分呢？”&lt;/p&gt;
+&lt;p&gt;店里这时候没什么人，裴珠泫从旁边拉了一张椅子过来。&lt;/p&gt;
+&lt;p&gt;其实她今天没有特别多的事。画稿基本上确定了，就等那群麻烦的大学生确定好时间了。只不过最近似乎撞上对方课程论文的截稿日，所以也没有怎么被找麻烦。&lt;/p&gt;
+&lt;p&gt;但这些说出口的话，那些逃避的心思不就暴露了吗？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;裴珠泫看着孙胜完好奇又专注地看着文身图集，感觉到胸口里的心脏在不受控制地跳出过快的频率。&lt;/p&gt;
+&lt;p&gt;可恶，好像那些纠结的时间都变得可笑了起来。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;孙胜完感知到了裴珠泫的视线，抬起头来：“是不是很忙？看着好像瘦了。”&lt;/p&gt;
+&lt;p&gt;“有吗……”裴珠泫不知道该怎么招架这样的关心，“还好吧，还是有吃的。”&lt;/p&gt;
+&lt;p&gt;“只吃速食吗？”&lt;/p&gt;
+&lt;p&gt;“没有！”&lt;/p&gt;
+&lt;p&gt;孙胜完伸手指着裴珠泫还没收拾好的外卖餐盒。&lt;/p&gt;
+&lt;p&gt;裴珠泫心虚地纠正自己的话：“没有那么频繁。”&lt;/p&gt;
+&lt;p&gt;“一周五次？”&lt;/p&gt;
+&lt;p&gt;“……一周四次。”裴珠泫想，主要是因为就四天坐在这里，还有三天在家里。但反正你也看不到，所以也不能算吧。&lt;/p&gt;
+&lt;p&gt;“果然很忙吧……”孙胜完小声地说。&lt;/p&gt;
+&lt;p&gt;裴珠泫更加心虚了。她伸手把放在孙胜完膝盖上的图集合上，非常明显又突兀地转移话题：“那晚饭要一起吃吗？”&lt;/p&gt;
+&lt;p&gt;孙胜完甚至都没有刻意掩饰自己的笑意了：“还吃速食吗？”&lt;/p&gt;
+&lt;p&gt;“其实我会做饭的，”裴珠泫说，“要来我家吃吗？”&lt;/p&gt;
+&lt;p&gt;“好呀。”&lt;/p&gt;
+&lt;p&gt;孙胜完答应得太快了，以至于像预谋已久，而她也并没有想要藏起来的样子：“要一起去买菜吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫点点头。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;明明什么都没有，什么都不是，却甘之如饴。&lt;/p&gt;
+&lt;p&gt;裴珠泫想，这下不是想什么都没意义了吗？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;已经彻彻底底地完蛋了呀。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;7&#34;&gt;&lt;strong&gt;7.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;裴珠泫觉得自己像在做梦，以至于和孙胜完逛超市的细节都模模糊糊。&lt;/p&gt;
+&lt;p&gt;回家的路上，孙胜完惊讶地发现原来自己的花店和裴珠泫的家是顺路的。她让裴珠泫在门口等等，走进自己的花店，拿了一株看上去不太逼真的花出来。虽然不太逼真，但还是有着非常完整的土壤和花盆，看着和真的没什么区别。&lt;/p&gt;
+&lt;p&gt;孙胜完主动地解答裴珠泫的好奇：“这是金木犀。”&lt;/p&gt;
+&lt;p&gt;“看着不像是真的。”&lt;/p&gt;
+&lt;p&gt;“因为的确不是真的，”孙胜完说，“眼光见长呀。”&lt;/p&gt;
+&lt;p&gt;裴珠泫没把“因为有个好老师”这句话说出口。她也不知道为什么。&lt;/p&gt;
+&lt;p&gt;“因为还不是金木犀的季节，但是觉得这花很适合你，所以拜托了人做了这个。”孙胜完说，“毕竟第一次拜访珠泫的家，什么都没拿在手上的话，岂不是显得没有礼貌？”&lt;/p&gt;
+&lt;p&gt;让人不要用敬语的人，在这个时候讲什么礼貌啊。&lt;/p&gt;
+&lt;p&gt;裴珠泫想要接过花，孙胜完却把它收在了怀里。&lt;/p&gt;
+&lt;p&gt;“等到了家里再给。”&lt;/p&gt;
+&lt;p&gt;孙胜完把主语省略得如此自然，让裴珠泫产生了一种微妙的幻觉。&lt;/p&gt;
+&lt;p&gt;“为什么？”&lt;/p&gt;
+&lt;p&gt;“这么早给的礼物，就没有仪式感了。”&lt;/p&gt;
+&lt;p&gt;“这里也会有仪式感吗？”&lt;/p&gt;
+&lt;p&gt;孙胜完郑重其事地回答：“当然了。珠泫可是我唯一一个送过金木犀的人。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;有什么特殊意义吗？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;晚餐倒是简单，孙胜完说不能让裴珠泫做那么多菜，哪怕实际上也就是两三道菜的事，但她还是忙前忙后打下手。裴珠泫莫名产生了微妙的愧疚感，好像自己前些日子的疏远明明让对方伤心，可还是被谅解了。&lt;/p&gt;
+&lt;p&gt;孙胜完兴致勃勃地在裴珠泫的冰箱里发现了金酒和汤力水，自告奋勇地说要调酒。结果也不知道是太兴奋还是太紧张，向来稳重的花店老板手一抖，高度数的酒精以过高的比例占据了杯底。&lt;/p&gt;
+&lt;p&gt;没关系的，孙胜完说，我多倒一点汤力水就好了。&lt;/p&gt;
+&lt;p&gt;结果气泡和裴珠泫的心意一样，漫过了杯口。&lt;/p&gt;
+&lt;p&gt;裴珠泫不知道自己是透过酒精，还是透过自己的真心，只觉得孙胜完的眉眼和笑容漂亮得不可思议。鸡尾酒的酸甜味道在舌尖荡漾，那盆金木犀在餐桌上细细碎碎地迎着温暖的光永恒地绽放，桌上的饭菜等着她们收拾，可她们却在酒精之下享受着快乐的重逢。&lt;/p&gt;
+&lt;p&gt;要不就现在说吧？裴珠泫想，就算被拒绝了，也可以说自己喝醉了。&lt;/p&gt;
+&lt;p&gt;她想要张开口，却怎么也说不出话来。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;为什么呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;8&#34;&gt;&lt;strong&gt;8.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;结束了课程论文的大学生卷土重来。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;裴珠泫戴着口罩，感觉自己要被淹死在工作里了。&lt;/p&gt;
+&lt;p&gt;下次一定要跟老板说，就算要提高业绩，也不能用员工的生命为代价吧！&lt;/p&gt;
+&lt;p&gt;这一茬接一茬的大学生源源不断，甚至在中间还夹杂了几个说要洗文身的。裴珠泫一点都不关心为什么，这种后悔文身的行为多半和失败的爱情相关。可同事似乎看热闹不嫌事大，多嘴了几句问怎么回事，本就看着伤心的客人像是抓住了什么稻草，立刻滔滔不绝起来。&lt;/p&gt;
+&lt;p&gt;唉，当时也是鬼迷了心窍，跟对方一起约着文身的。最开始是想要文对方的名字，十头牛都拉不回来，最后还是我朋友拦着我，让我千万别做这种事。后来就文了个象征性的姓名缩写，结果现在还是分手了。那个人出轨了！而且也不知道是巧合，还是单纯为了不让我发现，劈腿的人跟我的名字缩写一模一样！&lt;/p&gt;
+&lt;p&gt;裴珠泫在晕头转向的工作中听着对方碎碎念，差点一个手抖把直线画歪。&lt;/p&gt;
+&lt;p&gt;那人还在念，从对方最开始的温柔到后面因为温柔所以提出不如三个人的爱情。&lt;/p&gt;
+&lt;p&gt;裴珠泫也从最开始的抗拒到干脆用这种狗血故事来提神。&lt;/p&gt;
+&lt;p&gt;她画完最后一笔，对大学生交代了要用这个和那个胶来保护皮肤和文身墨水，注意这几天先不要用水冲。交代完之后，发现同事还在跟那个人聊天。&lt;/p&gt;
+&lt;p&gt;裴珠泫站起身，准备出门透透气。&lt;/p&gt;
+&lt;p&gt;“那是金木犀吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫愣了愣，才发现自己的手机屏幕因为来消息亮了起来，露出了自己的屏保。&lt;/p&gt;
+&lt;p&gt;她应了声：“嗯。”&lt;/p&gt;
+&lt;p&gt;“我前任也送我的金木犀，”那人说，“说这花象征着我们的爱情。什么屁话，我怀疑他对每个女孩子都这么说。”&lt;/p&gt;
+&lt;p&gt;裴珠泫迟钝的大脑慢慢地启动。她甚至觉得自己能够听见自己大脑运转出发出的“咔哒咔哒”声。她僵硬又缓慢地提问：“金木犀象征着爱情？”&lt;/p&gt;
+&lt;p&gt;“对啊，‘初恋’的意思。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;什么啊，裴珠泫想。&lt;/p&gt;
+&lt;p&gt;这种事情，就该早点让我知道啊。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;9&#34;&gt;&lt;strong&gt;9.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;“万一被送花的人不知道花语怎么办？”&lt;/p&gt;
+&lt;p&gt;“但是送花人的心意是不会变的呀。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;10&#34;&gt;&lt;strong&gt;10.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;“欢迎光……”孙胜完又露出裴珠泫熟悉的欣喜笑容，“珠泫，忙完了吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫直直地走到花店老板面前，露出自己小手臂上小小的粉色文身。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;“我们文身有自己的标价，不打九折，一经售出，概不退换。”&lt;/p&gt;
+&lt;p&gt;孙胜完愣了愣，从柜台后面走了出来，抱住了裴珠泫。&lt;/p&gt;
+&lt;p&gt;“那可以开发票吗？”&lt;/p&gt;
+&lt;p&gt;“不行。”&lt;/p&gt;
+&lt;p&gt;孙胜完嘀咕着：“这么麻烦，当初我可是免费送了一盆花呢。”&lt;/p&gt;
+&lt;p&gt;裴珠泫不想听，干脆吻上滔滔不绝的花店老板。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;11&#34;&gt;&lt;strong&gt;11.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;街口的那家花店，再也没有打折出售的花了。&lt;/p&gt;- http://localhost:1313/osmanthus/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>花占卜</title>
+        <link>http://localhost:1313/floromancy/</link>
+        <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/floromancy/</guid>
+        <description>杂货店老板 http://localhost:1313/floromancy/ -&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;p&gt;赶上啦！&lt;/p&gt;
+&lt;p&gt;应该是一次相当灵验的&lt;a href=&#34;https://music.163.com/#/song?id=2096237925&amp;amp;userid=118540179&#34;&gt;花&lt;/a&gt;占卜。&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;1&#34;&gt;&lt;strong&gt;+1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;裴珠泫是在招募板的角落里发现那个主唱募集单的。&lt;/p&gt;
+&lt;p&gt;和那些大幅张贴的海报不同，这张募集单小小的，用一枚图钉悄悄地钉在板子的左下角。看样子，制作这张募集单的人非常用心。裴珠泫忍不住想象对方是怎么画出这些清爽又简单的线条，又是如何一笔一划地写下募集要求。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;招募主唱一名。&lt;/p&gt;
+&lt;p&gt;要求女性，拥有一定基础乐队经验。&lt;/p&gt;
+&lt;p&gt;对年龄没有特殊要求。&lt;/p&gt;
+&lt;p&gt;P.S. 希望你能接受乐队里有人不愿意露脸的情况。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;裴珠泫知道这个乐队。&lt;/p&gt;
+&lt;p&gt;说是“知道”其实程度有些轻了，在附近的live house里，这个乐队可以说是小有名气。其中最为引人注目的，就是主唱兼吉他手总是遮着半张脸。&lt;/p&gt;
+&lt;p&gt;要是能够加入的话，好像也不错？&lt;/p&gt;
+&lt;p&gt;裴珠泫盯着这张募集单，仿佛这张单子可以给予她回答一样。&lt;/p&gt;
+&lt;p&gt;“您好……？”&lt;/p&gt;
+&lt;p&gt;裴珠泫转过身，发现身后站着一个打扮休闲的女生。她有种微妙的被戳穿的尴尬，但还是礼貌地答应：“您好。”&lt;/p&gt;
+&lt;p&gt;“您对我们的募集有兴趣吗？”女生说，“走走，来见见我们的主唱。”&lt;/p&gt;
+&lt;p&gt;“……嗯？”&lt;/p&gt;
+&lt;p&gt;这么随便吗？裴珠泫被拉着走的时候，还忍不住在心里腹诽。本来想要参加的期待，全数变成了不安啊。&lt;/p&gt;
+&lt;p&gt;“我早就跟她说过，不要把募集单贴在这么角落的位置。这么多天过去了，只有你发现了！”女生喋喋不休地说，“不过不用紧张，我知道你，你之前有在网络上发表单曲吧？我们主唱人很好的，你一定可以加入我们的。”&lt;/p&gt;
+&lt;p&gt;裴珠泫面对这么蓬勃的善意，莫名觉得自己有种劳累感。她想，好像我也没说过一定要加入吧？虽然能够加入的也不错啦……裴珠泫小声地道谢：“谢谢你。但为什么突然要招主唱呢？”&lt;/p&gt;
+&lt;p&gt;你们的主唱不是很厉害吗？&lt;/p&gt;
+&lt;p&gt;女生顿了顿，看着她欲言又止了一下。不过这点微妙的情绪转瞬即逝，她只是露出善意的笑：“我也不知道，可能是觉得台上站两个主唱会比较有震慑力吧？哦，对，忘了自我介绍了，我叫金艺琳。”&lt;/p&gt;
+&lt;p&gt;裴珠泫想开口，又被对方轻巧地打断：“我知道你，裴珠泫，对吧？”&lt;/p&gt;
+&lt;p&gt;她点点头。&lt;/p&gt;
+&lt;p&gt;金艺琳推开这个乐房里最里面的房间门，大喊着：“喂，孙胜完，我把你要的主唱带来了！”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;被喊到名字的、背对着她们拨弄着吉他的孙胜完，像受惊的小动物一样抖了一下。&lt;/p&gt;
+&lt;p&gt;裴珠泫看着她颤颤巍巍地转过身，桌子上放着一束插在瓶子里的白色小花。&lt;/p&gt;
+&lt;p&gt;什么啦，怎么一起练习的时候，还戴着墨镜和口罩？&lt;/p&gt;
+&lt;p&gt;裴珠泫看着孙胜完从长袖卫衣里伸出的手，莫名地想。&lt;/p&gt;
+&lt;p&gt;应该是个好看的女孩子吧？为什么要遮着脸呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;-1&#34;&gt;&lt;strong&gt;-1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;说是面试，但其实基本上也没有什么跟面试相关的事情。&lt;/p&gt;
+&lt;p&gt;裴珠泫感觉还是懵懵的，但是就已经被眼前的三个人鼓着掌祝贺了。&lt;/p&gt;
+&lt;p&gt;金艺琳积极地介绍：“我是键盘，这位姜涩琪是贝斯，还有个朴秀荣是鼓手，不过她今天请假没来。”她拽了拽孙胜完的袖子，把这个看着呆呆的主唱拉了过来，“这位就不多说了，是我们大名鼎鼎的主唱孙胜完。”&lt;/p&gt;
+&lt;p&gt;裴珠泫点点头，莫名有种羊入虎穴的感觉。&lt;/p&gt;
+&lt;p&gt;贝斯手憨憨地笑了笑：“那我们今天要先去聚餐吗？”&lt;/p&gt;
+&lt;p&gt;“虽然很想说怎么又是吃，但是你说得有道理。”&lt;/p&gt;
+&lt;p&gt;“那秀荣呢？要叫她吗？”&lt;/p&gt;
+&lt;p&gt;“算了，不用吧。”&lt;/p&gt;
+&lt;p&gt;“……”裴珠泫觉得自己马上就要被安排走了，赶紧出声提问，“就、就这样吗？”&lt;/p&gt;
+&lt;p&gt;两位还在激烈讨论要吃什么的人一起把视线对准到了孙胜完的身上。&lt;/p&gt;
+&lt;p&gt;看着相当冷酷的主唱扶了扶墨镜：“嗯。”&lt;/p&gt;
+&lt;p&gt;嗯什么嗯啦！裴珠泫忍下了想要扶住自己额头的冲动。&lt;/p&gt;
+&lt;p&gt;“那姐姐也一起来吧。”金艺琳已经飞快地拉近了两人之间的距离，只是留着敬语还表示着她的礼仪。这句听上去像是征询的话语，实际上就已经将她算到了聚餐的人里。也不是不行，裴珠泫想，反正明天也没有早课，这个月的预算也还足够。&lt;/p&gt;
+&lt;p&gt;“我请客，”孙胜完背起吉他，“你不用付钱。”&lt;/p&gt;
+&lt;p&gt;直到孙胜完走出去三五米了，裴珠泫才意识到这句话似乎是专门对她说的。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;怪怪的。她想。但不是那种坏的怪怪的。&lt;/p&gt;
+&lt;p&gt;真是的，我在想什么啊？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;1-1&#34;&gt;&lt;strong&gt;+1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;和裴珠泫想象的有些不同。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;她被拉进乐队的群组之后，里面几乎没有什么闲聊的情况。&lt;/p&gt;
+&lt;p&gt;基本上就是孙胜完在周日晚上会先确认一下每个人的行程情况，然后根据具体情况安排第二周的排练。乐队正在为下个月的live house和音乐节做准备，除了已经有的几首歌之外，孙胜完还在写新的歌。&lt;/p&gt;
+&lt;p&gt;同时，因为（裴珠泫至今不知道为什么）多了一个主唱，孙胜完还肩负着要把两个人的部分拆分的重任。&lt;/p&gt;
+&lt;p&gt;裴珠泫心有不忍，总觉得孙胜完这是在给自己找事做。她原本想在群组里直接问问孙胜完，但这几天除了报备自己的行程和确认收到之外，大家都没有什么其它的话。或许这样直接问会不太好？裴珠泫犹豫了一下，还是向孙胜完发起了好友申请。&lt;/p&gt;
+&lt;p&gt;孙胜完同意得很快，快到裴珠泫怀疑对方是不是时刻准备着。&lt;/p&gt;
+&lt;p&gt;考虑到孙胜完似乎不擅长主动开口，裴珠泫在顿了几秒之后开始打字：您好，我觉得……&lt;/p&gt;
+&lt;p&gt;她还没打完自己的想法，孙胜完那边“唰”地一下发来了一大段文字。&lt;/p&gt;
+&lt;p&gt;裴珠泫感觉自己有点晕字。&lt;/p&gt;
+&lt;p&gt;她定了定神，开始细细地读。孙胜完的文字体现了和自己社交完全不同的感觉。她先是表达了自己的感谢，因为最近这几天学校有点忙，再加上晚上在改合唱和独唱的部分，没有及时加上裴珠泫的好友，是她这个队长疏忽了。随后她的话顺着这个话题聊下去，刚刚说到了唱词部分的拆分，我听过珠泫小姐的歌，我感觉我们准备要表演的几首歌其实很适合您的音色，因此我还特地在这几首歌里加了一点可以展现您特色的部分，一会儿我会把谱子和我的导唱发给您，下次练习的时候我们可以先试试看。这个明明很重要的话题就这样结束了。孙胜完又开始说，我最近还有点新的灵感，根据我对珠泫小姐的印象写了一点旋律和歌词，我知道珠泫小姐也会写词，如果您愿意的话，您也可以填填词，主题什么的没有什么特别的要求，我听过您的情歌，写那个方面也是可以的，当然要是涉及了隐私的话很抱歉……&lt;/p&gt;
+&lt;p&gt;裴珠泫看完了，她觉得自己还是有点晕字。&lt;/p&gt;
+&lt;p&gt;不过，裴珠泫打起精神，既然对方这么认真，自己也要回馈同样的严肃才行。&lt;/p&gt;
+&lt;p&gt;于是裴珠泫把自己前面打的字一个个删掉，开始仔细根据一个个问题回答。&lt;/p&gt;
+&lt;p&gt;回到最后一个部分的时候，她忍不住笑起来。看来再缜密的主唱也会产生奇怪的误解。她带着点轻松的语气解释：“我没有在恋爱，之前也没有对象，没有什么涉及隐私的问题。”&lt;/p&gt;
+&lt;p&gt;隔着屏幕，裴珠泫都感觉到孙胜完有些如释重负的轻松：“好的，那就好……”&lt;/p&gt;
+&lt;p&gt;看着也太好逗了。裴珠泫回她：“怎么好了？”&lt;/p&gt;
+&lt;p&gt;孙胜完急急地发了一堆小狗在练琴，小狗在弹吉他，小狗在唱歌的表情包，然后再也没有反应了。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;好傻。&lt;/p&gt;
+&lt;p&gt;裴珠泫笑着点开对方之前发来的文件。&lt;/p&gt;
+&lt;p&gt;真难想象这样害羞的人，可以唱出那么有爆发力的歌声。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;-1-1&#34;&gt;&lt;strong&gt;-1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;裴珠泫在一起练习的这几个礼拜里，看见了孙胜完各种各样用来遮脸的方式。&lt;/p&gt;
+&lt;p&gt;最普通的是墨镜，最夸张的是摩托车头盔。&lt;/p&gt;
+&lt;p&gt;姜涩琪和金艺琳似乎对这样的孙胜完见怪不怪，倒是朴秀荣在看见孙胜完的头盔时忍不住翻了个白眼。孙胜完像个刚从宇宙飞船下来的外星人，声音闷闷地传过来：“咳咳，我有点感冒，今天就拜托珠泫小姐练习了。”&lt;/p&gt;
+&lt;p&gt;裴珠泫有些担心：“你真的没事吗？要不先休息一天吧？”&lt;/p&gt;
+&lt;p&gt;孙胜完摇了摇头：“没事，咳咳……可能是昨天熬夜了。”&lt;/p&gt;
+&lt;p&gt;这下轮到金艺琳没忍住笑了一下。她赶紧挥了挥手：“哈哈哈，都怪涩琪姐姐刚刚讲了个笑话。”&lt;/p&gt;
+&lt;p&gt;“我讲了吗？”&lt;/p&gt;
+&lt;p&gt;“哈哈哈，你讲了。”&lt;/p&gt;
+&lt;p&gt;气氛有些奇怪。但裴珠泫更关心孙胜完的状态：“不要强撑啊，胜完。”&lt;/p&gt;
+&lt;p&gt;孙胜完背着吉他的手紧了紧：“……嗯，我没事的。”&lt;/p&gt;
+&lt;p&gt;“你如果生病了，我也会很困扰的。”裴珠泫耐心地劝导，“不着急这么一天的练习的。”&lt;/p&gt;
+&lt;p&gt;戴着摩托车头盔的孙胜完摇头晃脑，像是在通过这种方式进行思考。&lt;/p&gt;
+&lt;p&gt;“你是骑着摩托车的来的？”&lt;/p&gt;
+&lt;p&gt;“……不是，”孙胜完小声地说，“是电动自行车。”&lt;/p&gt;
+&lt;p&gt;裴珠泫说：“我开车来的，我送你回家吧。你家在哪？还是你住在学校里？”&lt;/p&gt;
+&lt;p&gt;“我、我住在家里的。咳咳。”孙胜完转身跟其他人说，“那今天就先休息吧。”&lt;/p&gt;
+&lt;p&gt;裴珠泫转过身的时候，看见的就是三个人正围着孙胜完。看这个架势应该是在关心主唱，可是怎么都有种调笑的意味。还是金艺琳先注意到裴珠泫已经做好了出发的准备，赶紧把孙胜完推过去：“好了好了，你赶紧去好好睡一觉吧，再愁的话不如主动点。”&lt;/p&gt;
+&lt;p&gt;裴珠泫扶住孙胜完，奇怪地问：“主动什么？”&lt;/p&gt;
+&lt;p&gt;“她们在说歌词的事情，”孙胜完说，“咳咳。我之前有点不知道怎么办，所以问了问她们。”&lt;/p&gt;
+&lt;p&gt;裴珠泫点点头：“那就回家吧。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;离开的时候，裴珠泫发现孙胜完小桌子上的花少了一瓣花瓣。&lt;/p&gt;
+&lt;p&gt;看着挺春天的，她想。&lt;/p&gt;
+&lt;p&gt;但是为什么少了一瓣？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;1-2&#34;&gt;&lt;strong&gt;+1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;生病的孙胜完看着更小了一点。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;或许是因为感冒带来的头疼，孙胜完这几天都换了简单的连帽衫和黑色口罩。&lt;/p&gt;
+&lt;p&gt;裴珠泫还以为这下可以看见眼睛了，结果也不知道该说她是聪明还是什么，帽衫下面还有一顶棒球帽，压得又低又深，完全看不清。裴珠泫也说不清为什么自己的好奇心这么浓烈。她唱着词，眼神总是忍不住飘到站在身边的孙胜完身上，好几次差点错拍。&lt;/p&gt;
+&lt;p&gt;她道歉，发现那朵花又少了一瓣。&lt;/p&gt;
+&lt;p&gt;孙胜完侧过身，挡在了她的面前。她的声音还残留着感冒之后的沙哑，听着有种微妙的性感。裴珠泫觉得有些抱歉，但她忍不住去想这样的声音很适合唱有些低沉的悲伤情感。&lt;/p&gt;
+&lt;p&gt;孙胜完开始简短地说明下个礼拜的现场安排。先是孙胜完唱三首，接着是裴珠泫作为新成员加入合唱两首，最后是孙胜完为裴珠泫写的两首新歌公布。前三首不是完整的，按照最近排练的Mix版本就好，合唱也会是简短的版本，只有最后一首歌会是完整版。&lt;/p&gt;
+&lt;p&gt;裴珠泫点点头，又问：“你的声音，没问题吗？”&lt;/p&gt;
+&lt;p&gt;主唱点点头。&lt;/p&gt;
+&lt;p&gt;“胜完，不要勉强啊。”&lt;/p&gt;
+&lt;p&gt;“嗯，不会的。”孙胜完说。在裴珠泫的努力下，对方终于不再充满距离感地喊她“珠泫小姐”了。但是似乎对于直接喊“珠泫姐姐”也很困难，于是现在变成了不喊称呼的状态。裴珠泫觉得哭笑不得，也说不清这样到底算不算关系变好。&lt;/p&gt;
+&lt;p&gt;“对了，”姜涩琪说，“衣服已经送过来了。”&lt;/p&gt;
+&lt;p&gt;朴秀荣和金艺琳赶紧冲了过去，非常满意地领走了自己的那一份。&lt;/p&gt;
+&lt;p&gt;裴珠泫走过去的时候，眼角余光发现孙胜完站在桌子前。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;咦。&lt;/p&gt;
+&lt;p&gt;原来是胜完自己扯下的花瓣吗？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;-1-2&#34;&gt;&lt;strong&gt;-1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;彩排的时候，裴珠泫坐在台下听孙胜完唱情歌。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;她经历过这些吗？&lt;/p&gt;
+&lt;p&gt;她想。&lt;/p&gt;
+&lt;p&gt;如果没有的话，怎么会是这么哀伤的声音呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;裴珠泫觉得自己的好奇心有点危险。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;1-3&#34;&gt;&lt;strong&gt;+1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;正式登台之前，裴珠泫被孙胜完牵住了手。&lt;/p&gt;
+&lt;p&gt;在那些视频里看着总是骄傲的、昂首挺胸的主唱，此时此刻也轻轻地颤抖着，牵着裴珠泫的手。她今天也是戴着大大的护目镜，只是为了方便唱歌，所以没有戴口罩。裴珠泫忍不住看着她的嘴，差点错过了对方的话语。&lt;/p&gt;
+&lt;p&gt;“我也有点紧张，”孙胜完说，“不过还好有你……你们在。”&lt;/p&gt;
+&lt;p&gt;欲盖弥彰得太明显啦。&lt;/p&gt;
+&lt;p&gt;裴珠泫抿了抿嘴：“嗯。”&lt;/p&gt;
+&lt;p&gt;“没关系，大家也会喜欢你的。”&lt;/p&gt;
+&lt;p&gt;裴珠泫想，应该吧？&lt;/p&gt;
+&lt;p&gt;“那……加油。”&lt;/p&gt;
+&lt;p&gt;裴珠泫点点头。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;她突然关心起那朵花，现在还剩下几瓣花瓣。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;-1-3&#34;&gt;&lt;strong&gt;-1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;如果能一直听孙胜完唱歌就好了。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;裴珠泫在登台的前一秒，发现这个自己对“一直”的期待有些微妙地越界了。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;1-4&#34;&gt;&lt;strong&gt;+1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;在台上的时候没有什么感觉，下台了之后，裴珠泫才发觉自己有些精疲力尽。&lt;/p&gt;
+&lt;p&gt;她没有怎么参加过这样的现场，之前的歌曲基本都是录音室，再加上紧张，下台的时候甚至有些腿软。孙胜完倒像是预见了她的行动，甚至先于她就扶住了她。温热的身体在旁边，裴珠泫察觉到了自己心脏剧烈的跳动，而它加快的频率并不是因为刚刚结束的live。&lt;/p&gt;
+&lt;p&gt;孙胜完跟她的距离如此之近，以至于她觉得自己能够看见孙胜完的眼睛。&lt;/p&gt;
+&lt;p&gt;可对方几乎逃跑一般地错开视线：“我、我一会儿先回去了。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;难道说，在某个瞬间，她们的心跳频率发生了重合吗？&lt;/p&gt;
+&lt;p&gt;不然的话，要怎么解释自己感觉发热的脸颊，和对方通红的耳朵呢？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;-1-4&#34;&gt;&lt;strong&gt;-1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;孙胜完声称自己感冒加重了。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;可裴珠泫发现，那朵花的花瓣还在悄悄地减少。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;1-5&#34;&gt;&lt;strong&gt;+1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;裴珠泫也不知道怎么回事，就跟着姜涩琪、金艺琳和朴秀荣三个人出去喝酒了。&lt;/p&gt;
+&lt;p&gt;实际上，她跟她们三个人的接触确实不算多。毕竟孙胜完在线上聊天非常积极，常常霸占了裴珠泫的一整天。但裴珠泫也不至于和她们三人完全不熟，至少还是能够一起聚餐的关系。她在几杯烧酒之后放纵了自己的私心，询问为什么孙胜完最近不来了，而且也不回信息。&lt;/p&gt;
+&lt;p&gt;姜涩琪大大咧咧地回答，速度之快甚至连金艺琳都来不及拦着：“哦，胜完其实一直很喜欢你的。”&lt;/p&gt;
+&lt;p&gt;朴秀荣在旁边还有点看热闹不嫌事大的意思：“她不理你？她不是还天天哀嚎着不知道该怎么开口吗？明明之前还用了好几天说服我们非得加一个成员……”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;啊。&lt;/p&gt;
+&lt;p&gt;裴珠泫想，原来是这样吗？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;那些彻夜的聊天、那些借着音乐传递的情绪、那些错开的视线。&lt;/p&gt;
+&lt;p&gt;那些接触的颤抖、那些改过无数次的歌词、那些笑声里的暗喻。&lt;/p&gt;
+&lt;p&gt;那些刻意的相遇、那些悄然滋生的超出的关心、那些怦然的心。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;那朵一瓣瓣减少的花。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;-1-5&#34;&gt;&lt;strong&gt;-1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;喝了酒的裴珠泫感觉自己从未如此清醒。&lt;/p&gt;
+&lt;p&gt;她甚至能够用备用钥匙打开练习房，把那朵花攥在手心。&lt;/p&gt;
+&lt;p&gt;不能开车，她只好凭借着记忆来到孙胜完的住所。孙胜完一个人住在这里，裴珠泫在敲门的时候担心对方会不会不开门，却在等了几秒之后就看见了那个躲了很久的人。&lt;/p&gt;
+&lt;p&gt;似乎是因为裴珠泫太过突然的出现，就算有人给孙胜完通风保险，她也只能临时给面包店的牛皮纸袋戳出两个眼睛的孔来。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;裴珠泫愣了愣，想说的话还没说出口，就忍不住笑了起来。&lt;/p&gt;
+&lt;p&gt;但孙胜完似乎误解了她的笑。她想把裴珠泫推出去，却又担心她会受伤没有用力。&lt;/p&gt;
+&lt;p&gt;裴珠泫止住笑，认真地开口：“胜完。”&lt;/p&gt;
+&lt;p&gt;孙胜完的动作顿了顿。&lt;/p&gt;
+&lt;p&gt;“你喜欢我，对吧？”&lt;/p&gt;
+&lt;p&gt;就算看不见对方的表情，裴珠泫也能想象她的脸肯定以肉眼可见的速度红了起来。裴珠泫并不打算就这么放过她，继续说：“特地把募集单放在那个角落，是因为知道我每次都会在那边看一会儿，对吗？金艺琳也是在那边等着抓住我的，对吗？那两首歌，应该不是这几天才写的吧？我看得出来的，胜完，只是我不敢那么想。就像我现在这么说，我也是会害怕的。万一我是自作多情怎么办，万一你不是这么想的话怎么办？”&lt;/p&gt;
+&lt;p&gt;裴珠泫把那束花举到她们两人的中间：“万一你的占卜出错了怎么办？”&lt;/p&gt;
+&lt;p&gt;她撑着酒意的醉眼，小心翼翼地把那些多余的花瓣撕下来，直到剩下最后一瓣。&lt;/p&gt;
+&lt;p&gt;裴珠泫放低了声音，害怕把这个夜晚惊醒：“你看。”&lt;/p&gt;
+&lt;p&gt;她撕下最后一瓣：“她喜欢我。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;1-6&#34;&gt;&lt;strong&gt;+1.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;裴珠泫小心地把手伸到纸袋上，在昏暗的玄关里摘下了孙胜完的面具。&lt;/p&gt;
+&lt;p&gt;她看见比她年纪小的女生眼睛通红，她祈祷对方通红的眼角是因为高兴的。&lt;/p&gt;
+&lt;p&gt;明明这么可爱，为什么总是遮掩着自己呢？差点就要看不见对方的真心了。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;裴珠泫捧着对方的脸，闭上眼，轻轻地吻了上去。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;h4 id=&#34;0&#34;&gt;&lt;strong&gt;0.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;我喜欢你。&lt;/p&gt;- http://localhost:1313/floromancy/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>小兔子选择了倾听 29.回家</title>
+        <link>http://localhost:1313/the-bunny-has-chosen-to-listen-29/</link>
+        <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-29/</guid>
+        <description>杂货店老板 http://localhost:1313/the-bunny-has-chosen-to-listen-29/ -&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;strong&gt;明天应该不会更新，要准备粉蓝日的短篇了（惆怅）&lt;/strong&gt;
+&lt;/blockquote&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;等到要回首尔的前一天，裴珠泫还有种恍惚的感觉。&lt;/p&gt;
+&lt;p&gt;总觉得昨天才刚刚到的多伦多啊……&lt;/p&gt;
+&lt;p&gt;孙胜完听见她嘀嘀咕咕的抱怨，一边把两人的衣物放进行李箱：“那要不干脆再请几天假？”&lt;/p&gt;
+&lt;p&gt;裴珠泫向后一倒。被子是一股太阳的味道，也不知道孙胜完用了什么柔顺剂，她光是这么闻一闻，就有种要睡着的舒适感。两小时前才刚睡醒的小提琴首席含糊地推拒这个提议：“不行……到时候涩琪又要说我们两个……”&lt;/p&gt;
+&lt;p&gt;“说我们什么？”&lt;/p&gt;
+&lt;p&gt;“说我们是讨厌的小情侣。”裴珠泫的声音越来越小，“以前就这么说，现在又要这么说，真是的……”&lt;/p&gt;
+&lt;p&gt;孙胜完把行李箱盖上，一起倒在了床上：“那我们难道不是吗？小情侣？”&lt;/p&gt;
+&lt;p&gt;谁会把重点放在后面的名词上啊？“我不想做‘讨厌的’。”&lt;/p&gt;
+&lt;p&gt;“有哪对情侣会不被人讨厌吗？”孙胜完认真地思考起这个问题，“而且珠泫怎么会被讨厌呢？”&lt;/p&gt;
+&lt;p&gt;裴珠泫翻了个身，滚到了孙胜完的怀里：“你又要说那一套‘我是最好的’‘大家都喜欢我’的说法了吗？”&lt;/p&gt;
+&lt;p&gt;钢琴家从善如流地亲了一下女朋友：“不，我的意思是涩肯定也只会讨厌我，因为我又拐跑了大家的裴珠泫。”&lt;/p&gt;
+&lt;p&gt;什么啊。裴珠泫被逗笑。这人真是什么话都能瞎说，偏偏又听得人开心。&lt;/p&gt;
+&lt;p&gt;我才是拐跑了大家的孙胜完的那个吧？&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;回首尔的那一天，是孙胜完一家来送的。&lt;/p&gt;
+&lt;p&gt;裴珠泫在出门前感觉压力很大，她看孙胜完自然而然地要拉行李箱，赶紧拽着她的袖口：“还是我来吧？”&lt;/p&gt;
+&lt;p&gt;孙胜完眨眨眼：“要表现一下吗？”&lt;/p&gt;
+&lt;p&gt;“……才不是。”裴珠泫总觉得年下女友在这个时候是故意装傻。什么表现？倒不如说是怕孙胜完表现得太好了……小提琴首席纠正说，“毕竟回首尔就要你拉了。”&lt;/p&gt;
+&lt;p&gt;“我的待遇只有在加拿大才能提高吗？”&lt;/p&gt;
+&lt;p&gt;“说得好像我对你很差一样。”&lt;/p&gt;
+&lt;p&gt;“姐姐，不是吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫敲了下孙胜完的脑袋：“还有人在我这里的待遇能比上你？”&lt;/p&gt;
+&lt;p&gt;孙胜完吐了吐舌头，松开了行李箱的把手：“那这只手空着怎么办？”&lt;/p&gt;
+&lt;p&gt;小提琴首席才迈开了两步，又因为这句话走回来。她伸出手，直直地放在孙胜完的面前。孙胜完笑嘻嘻地牵住手，又开始哼歌。&lt;/p&gt;
+&lt;p&gt;孙胜完的姐姐看着孙胜完哼着歌牵着女朋友的样子，忍不住瞪了她一眼。她帮着裴珠泫把箱子放到后备箱，相当自然地和她聊起回首尔的工作。裴珠泫一边回答，一边在想是不是该放开孙胜完的手，不然总觉得不太礼貌。&lt;/p&gt;
+&lt;p&gt;可钢琴家却在听了几耳朵之后，就把裴珠泫拉得离自己更近了一点，甚至开始抗议：“别老聊工作了！”&lt;/p&gt;
+&lt;p&gt;姐姐开着车，回答这句话的是坐在副驾驶的爸爸：“不聊聊工作，下个冬天你的房间就不是这么干净的样子了。”&lt;/p&gt;
+&lt;p&gt;裴珠泫看着孙胜完挑了挑眉。看来这个年下并没有说全部的实话——亏她还信了孙胜完信誓旦旦地说房子都是自己预约的清洁呢。孙胜完在家里总是被拆穿面子，多少有些气馁：“不是说好不这样的吗？”&lt;/p&gt;
+&lt;p&gt;妈妈在旁边笑：“不说清楚点，不是会让珠泫就这么上了你的贼船吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫摇着头说没有，心里忍不住想，不仅上了贼船，还上了两次，看来是怎么都逃不出来了。&lt;/p&gt;
+&lt;p&gt;等两个人在通过安检之后，孙胜完戳了戳她的肩膀。站在远处的三个人冲着她们挥手，让裴珠泫也抬起手挥了挥。她们转过身，开始走向登机口。孙胜完在她的耳边说着明年的约定，裴珠泫玩着孙胜完的手指，奇怪又自然地发现那些曾经徘徊的思绪不再是一种沉重的背负。&lt;/p&gt;
+&lt;p&gt;好想回家。她想。好想和孙胜完一起回家。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;长途飞机似乎不会消耗孙胜完的精力。&lt;/p&gt;
+&lt;p&gt;裴珠泫很想就这个课题问问孙胜完的体验，但是哪怕在飞机上睡了好几个小时，她也感觉一阵阵困乏。一想到再过两三天又开始练习，裴珠泫的心情变得雀跃又抗拒。&lt;/p&gt;
+&lt;p&gt;孙胜完几乎像是拎着一只小兔子一样地把她从车子里提溜到电梯，接着又从电梯里抱到了房间。在玄关里的裴珠泫呆呆地看着帮她脱鞋的孙胜完，莫名有种恍若隔世的感觉。&lt;/p&gt;
+&lt;p&gt;“我们居然在首尔了。”&lt;/p&gt;
+&lt;p&gt;“嗯？”孙胜完刚放下一只鞋，不过很快就跟上了女友的思路，“是呀，很舍不得吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫郑重地看着她：“嗯。”&lt;/p&gt;
+&lt;p&gt;“居然不是舍不得我？”&lt;/p&gt;
+&lt;p&gt;“你不是会一直在我身边吗？”&lt;/p&gt;
+&lt;p&gt;孙胜完在昏黄的玄关灯下给了裴珠泫一个长长的吻。&lt;/p&gt;
+&lt;p&gt;于是裴珠泫得以确信，这是孙胜完非常害羞时的反应。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;回家并不是简单的事。&lt;/p&gt;
+&lt;p&gt;在加拿大的裴珠泫非常尊重作为主人的孙胜完做出让清洁公司打扫房子的决定，但在首尔的裴珠泫非常强势地让作为女友的孙胜完接受自己动手整理房间的选择。好好休息了一个晚上的裴珠泫在第二天上午八点半准时醒来，时间精准地完全不需要调整时差，而身边的钢琴家哼哼唧唧着想要赖床，用的理由还是相当具有正当性的：“我昨天不是开车回来的嘛，让我再休息一会儿嘛。”&lt;/p&gt;
+&lt;p&gt;裴珠泫想了想，觉得很有道理，给了对方一个时限：“那再睡两小时，我十点半叫你。”&lt;/p&gt;
+&lt;p&gt;“才两个小时吗……”&lt;/p&gt;
+&lt;p&gt;“那三个小时？”&lt;/p&gt;
+&lt;p&gt;“哎？”孙胜完半睁着眼，一头毛茸茸的乱发显得年纪又小了几岁，“原来是可以讨价还价的？”&lt;/p&gt;
+&lt;p&gt;“睡到下午也可以。”&lt;/p&gt;
+&lt;p&gt;“那不行……”&lt;/p&gt;
+&lt;p&gt;“为什么不行？”&lt;/p&gt;
+&lt;p&gt;“这是我们的家，”孙胜完的睡意笼罩着她的话，“怎么能让珠泫一个人打扫呢？十点半就叫我吧……”&lt;/p&gt;
+&lt;p&gt;裴珠泫拍拍窝在被子里的孙胜完，表示自己知道了。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;收拾房间对于裴珠泫来说倒不是什么心烦的工作。&lt;/p&gt;
+&lt;p&gt;就要换季节了，得把厚的衣服都整理起来。孙胜完在搬过来的时候，不少衣服都和自己的混在了一起。也不知道是她改变了一下穿衣风格，还是自己的风格在过去被潜移默化，裴珠泫居然没有办法一下子就分辨出两个人的衣服。算了，她才理了个开头，就觉得还是放弃分得一清二楚这个想法。反正孙胜完也老是喜欢拿她的衣服穿，还非要说这也算是情侣装。&lt;/p&gt;
+&lt;p&gt;到底是情侣在哪里，明明就是自己一个人穿出去的，也没有人发现这是她的衣服。&lt;/p&gt;
+&lt;p&gt;沉重的冬衣，还是双人份的，裴珠泫没有办法一个人把收拾好的它们塞到柜子上。她试了试，失败了，最后还是气喘吁吁地决定扥孙胜完醒来再处理。孙胜完昨天就把两人从加拿大背回来的衣服塞进洗衣机了，等她醒来再让她把洗完的它们拿出来晾。&lt;/p&gt;
+&lt;p&gt;光是衣柜就已经收拾了一个多小时，裴珠泫有点后悔自己刚刚怎么不强行把孙胜完拉起来。&lt;/p&gt;
+&lt;p&gt;她走到冰箱前，发现存货也吃得差不多，意味着傍晚还得再去一趟超市。&lt;/p&gt;
+&lt;p&gt;地板倒是不用怎么拖，交给扫地机就好了。&lt;/p&gt;
+&lt;p&gt;不然把床单和被子也换一套吧？昨天是没有什么力气换，现在总觉得不换的话，好像不太舒服。&lt;/p&gt;
+&lt;p&gt;嗯……还有什么呢……&lt;/p&gt;
+&lt;p&gt;裴珠泫的思路飘到一半，被从身后抱上来的孙胜完打断。&lt;/p&gt;
+&lt;p&gt;“我刚刚差点被那个大箱子绊倒，”孙胜完黏糊糊地抱怨，“是珠泫的陷阱吗？”&lt;/p&gt;
+&lt;p&gt;“把你摔了对我有什么好处？”&lt;/p&gt;
+&lt;p&gt;“可以照顾我，就能请假了。”&lt;/p&gt;
+&lt;p&gt;裴珠泫被孙胜完新奇的思路所震撼：“难怪以前都说孙胜完的请假理由很神奇。”&lt;/p&gt;
+&lt;p&gt;钢琴家连连摇头：“不是！我也没有请过几次假吧！”&lt;/p&gt;
+&lt;p&gt;“不过每次的理由都很奇妙，我记得有什么……”&lt;/p&gt;
+&lt;p&gt;“什么都没有，”孙胜完斩钉截铁地打断，“是不是要把衣服放上去？珠泫，我们来整理吧。”&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;等裴珠泫终于觉得收拾得差不多，可以出发去超市的时候，天色已经黑得差不多了。&lt;/p&gt;
+&lt;p&gt;小提琴首席细致地列了清单，把要采购的东西罗列了一遍。孙胜完乖乖地拿着纸，像是捧着什么神圣的书页。&lt;/p&gt;
+&lt;p&gt;并不是没有两个人一起采购什么东西的时候，只是现在的立场和感受完全不一样了。孙胜完在身边看着清单上的物品，又问着裴珠泫为什么不记在手机备忘录上，那样不是更方便吗？刚问完又说自己明白了，一定是这样写更有仪式感吧。&lt;/p&gt;
+&lt;p&gt;裴珠泫只是笑。她很少有故作神秘的时候，偶尔这么来一下，往往能把孙胜完逗得着急。钢琴家果然被好奇心追着跑，把能够想到的理由都猜了一遍。难道是喜欢划掉待办事项的感觉？写下来之后更不容易忘记？珠泫，到底是为什么？&lt;/p&gt;
+&lt;p&gt;其实没什么特别的理由——这样的真实原因反而说不出口了。&lt;/p&gt;
+&lt;p&gt;“再猜猜看。”裴珠泫说，“还有三次机会。”&lt;/p&gt;
+&lt;p&gt;孙胜完踌躇起来，沉默着绞尽脑汁。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;裴珠泫走在熟悉的路上，却感觉夜晚也变得明媚起来。&lt;/p&gt;- http://localhost:1313/the-bunny-has-chosen-to-listen-29/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>关于《狗狗逃跑之处》</title>
+        <link>http://localhost:1313/review-where-the-puppy-ran/</link>
+        <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/review-where-the-puppy-ran/</guid>
+        <description>杂货店老板 http://localhost:1313/review-where-the-puppy-ran/ -&lt;p&gt;最幸福的事情就是看见长评了（安详）&lt;/p&gt;
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://softcookie.lofter.com/&#34;&gt;softcookie&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这篇评论&lt;a href=&#34;http://localhost:1313/categories/%E7%8B%97%E7%8B%97%E9%80%83%E8%B7%91%E4%B9%8B%E5%A4%84/&#34;&gt;《狗狗》&lt;/a&gt;，因为想说的很多所以整理了一下。原作还未完结，希望有更多人能看到它甜蜜外表包裹住的对于孙胜完“逃跑”的刻画，并和我一起边大嗑特嗑边等待更新。&lt;/p&gt;
+&lt;p&gt;《狗狗》讲述的是公司职员孙胜完和面包店老板裴珠泫的故事。我从原作评论里看到作者说标题的来源是切罗基人的一个民间传说：一只狗偷了一些玉米粉，被赶走时向北逃跑将玉米粉撒了一路——银河就是这狗狗逃跑之处。我不知道世界上还有哪个传说比它更适合这个场合的粉蓝。孙胜完的狗塑调性显然不只有明媚和深情这两味，胆怯的、回避的、和直接跑路的在过往也有迹可循；狗狗没绷住而撒落的玉米粉会吸引谁——如果是面包店老板那就再妙不过了。&lt;/p&gt;
+&lt;p&gt;故事从两个人在面包店背后隐蔽的街道相遇开始。孙胜完为暴雨后消失的浅白小花难过，并对发现她的裴珠泫公布了“是我”“我是坏人”等重大宣言。单是开篇这一幕就有很大的解读空间……能感受到孙胜完身心俱疲，看起来是经常会加班也习惯了加班，情绪上紧绷到很容易就会哭出来。孙胜完对自我的严苛也初见端倪——她觉得自己没那么喜欢植物，也没考虑到它可能受到的来自自然的摧残，光是这两点就让她对自己强烈抨击（“自认为的虚伪向她猛烈地袭击”）。不仅如此，她对自己的真实情绪（小花带来的强烈安全感）感到羞耻，“觉得自己的想法幼稚又浅薄”，并企图掩藏它。这是一个深刻内化了她人的审视的、明明还葆有孩子般的深情却不得不学习“成人法则”的人。孙胜完与她认为不会被别人审视到也无需获得认同的花共情，终于得来的安全感却被暴雨和裴珠泫的关注宿命般地打破——属于孙胜完的成长开始了。&lt;/p&gt;
+&lt;p&gt;几乎所有人都会对在人际关系中受的伤做出反应，有的人向外发泄愤怒，而孙胜完的应对机制是逃跑到安全的地方独自消化悲伤并将愤怒导向自身。孙胜完年少时就作为亚裔外国人在北美生活，文中被异国同龄人的恶意的伤害对她是有深远影响的。中学生的恶意毫无修饰，因为大家的世界都还很狭窄却又精力无限……大家年纪渐长后关心的主要是自己要走的路，对边缘人群往往维持表面上的友好但大体是漠视的。文中的孙胜完不习惯毫无保留的善意，大概是默认其她人轻易就会变成加害者。受害的、在心灵上被驱逐的孙胜完逃跑直至自己与她人隔离。习惯了隔离与孤独后，距离感变成了难把握的东西：太近了令她不习惯（姜涩琪告诉她可以不必说敬语时她迅速逃离现场、会觉得仿佛被裴珠泫毫无保留的善意烤化），会认为与自己保持距离时的姜涩琪具有“真正的温柔”。逃避带来的耻感还进而引发了她向内的愤怒，对自我苛责。&lt;/p&gt;
+&lt;p&gt;孙胜完在长大的过程中习得的成人法则是没有负面情绪的：没有悲伤、愤怒、拒绝、冷淡、任性，但她还尚有产生这些情绪的能力，无奈之下只能压抑自我，直至与自我有些许失联的程度。她很难敏锐意识到自己想要怎样影响外界，看待自我像是隔着模糊的玻璃。但同时她依然好好接收着、感激着外界给她的好意，于是实际上还是过着有情有义的生活，但很难快乐。完美主义者难快乐。她期望自己在同学面前学业优秀，在同事面前能照顾好所有人喜恶，在裴珠泫的面前完美无缺。（想起RV宣传Red Flavor时，大家选水果，孙胜完 be like “我本来想选樱桃，但Joy和Yeri也选了樱桃，樱桃很适合她们，于是我改选李子”，然后Yeri向她喊“我告诉过你不要这样活着！”）自己退让一步就皆大欢喜了吗？对于在意孙胜完的人来说，她这样只会令她们难过。&lt;/p&gt;
+&lt;p&gt;是否有人能够闯入孙胜完的世界并打碎她对她人的固有想象呢——裴珠泫就是这样的闯入者，“裴珠泫的突然出现搅乱了一切——或者说改变了一切”。但裴珠泫也是保护花的人。当她对疲惫的孙胜完告白“没有人是完美的”、“但是胜完不需要做那么多，在我心里也可以是完美的”时，给人带来一种铺天盖地的安全感，孙胜完不狠狠爱上就怪啦！裴珠泫教孙胜完的第一件事就是不要一直抱歉：不要认为自己做了错事、不要认为自己即将受到理所当然的伤害。“偶尔发发脾气也可以”——请你不要苛责自己、或许那些是你理应愤怒的场合。更难得的是，面包店老板极具耐心：她鼓励孙胜完勇敢探究自我，但允许她偶尔逃跑。裴珠泫不止是注视着她，也珍视着她。&lt;/p&gt;
+&lt;p&gt;但与裴珠泫的碰撞并不是一个百分百愉悦的体验（或者说好的改变通常都不是轻而易举的）。孙胜完察觉到自己对裴珠泫的依赖与爱慕后，她批判自己在对方面前表现的一面，因为它凸显了她在不同人面前的非一致性，觉得自己遇到裴珠泫之前向她人伪装的一面是软弱、虚伪、可悲的。她开始思考自己过去“好像从别人的苦难中找到自己存在的意义”。这些自我叩问是令人痛苦的。另一方面，当她尝试找到自己的想法却又不能立刻得到裴珠泫的认同时，她感到挫败，“好像所有人都知道自己想要什么”，她宁可让手自主权得到外界明确的指示。为什么一定要她自己去得出结论？为什么这关躲不开？&lt;/p&gt;
+&lt;p&gt;孙胜完一定要自己得出结论。她需要成长、独立、以及找回自己的勇气。&lt;/p&gt;
+&lt;p&gt;请面包店老板将玉米粉做成好吃的蛋糕，和在努力的狗狗一起愉快地分享吧。&lt;/p&gt;
+&lt;p&gt;P.S. 其它一些更零散的想法：&lt;/p&gt;
+&lt;p&gt;孙胜完偶尔的大嗓门把裴珠泫吓得一抖（笑死）|| 裴珠泫戴眼镜时像是从魔法世界来的（点头）|| 第8章中孙胜完的回忆与 Wish You Hell 传达的信息狠狠呼应了 || 第13章的梦让我想起了《罪与罚》。看作者的作品的很多时候我都想起陀思妥耶夫思基（人物的心理意识、情感压过其它，有时我沉浸在孙胜完或者《小兔子选择了倾听》里的裴珠泫的情感中甚至没发觉故事场景已经变了）&lt;/p&gt;
+&lt;/blockquote&gt;- http://localhost:1313/review-where-the-puppy-ran/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>小兔子选择了倾听 28.舞</title>
+        <link>http://localhost:1313/the-bunny-has-chosen-to-listen-28/</link>
+        <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/the-bunny-has-chosen-to-listen-28/</guid>
+        <description>杂货店老板 http://localhost:1313/the-bunny-has-chosen-to-listen-28/ -&lt;p&gt;裴珠泫觉得有点丢脸。&lt;/p&gt;
+&lt;p&gt;明明也没有喝多少酒，昨天却醉得仿佛一塌糊涂，偏偏今天醒来那些记忆全都浮在眼前。裴珠泫捂着脸，如果她是孙胜完的话，肯定会在想自己是不是故意装醉，借此机会才能把那些平时都不会说的话一股脑说出来。&lt;/p&gt;
+&lt;p&gt;这种行为简直就是刚考完高考的高中生，兴奋地玩了一整个通宵，充满报复性的快乐。&lt;/p&gt;
+&lt;p&gt;所幸孙胜完一如既往地展现了自己的温柔一面，只是在裴珠泫以为喝醉后的出糗就这么过去的时候，轻轻地问了一句：“珠泫，其实我很喜欢听的。”&lt;/p&gt;
+&lt;p&gt;裴珠泫还没有反应过来对方在说什么。她们刚刚的话题还是今晚要去看的音乐会。音乐会的票也是孙胜完一手操办的，美其名曰要来学习其他人的经验，但日程安排起来宽松得就是在这里度假。如果要更加准确一点的话，倒是跟翘了班去度蜜月的氛围更贴近一些。&lt;/p&gt;
+&lt;p&gt;于是小提琴首席呆呆地回答：“音乐会吗？我知道的。我们可以听听有什么不同，回去也可以跟涩琪说说……”&lt;/p&gt;
+&lt;p&gt;“不是的，”孙胜完苦恼一样地打断了她，“不是音乐会。我是说，我也喜欢听珠泫哄我。”&lt;/p&gt;
+&lt;p&gt;裴珠泫感觉自己又喝了一杯酒，迷迷蒙蒙的。&lt;/p&gt;
+&lt;p&gt;“像‘喜欢我’和‘觉得我是最好的’这种话，我也很喜欢听的。”&lt;/p&gt;
+&lt;p&gt;年上的女友红着脸点着头，胡乱地应了下来，却在心里决定这么羞耻的事情今天是绝对不会再做了。&lt;/p&gt;
+&lt;p&gt;怎么也得从明天开始。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;或许是因为总算了却一件大事，裴珠泫自己都感觉到今天的心情高涨得不可思议。&lt;/p&gt;
+&lt;p&gt;她们吃了午饭，下午的时候在街上乱逛。裴珠泫走着走着就克制不住自己想要跳跃的冲动，又觉得这样喜形于色的自己有些太过明目张胆。身边的孙胜完倒是一点都不在意，牵着裴珠泫的手，配合着对方的节奏也开始蹦蹦跳跳起来。&lt;/p&gt;
+&lt;p&gt;裴珠泫觉得好傻，但阳光洒下来的温度和孙胜完手的热度达成完美的一致，最终她向自己内心的冲动妥协，拉着孙胜完在街上无所顾忌地跳了好长一段路，直到有些气喘吁吁地停下来。&lt;/p&gt;
+&lt;p&gt;“很开心吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫本来想矜持一下，但迅速地放弃了：“嗯。”她想了想，担心这样的表达还是太过含蓄，于是更加坚定地又应了一声，“嗯！”&lt;/p&gt;
+&lt;p&gt;“夏天的时候，要不要再来一趟？”&lt;/p&gt;
+&lt;p&gt;“嗯……可以呀。”&lt;/p&gt;
+&lt;p&gt;“到时候带你去看看大海，我可以开车去。”孙胜完计划起来，松松垮垮的打算和她语调里的期待，让裴珠泫莫名有种融化的感觉。她们的手指无间地交叉，如同不会再被分开的命运丝线，“或者珠泫也去办个驾驶证明，这样我们就可以交换着开了。”&lt;/p&gt;
+&lt;p&gt;“这就使唤上我啦？”&lt;/p&gt;
+&lt;p&gt;孙胜完弯着眼睛撒娇：“怎么能说是使唤呢，明明是郑重地把我自己拜托给姐姐了。”&lt;/p&gt;
+&lt;p&gt;真是狡猾得很，这个时候又喊上姐姐了。裴珠泫很难说自己到底是吃这一套，还是偶尔只是单纯想要听听孙胜完喊自己姐姐的样子。不对，她感觉自己又被孙胜完带进沟里了。这两个听上去似乎没有什么区别的样子。&lt;/p&gt;
+&lt;p&gt;但小提琴首席没有什么拒绝这个委托的理由：“嗯。”&lt;/p&gt;
+&lt;p&gt;钢琴家并没有忽视这样一句简单的应答下面藏着多少恋人的羞意。于是她继续畅想：“或者我们可以租一辆房车，怎么样？也省下住旅店的费用了……”&lt;/p&gt;
+&lt;p&gt;裴珠泫忍不住笑：“是哦，差点忘了，你也是背着房贷的人。”&lt;/p&gt;
+&lt;p&gt;“我没有！我是……我是家庭贷款，只需要还给妈妈就可以了。”&lt;/p&gt;
+&lt;p&gt;“嗯，是是~”&lt;/p&gt;
+&lt;p&gt;“珠泫变坏了。”&lt;/p&gt;
+&lt;p&gt;“跟着什么样的老师，就会变成什么样的哦。”&lt;/p&gt;
+&lt;p&gt;孙老师委屈地申辩：“是裴同学太青出于蓝而胜于蓝了。”&lt;/p&gt;
+&lt;p&gt;裴珠泫笑得不行，捏了捏孙胜完的手，在她听话地靠近之后亲了亲她的脸：“孙老师倾囊相授，我不学的话也太坏了。”&lt;/p&gt;
+&lt;p&gt;钢琴家意料之外地被哄好了，开始随手指着路边介绍起来。这里是座教堂，以前我还在做过一段时间的合唱团成员，后来又让我去弹钢琴，我还背过一段时间的圣经呢。那边的公园有段时间都快变成狗狗公园了，不过基本上都是大狗狗，在山坡上跑来跑去的，不过现在不一样了！应该吧……&lt;/p&gt;
+&lt;p&gt;孙胜完下意识地把裴珠泫拉到了自己的身边，护得很紧。裴珠泫只觉得可爱，乖顺地往女友的身上蹭了点。她想了想，感觉这样似乎不够，干脆把身体的重量倾斜了上去，又是挽着手臂又牵着手。&lt;/p&gt;
+&lt;p&gt;“害怕吗？”孙胜完看样子像是要解释现在没有那么多狗狗。&lt;/p&gt;
+&lt;p&gt;裴珠泫摇摇头：“不是，只是想更靠近你一点。”&lt;/p&gt;
+&lt;p&gt;孙胜完连脖子都红了。&lt;/p&gt;
+&lt;p&gt;一边要听这种话，一边又害羞得不行，甚至连自己的视线都下意识地躲避。&lt;/p&gt;
+&lt;p&gt;小提琴首席的心情愈发好了。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;音乐会开始前半小时，孙胜完领着裴珠泫抵达了目的地。&lt;/p&gt;
+&lt;p&gt;习惯了穿着正式的裙装，裴珠泫鲜少穿得这么休闲参加音乐会。她在之前问孙胜完要不要正式的礼服，被安抚着说没关系，只要得体就行。那个时候的孙胜完还有些不开心，显然是对正在欲望之中的裴珠泫居然还有心神提出这样的问题感到不满。年下的恋人回答完，立刻在裴珠泫的锁骨上咬了一口，力道不轻不重，只让人心痒，连着身体都跟着颤起来。&lt;/p&gt;
+&lt;p&gt;这样……感觉不太好啊……&lt;/p&gt;
+&lt;p&gt;裴珠泫想捂脸，可人越来越多，这样突兀的举动显得有些古怪。&lt;/p&gt;
+&lt;p&gt;跟孙胜完的回忆越来越多，但其中让人脸红心跳的占比怎么多得不像话了。&lt;/p&gt;
+&lt;p&gt;孙胜完在她身边站得笔直，见她走神，牵着她到了人比较少的角落，小声地问：“有哪里不舒服吗？”&lt;/p&gt;
+&lt;p&gt;裴珠泫摇摇头：“没事。”她停顿了一下，又开口，“胜完。”&lt;/p&gt;
+&lt;p&gt;“嗯？”&lt;/p&gt;
+&lt;p&gt;“我很开心。”&lt;/p&gt;
+&lt;p&gt;孙胜完也配合地眨眨眼：“我也很开心。”&lt;/p&gt;
+&lt;p&gt;把永远一点一点拆分到最后，就是这样的一个个瞬间吗？裴珠泫突然很想亲吻女友，氛围到位，可场合不对。她扭开视线，强行地转移了话题：“是不是要入场了？”&lt;/p&gt;
+&lt;p&gt;“好像是的。”孙胜完也没有追问，“走吧？”&lt;/p&gt;
+&lt;p&gt;裴珠泫跟着孙胜完走，踩在软软的红色地毯上，简直像是大庭广众之下隐秘的结婚仪式。&lt;/p&gt;
+&lt;p&gt;唉。她在心里叹气，见完家长之后，感觉自己怎么都不对劲了！&lt;/p&gt;
+&lt;p&gt;不过，音乐会很棒。&lt;/p&gt;
+&lt;p&gt;最开始的时候，裴珠泫还想着要单纯地享受一下。可是越听到后面，就开始忍不住把自己放在上面进行比较。直到后面发现自己已经开始以工作状态进行分析的时候，裴珠泫终于觉得自己实在是太热爱这份工作了。她转过头，看见孙胜完一双眼睛专注地盯着她。小提琴首席觉得有趣，压着声音问：“一直在看我？”&lt;/p&gt;
+&lt;p&gt;“姐姐好看。”&lt;/p&gt;
+&lt;p&gt;“……”裴珠泫彻底没了办法，轻轻拍了拍钢琴家的脑袋，“认真听。”&lt;/p&gt;
+&lt;p&gt;小狗点点头，还是盯着裴珠泫的侧脸看。灼热的视线甚至有行走的痕迹，从眉眼开始，一路往下，在唇上停留的时间稍久了一点点，最后又移动到耳朵。哪怕音乐厅把灯光都放在舞台上，裴珠泫觉得这么近的距离，孙胜完一定可以看见自己的耳朵通红。&lt;/p&gt;
+&lt;p&gt;她伸手捏住女友的下巴，把对方的脑袋扭向舞台：“好好看。”&lt;/p&gt;
+&lt;p&gt;“嗯。”&lt;/p&gt;
+&lt;p&gt;孙胜完低哑的声音在耳边徘徊，让温度莫名又上升了一些。&lt;/p&gt;
+&lt;p&gt;啊，裴珠泫想，好想亲亲她。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;回家的路上，裴珠泫还是没忍住分享工作体验的冲动，和孙胜完开始解析表演。&lt;/p&gt;
+&lt;p&gt;孙胜完耐心地听着，时不时还补充几句。裴珠泫在心里腹诽，就算是努力派，也是充满天赋的努力派，不然怎么可以做到这么完美的分心呢？明明有大半时间在盯着自己，却还能够听出不少细节来。&lt;/p&gt;
+&lt;p&gt;裴珠泫说累了，想着在附近有没有咖啡店，却在这个空档被孙胜完牵住手腕。年下女友稍迈开步站在她的前面，身上的气味干净又清新，像是早上在被窝里的拥抱。&lt;/p&gt;
+&lt;p&gt;孙胜完开始哼起旋律来，裴珠泫专注地听，发现并不是音乐会里的曲子。&lt;/p&gt;
+&lt;p&gt;裴珠泫想了想，怎么也想不起来，干脆不想了。孙胜完一脸得逞的笑意，还在用自己的节奏哼着歌。&lt;/p&gt;
+&lt;p&gt;原来是要跳舞。&lt;/p&gt;
+&lt;p&gt;裴珠泫在大学的时候学过一点舞步，练得不多，身体根本没有形成多少记忆。她几乎……完全是跟着孙胜完的动作在跳。孙胜完牵着她的手，在还有些积雪的街道慢悠悠地跳，手划过腰的时候用了点力，把两个人之间的距离拉近。裴珠泫以为这里会有一个吻，可对方只是哼着调子，又推远了两个人的距离。&lt;/p&gt;
+&lt;p&gt;孙胜完抬起手，她顺着力道在她的带领下转了个圈。裴珠泫不想又被推远，干脆趁着这个空档抱住了孙胜完。&lt;/p&gt;
+&lt;p&gt;孙胜完闷闷地笑：“珠泫，这里不该这么跳。”&lt;/p&gt;
+&lt;p&gt;裴珠泫把脸埋在孙胜完的脖子里：“我不管。”&lt;/p&gt;
+&lt;p&gt;“不管什么？”&lt;/p&gt;
+&lt;p&gt;“反正就是不管。”&lt;/p&gt;
+&lt;p&gt;钢琴家也抱住了恋人。&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;p&gt;啊，真不想回首尔。&lt;/p&gt;
+&lt;p&gt;裴珠泫想。&lt;/p&gt;
+&lt;p&gt;都怪孙胜完。&lt;/p&gt;- http://localhost:1313/the-bunny-has-chosen-to-listen-28/ - </description>
+        </item>
+    
+    
   </channel>
-</rss>
+</rss> 

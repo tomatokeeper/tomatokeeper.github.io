@@ -1,0 +1,12 @@
+<nav>
+  {{ range $term, $_ := .Site.Taxonomies }}
+    {{ with $.Site.GetPage (printf "/%s" $term | urlize) }}
+      <label style="font-size: 20px;">{{ .Title | title }}</label></br><br/>
+      {{ range .Pages }}
+        <a class="taxonomy-cloud" href="{{ .RelPermalink }}" target="_blank">{{ .Title }} [{{ len .Pages }}]</a>
+      {{ end }}
+    </br>
+    </br>
+    {{ end }}
+  {{ end }}
+</nav>

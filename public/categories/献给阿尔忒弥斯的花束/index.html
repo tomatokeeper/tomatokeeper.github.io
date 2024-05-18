@@ -1,198 +1,155 @@
 <!DOCTYPE html>
-<html lang="zh" dir="ltr">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<title>献给阿尔忒弥斯的花束</title>
+
+
+
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
 <meta name="description" content="">
-<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
-<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
-<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/categories/%E7%8C%AE%E7%BB%99%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%E7%9A%84%E8%8A%B1%E6%9D%9F/">
-  <meta property="og:site_name" content="杂货店老板">
-  <meta property="og:title" content="献给阿尔忒弥斯的花束">
-  <meta property="og:locale" content="zh">
-  <meta property="og:type" content="website">
-<title>献给阿尔忒弥斯的花束 | 杂货店老板</title>
-<link rel="manifest" href="/manifest.json">
-<link rel="icon" href="/favicon_may2024.png" >
-<link rel="canonical" href="http://localhost:1313/categories/%E7%8C%AE%E7%BB%99%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%E7%9A%84%E8%8A%B1%E6%9D%9F/">
-<link rel="stylesheet" href="/book.min.72bc3964935954d77863abbe59ef15832a5973e4d8cb2008d45047255a632693.css" integrity="sha256-crw5ZJNZVNd4Y6u&#43;We8VgypZc&#43;TYyyAI1FBHJVpjJpM=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/zh.search.min.271e759974203d78a45c0c7d2a042f19bc55ba7a4834bc2e459aaba3051ca0a2.js" integrity="sha256-Jx51mXQgPXikXAx9KgQvGbxVunpINLwuRZqrowUcoKI=" crossorigin="anonymous"></script>
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/categories/%E7%8C%AE%E7%BB%99%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%E7%9A%84%E8%8A%B1%E6%9D%9F/index.xml" title="杂货店老板" />
-<!--
-Made with Book Theme
-https://github.com/alex-shpak/hugo-book
--->
-  
+
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="/scss/dark-mode.min.cb53f1bee2b8900cb4f082afbf00175d6618f281cf9a2fe8619e3b52d20b5721.css" integrity="sha256-y1PxvuK4kAy08IKvvwAXXWYY8oHPmi/oYZ47UtILVyE=" media="screen">
+
+
+<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Material+Icons">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </head>
-<body dir="ltr">
-  <input type="checkbox" class="hidden toggle" id="menu-control" />
-  <input type="checkbox" class="hidden toggle" id="toc-control" />
-  <main class="container flex">
-    <aside class="book-menu">
-      <div class="book-menu-content">
+<body>
+    	<div id="app"><div class="single-column-drawer-container" id="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/posts">
+                    Archive
+                </a>
+                
+            
+                
+                
+                
+                    
+                
+                
+                
+                <a class="a-block drawer-menu-item active" href="/categories">
+                    Categories
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/tags">
+                    Tags
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/index.xml">
+                    RSS Feed
+                </a>
+                
+            
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div id="drawer-mask" v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav id="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div id="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a id="navTitle" class="navbar-brand" href="http://localhost:1313/">
+            杂货店老板
+        </a>
         
-  <nav>
-<h2 class="book-brand">
-  <a class="flex align-center" href="/"><img src="/favicon_may2024.png" alt="Logo" /><span>杂货店老板</span>
-  </a>
-</h2>
+        <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
+            <i class="material-icons" id="darkModeToggleIcon2">
+                dark_mode
+            </i>
+        </button>
+        
+    </div>
+</nav>
+<div class="single-column-header-container" id="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="http://localhost:1313/">
+        <div class="single-column-header-title">杂货店老板</div>
+        
 
-
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="搜索" aria-label="搜索" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+    </a>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-  <ul>
-<li><a href="/posts/">故事 | Stories</a></li>
-<li><a href="/docs/archive/">归档 | Archive</a></li>
-<li><a href="/tags/%E9%97%B2%E8%81%8A/">闲聊 | Chit-chat</a></li>
-<li><a href="/docs/about/">关于 | About</a></li>
-<li><a href="/tags/%E7%94%B5%E5%AD%90%E5%90%8C%E4%BA%BA%E6%96%87%E8%83%BD%E5%A4%9F%E5%BE%97%E5%88%B0%E8%AF%BB%E5%90%8E%E6%84%9F%E5%90%97/">读后感 | Reviews</a></li>
-<li><a href="/docs/messages/">留言板 | Messages</a></li>
-</ul>
-
-
-
-
-
-
-
-
-
-
-</nav>
-
-
-
-
-  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
-
-
- 
-      </div>
-    </aside>
-
-    <div class="book-page">
-      <header class="book-header">
-        
-  <div class="flex align-center justify-between">
-  <label for="menu-control">
-    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
-  </label>
-
-  <strong>献给阿尔忒弥斯的花束</strong>
-
-  <label for="toc-control">
-    
-    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
-    
-  </label>
-</div>
-
-
-  
-  <aside class="hidden clearfix">
-    
-  <nav>
-  
-    
-      <label style="font-size: 20px;">Categories</label></br><br/>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%9F%AD%E7%AF%87/" target="_blank">短篇 [32]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%B0%8F%E5%85%94%E5%AD%90%E9%80%89%E6%8B%A9%E4%BA%86%E5%80%BE%E5%90%AC/" target="_blank">小兔子选择了倾听 [32]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%85%B6%E5%AE%83/" target="_blank">其它 [9]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%82%B2%E6%85%A2%E4%B8%8E%E5%81%8F%E8%A7%81/" target="_blank">傲慢与偏见 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/what-if%E7%8B%BC%E4%B8%8E%E9%AD%94%E5%A5%B3/" target="_blank">What If…狼与魔女 [18]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E4%B8%BE%E8%B5%B7%E5%8F%8C%E6%89%8B%E7%BB%9D%E4%B8%8D%E5%96%8A%E6%8A%95%E9%99%8D/" target="_blank">举起双手（绝不）喊投降 [6]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%B7%A8%E9%BE%99%E7%9A%84%E8%A8%80%E8%A1%8C%E6%BD%9C%E8%A7%84%E5%88%99/" target="_blank">巨龙的言行潜规则 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%8C%AE%E7%BB%99%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%E7%9A%84%E8%8A%B1%E6%9D%9F/" target="_blank">献给阿尔忒弥斯的花束 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%90%86%E6%99%BA%E4%B8%8E%E6%83%85%E6%84%9F/" target="_blank">理智与情感 [5]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%8B%97%E7%8B%97%E9%80%83%E8%B7%91%E4%B9%8B%E5%A4%84/" target="_blank">狗狗逃跑之处 [14]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E4%B9%8C%E9%B8%A6/" target="_blank">乌鸦 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%A1%AB%E8%AF%8D/" target="_blank">填词 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%BB%8F%E5%B8%B8%E8%AF%B7%E5%90%83%E9%A5%AD%E7%9A%84%E6%BC%82%E4%BA%AE%E5%A6%B9%E5%A6%B9/" target="_blank">经常请吃饭的漂亮妹妹 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%9D%A1%E5%89%8D%E5%B0%8F%E6%95%85%E4%BA%8B/" target="_blank">睡前小故事 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E6%A0%87%E5%87%86%E5%92%92%E8%AF%AD%E5%87%A0%E7%BA%A7/" target="_blank">标准咒语，几级？ [4]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%A4%A7%E4%BA%BA%E7%9A%84%E6%81%8B%E7%88%B1%E6%B3%95/" target="_blank">大人的恋爱法 [2]</a>
-      
-    </br>
-    </br>
-    
-  
-    
-      <label style="font-size: 20px;">Tags</label></br><br/>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%B2%89%E8%93%9D/" target="_blank">粉蓝 [131]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%94%B5%E5%AD%90%E5%90%8C%E4%BA%BA%E6%96%87%E8%83%BD%E5%A4%9F%E5%BE%97%E5%88%B0%E8%AF%BB%E5%90%8E%E6%84%9F%E5%90%97/" target="_blank">电子同人文能够得到读后感吗 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E5%93%A8%E5%90%91/" target="_blank">哨向 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/abo/" target="_blank">ABO [5]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E8%BF%99%E7%AF%87%E8%BF%98%E6%98%AF%E9%82%A3%E7%AF%87%E8%AF%BB%E5%90%8E%E6%84%9F%E5%91%80/" target="_blank">这篇还是那篇读后感呀？ [2]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%95%AA%E5%A4%96/" target="_blank">番外 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E9%97%AE%E5%8D%B7/" target="_blank">问卷 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E9%97%B2%E8%81%8A/" target="_blank">闲聊 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/" target="_blank">十三机兵防卫圈 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%94%BB%E6%89%8B%E9%85%8D%E5%9B%BE/" target="_blank">画手配图 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/hpau/" target="_blank">HPAU [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/ff14/" target="_blank">FF14 [3]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E5%85%89%E6%95%8F/" target="_blank">光敏 [2]</a>
-      
-    </br>
-    </br>
-    
-  
-</nav>
-
-  </aside>
-  
- 
-      </header>
-
-      
-      
+            <div id="content">
+                <div id="streamContainer" class="stream-container">
   
   <article class="markdown book-post post-box">
     <h2>
@@ -219,10 +176,7 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-    <p><h3 id="ch1剑鞘">
-  <strong>Ch1. 剑鞘</strong>
-  <a class="anchor" href="#ch1%e5%89%91%e9%9e%98">#</a>
-</h3></p>
+    <p><h3 id="ch1剑鞘"><strong>Ch1. 剑鞘</strong></h3></p>
   </article>
   
   <article class="markdown book-post post-box">
@@ -256,132 +210,122 @@ https://github.com/alex-shpak/hugo-book
   
 
   
- 
-      
 
-      <footer class="book-footer">
+                    </div>
+            </div><div id="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="http://localhost:1313/">
+    
+        <div class="nav-title">
+            杂货店老板
+        </div>
         
-  <div class="flex flex-wrap justify-between">
+    </a>
 
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/posts">
+                Archive
+            </a>
+            
+        
+            
+            
+            
+                
+            
+            
+            
+            <a class="a-block nav-link-item active" href="/categories">
+                Categories
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/tags">
+                Tags
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/index.xml">
+                RSS Feed
+            </a>
+            
+        
+    </div>
 
+    
 
+    <div class="nav-footer">
+        
+Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
+<br>
+移植自 <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
 
+&copy;
+	
+	2024 杂货店老板
+	
 
+    </div>
+    
+</div><div id="extraContainer" class="extra-container">
+    <div class="toc-wrapper">
+        
+
+        
+    </div>
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top"
+            :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        <a type="button" class="pagination-action" id="darkModeToggleButton">
+            <span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
+                dark_mode
+            </span>
+        </a>
+        
+        
+        
+        
+    </div>
 </div>
 
 
 
-  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
 
+<div id="single-column-footer">
+Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
+<br>
+移植自 <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
 
- 
-        
-      </footer>
-
-      
-  
- 
-
-      <label for="menu-control" class="hidden book-menu-overlay"></label>
-    </div>
-
+&copy;
+	
+	2024 杂货店老板
+	
+</div>
+            </div>
     
-    <aside class="book-toc">
-      <div class="book-toc-content">
-        
-  <nav>
-  
-    
-      <label style="font-size: 20px;">Categories</label></br><br/>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%9F%AD%E7%AF%87/" target="_blank">短篇 [32]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%B0%8F%E5%85%94%E5%AD%90%E9%80%89%E6%8B%A9%E4%BA%86%E5%80%BE%E5%90%AC/" target="_blank">小兔子选择了倾听 [32]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%85%B6%E5%AE%83/" target="_blank">其它 [9]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%82%B2%E6%85%A2%E4%B8%8E%E5%81%8F%E8%A7%81/" target="_blank">傲慢与偏见 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/what-if%E7%8B%BC%E4%B8%8E%E9%AD%94%E5%A5%B3/" target="_blank">What If…狼与魔女 [18]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E4%B8%BE%E8%B5%B7%E5%8F%8C%E6%89%8B%E7%BB%9D%E4%B8%8D%E5%96%8A%E6%8A%95%E9%99%8D/" target="_blank">举起双手（绝不）喊投降 [6]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%B7%A8%E9%BE%99%E7%9A%84%E8%A8%80%E8%A1%8C%E6%BD%9C%E8%A7%84%E5%88%99/" target="_blank">巨龙的言行潜规则 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%8C%AE%E7%BB%99%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%E7%9A%84%E8%8A%B1%E6%9D%9F/" target="_blank">献给阿尔忒弥斯的花束 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%90%86%E6%99%BA%E4%B8%8E%E6%83%85%E6%84%9F/" target="_blank">理智与情感 [5]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%8B%97%E7%8B%97%E9%80%83%E8%B7%91%E4%B9%8B%E5%A4%84/" target="_blank">狗狗逃跑之处 [14]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E4%B9%8C%E9%B8%A6/" target="_blank">乌鸦 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%A1%AB%E8%AF%8D/" target="_blank">填词 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%BB%8F%E5%B8%B8%E8%AF%B7%E5%90%83%E9%A5%AD%E7%9A%84%E6%BC%82%E4%BA%AE%E5%A6%B9%E5%A6%B9/" target="_blank">经常请吃饭的漂亮妹妹 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%9D%A1%E5%89%8D%E5%B0%8F%E6%95%85%E4%BA%8B/" target="_blank">睡前小故事 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E6%A0%87%E5%87%86%E5%92%92%E8%AF%AD%E5%87%A0%E7%BA%A7/" target="_blank">标准咒语，几级？ [4]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%A4%A7%E4%BA%BA%E7%9A%84%E6%81%8B%E7%88%B1%E6%B3%95/" target="_blank">大人的恋爱法 [2]</a>
-      
-    </br>
-    </br>
-    
-  
-    
-      <label style="font-size: 20px;">Tags</label></br><br/>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%B2%89%E8%93%9D/" target="_blank">粉蓝 [131]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%94%B5%E5%AD%90%E5%90%8C%E4%BA%BA%E6%96%87%E8%83%BD%E5%A4%9F%E5%BE%97%E5%88%B0%E8%AF%BB%E5%90%8E%E6%84%9F%E5%90%97/" target="_blank">电子同人文能够得到读后感吗 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E5%93%A8%E5%90%91/" target="_blank">哨向 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/abo/" target="_blank">ABO [5]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E8%BF%99%E7%AF%87%E8%BF%98%E6%98%AF%E9%82%A3%E7%AF%87%E8%AF%BB%E5%90%8E%E6%84%9F%E5%91%80/" target="_blank">这篇还是那篇读后感呀？ [2]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%95%AA%E5%A4%96/" target="_blank">番外 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E9%97%AE%E5%8D%B7/" target="_blank">问卷 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E9%97%B2%E8%81%8A/" target="_blank">闲聊 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/" target="_blank">十三机兵防卫圈 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%94%BB%E6%89%8B%E9%85%8D%E5%9B%BE/" target="_blank">画手配图 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/hpau/" target="_blank">HPAU [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/ff14/" target="_blank">FF14 [3]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E5%85%89%E6%95%8F/" target="_blank">光敏 [2]</a>
-      
-    </br>
-    </br>
-    
-  
-</nav>
- 
-      </div>
-    </aside>
-    
-  </main>
-
-  
-</body>
+    <script src="/js/journal.js"></script></body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-

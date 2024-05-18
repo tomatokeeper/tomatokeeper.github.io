@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh'
+title = '杂货店老板'
+theme = 'hugo-book'
+hasCJKLanguage = true
+defaultContentLanguage = 'zh'
+
+[params]
+    BookTheme = 'auto'
+    BookMenuBundle = '/menu'
+    BookFavicon = 'favicon_may2024.png'
+    BookLogo = 'favicon_may2024.png'

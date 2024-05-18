@@ -1,0 +1,2 @@
+{{ $lines := .Get 0 | default "1" | int }}
+{{ range seq 0 $lines }}<br>{{ end }}
