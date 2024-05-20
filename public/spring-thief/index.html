@@ -1,157 +1,283 @@
 <!DOCTYPE html>
-<html lang="zh" dir="ltr">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="
-  &gt; &lt; 因为是春天呀！
-">
-<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
-<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
-<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/spring-thief/">
-  <meta property="og:site_name" content="杂货店老板">
-  <meta property="og:title" content="春天小偷">
-  <meta property="og:description" content=" &gt; &lt; 因为是春天呀！ ">
-  <meta property="og:locale" content="zh">
-  <meta property="og:type" content="article">
-    <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2023-03-21T00:00:00+00:00">
-    <meta property="article:modified_time" content="2023-03-21T00:00:00+00:00">
-    <meta property="article:tag" content="粉蓝">
-<title>春天小偷 | 杂货店老板</title>
-<link rel="manifest" href="/manifest.json">
-<link rel="icon" href="/favicon_may2024.png" >
-<link rel="canonical" href="http://localhost:1313/spring-thief/">
-<link rel="stylesheet" href="/book.min.72bc3964935954d77863abbe59ef15832a5973e4d8cb2008d45047255a632693.css" integrity="sha256-crw5ZJNZVNd4Y6u&#43;We8VgypZc&#43;TYyyAI1FBHJVpjJpM=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/zh.search.min.271e759974203d78a45c0c7d2a042f19bc55ba7a4834bc2e459aaba3051ca0a2.js" integrity="sha256-Jx51mXQgPXikXAx9KgQvGbxVunpINLwuRZqrowUcoKI=" crossorigin="anonymous"></script>
+<html lang="zh-cn" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content=" &gt; &lt; 因为是春天呀！ ">
+<title>春天小偷</title>
+
+<link rel='canonical' href='http://localhost:1313/spring-thief/'>
+
+<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="春天小偷">
+<meta property='og:description' content=" &gt; &lt; 因为是春天呀！ ">
+<meta property='og:url' content='http://localhost:1313/spring-thief/'>
+<meta property='og:site_name' content='杂货店老板'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='粉蓝' /><meta property='article:published_time' content='2023-03-21T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2023-03-21T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="春天小偷">
+<meta name="twitter:description" content=" &gt; &lt; 因为是春天呀！ ">
+    <link rel="shortcut icon" href="/favicon_may2024.png" />
 
   
 
-<!--
-Made with Book Theme
-https://github.com/alex-shpak/hugo-book
--->
-  
-</head>
-<body dir="ltr">
-  <input type="checkbox" class="hidden toggle" id="menu-control" />
-  <input type="checkbox" class="hidden toggle" id="toc-control" />
-  <main class="container flex">
-    <aside class="book-menu">
-      <div class="book-menu-content">
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
         
-  <nav>
-<h2 class="book-brand">
-  <a class="flex align-center" href="/"><img src="/favicon_may2024.png" alt="Logo" /><span>杂货店老板</span>
-  </a>
-</h2>
-
-
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="搜索" aria-label="搜索" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-  <ul>
-<li><a href="/posts/">故事 | Stories</a></li>
-<li><a href="/docs/archive/">归档 | Archive</a></li>
-<li><a href="/tags/%E9%97%B2%E8%81%8A/">闲聊 | Chit-chat</a></li>
-<li><a href="/docs/about/">关于 | About</a></li>
-<li><a href="/tags/%E7%94%B5%E5%AD%90%E5%90%8C%E4%BA%BA%E6%96%87%E8%83%BD%E5%A4%9F%E5%BE%97%E5%88%B0%E8%AF%BB%E5%90%8E%E6%84%9F%E5%90%97/">读后感 | Reviews</a></li>
-<li><a href="/docs/messages/">留言板 | Messages</a></li>
-</ul>
-
-
-
-
-
-
-
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/favicon_may2024_hub4997c584c0ba13fe440a74d27137ba1_360515_300x0_resize_box_3.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">杂货店老板</a></h1>
+            <h2 class="site-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://github.com/CaiJimmy/hugo-theme-stack'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
 
 
 
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://twitter.com'
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li>
+          <ol>
+            <li><a href="#1"><strong>1</strong>.</a></li>
+            <li><a href="#2"><strong>2.</strong></a></li>
+            <li><a href="#3"><strong>3.</strong></a></li>
+            <li><a href="#4"><strong>4.</strong></a></li>
+            <li><a href="#5"><strong>5.</strong></a></li>
+            <li><a href="#6"><strong>6.</strong></a></li>
+            <li><a href="#7"><strong>7.</strong></a></li>
+            <li><a href="#8"><strong>8.</strong></a></li>
+            <li><a href="#9"><strong>9.</strong></a></li>
+            <li><a href="#11"><strong>11.</strong></a></li>
+            <li><a href="#12"><strong>12.</strong></a></li>
+            <li><a href="#13"><strong>13.</strong></a></li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+  </ol>
 </nav>
+        </div>
+    </section>
 
-
-
-
-  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
-
-
- 
-      </div>
+            
+        
     </aside>
 
-    <div class="book-page">
-      <header class="book-header">
-        
-  <div class="flex align-center justify-between">
-  <label for="menu-control">
-    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
-  </label>
 
-  <strong>春天小偷</strong>
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
 
-  <label for="toc-control">
+    <div class="article-details">
     
-  </label>
+    <header class="article-category">
+        
+            <a href="/categories/%E7%9F%AD%E7%AF%87/" >
+                短篇
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/spring-thief/">春天小偷</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Mar 21, 2023</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    阅读时长: 14 分钟
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
 </div>
 
+</header>
 
-  
- 
-      </header>
-
-      
-      
-<article class="markdown book-post">
-  <h1>
-    <a href="/spring-thief/">春天小偷</a>
-  </h1>
-  
-  <h5>March 21, 2023</h5>
-
-
-
-  
-  <div>
+    <section class="article-content">
     
-      <a href="/categories/%E7%9F%AD%E7%AF%87/"><code>短篇</code></a>
-  </div>
-  
-
-  
-  <div>
     
-      <a href="/tags/%E7%B2%89%E8%93%9D/"><code>粉蓝</code></a>
-  </div>
-  
-
-
-<blockquote class="book-hint info">
+    <blockquote class="book-hint info">
   &gt; &lt; 因为是春天呀！
 </blockquote>
 
 <br><br>
 
-<h4 id="1">
-  <strong>1</strong>.
-  <a class="anchor" href="#1">#</a>
-</h4>
-<p>“胜完。胜完？”姜涩琪戳了戳正在愣神的孙胜完，“想什么呢？该吃饭了。”</p>
+<h4 id="1"><strong>1</strong>.
+</h4><p>“胜完。胜完？”姜涩琪戳了戳正在愣神的孙胜完，“想什么呢？该吃饭了。”</p>
 <p>“啊……”孙胜完像是缓慢启动的电脑，姜涩琪甚至觉得自己能够听见对方大脑呼呼运转的声音。只不过和陈旧的、吭哧吭哧努力的那些老旧款式不同，孙胜完一副愁眉苦脸又乐在其中的样子，让她觉得颇为新鲜。</p>
 <p>这台崭新的大脑慢慢地从嘴里吐出几个字，颇有语不惊人死不休的意思。</p>
 
@@ -161,11 +287,8 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 
-<h4 id="2">
-  <strong>2.</strong>
-  <a class="anchor" href="#2">#</a>
-</h4>
-<p>从实际情况上而言，这是一个不可能完成的任务。毕竟这个事情的难度明晃晃地摆在这儿，很难让人能够逾越客观规律去看待它：季节的变化是由地球的公转影响的……或者之类的条件吧，总之并非是一个普通的、平凡的人类可以凭借一己之力改变的，更不用说偷走了。</p>
+<h4 id="2"><strong>2.</strong>
+</h4><p>从实际情况上而言，这是一个不可能完成的任务。毕竟这个事情的难度明晃晃地摆在这儿，很难让人能够逾越客观规律去看待它：季节的变化是由地球的公转影响的……或者之类的条件吧，总之并非是一个普通的、平凡的人类可以凭借一己之力改变的，更不用说偷走了。</p>
 <p>只不过呢，就算跨越了这层无法忽视的客观因素，从主观而言也不是那么简单能够做到的。不管是把“春天”当做一个概念也好，还是当成一个气候也好，它都并非是能够抓得住的、具有实体的东西。既然不是实体，那要怎么去“偷”呢？又同时因为不是实体，就算想尽了办法把它“偷”到了，又要用什么样的容器去装着它呢？</p>
 <p>如果再往后退一步，就算解决了能够偷走春天和找到能够装下春天的东西，又要怎么给……</p>
 <p>“停一下，胜完。”姜涩琪忍不住出声打断了孙胜完的长篇大论，“你先等等。”</p>
@@ -192,11 +315,8 @@ https://github.com/alex-shpak/hugo-book
 <p>
 <br><br>
  </p>
-<h4 id="3">
-  <strong>3.</strong>
-  <a class="anchor" href="#3">#</a>
-</h4>
-<p>裴珠泫只是随口一提。</p>
+<h4 id="3"><strong>3.</strong>
+</h4><p>裴珠泫只是随口一提。</p>
 <p>嗯……要说实话的话，也没有那么随口一提。毕竟“随口”这个词里面的“随”，应该是对什么人都可以，说什么话题都可以，在什么时间讲也都可以。这个“随”里面带着的随便、随性和随意，是面向普罗大众的，没有任何针对意义的。如果从这个点出发的话，裴珠泫会不得不坦诚地表示：是的，她不是这么随口，但确实只是那么一提。</p>
 <p>起因……好像也没有什么特别的起因。早春的傍晚，下了班，裴珠泫的手机就弹出一条又一条的信息。</p>
 <p>裴珠泫跟同事点头，告别，打卡，离开公司，然后在电梯里划开屏幕，孙胜完那压抑着雀跃和充满着紧张的慌乱裹挟着没法遮掩的邀请就穿过屏幕，扑面而来：“姐姐下班了吗？”“要不要一起吃个晚饭？”“没有别的意思！就是想一起吃个饭。”“然后再顺便一起散散步，怎么样？”</p>
@@ -225,11 +345,8 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 
-<h4 id="4">
-  <strong>4.</strong>
-  <a class="anchor" href="#4">#</a>
-</h4>
-<p>志在必得的孙胜完愁眉苦脸地关闭了电脑。</p>
+<h4 id="4"><strong>4.</strong>
+</h4><p>志在必得的孙胜完愁眉苦脸地关闭了电脑。</p>
 <p>也是，她想，也是，怎么会有人奇思妙想地想要偷春天呢。好学的孙胜完同学也想过用讨巧的方式。比如说……比如说春天的代名词是什么呢？她可以用樱花来作为一个代表，然后把它们送给裴珠泫。她也可以开着车，把裴珠泫拉出去野餐，让她体验春天的氛围。她想裴珠泫应该也是有点喜欢自己的。她努力让这句话听上去不要么底气不足，不要那么瑟缩怯懦。所以，她准备找另一个人证来佐证这一点。</p>
 <p>“涩！”她对着接通的电话说，“你觉得……”</p>
 <p>“如果是你那个什么春天小偷的事，就不要再说了。”</p>
@@ -255,11 +372,8 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 
-<h4 id="5">
-  <strong>5.</strong>
-  <a class="anchor" href="#5">#</a>
-</h4>
-<p>裴珠泫的睡眠向来不太好。</p>
+<h4 id="5"><strong>5.</strong>
+</h4><p>裴珠泫的睡眠向来不太好。</p>
 <p>这个不太好是横向比较出来的。纵向比较而言，她现在已经睡得比以前好多了——原因是就连她也必须承认的孙胜完。</p>
 <p>孙胜完是个特别聪明的人，只是偶尔会笨一点。但是这个偶尔似乎只会发生在裴珠泫的面前。孙胜完的笨拙带着一股耐心的乖巧，在每个裴珠泫因为失眠而荒芜的夜晚，安安静静地在屏幕的另一边回复她一两句俏皮话，又或者是等裴珠泫睡着之后才挂断电话。</p>
 <p>所以在这样的情况下，裴珠泫接到孙胜完凌晨打来的电话，一点也不奇怪。</p>
@@ -290,11 +404,8 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 
-<h4 id="6">
-  <strong>6.</strong>
-  <a class="anchor" href="#6">#</a>
-</h4>
-<p>孙胜完没有跟姜涩琪讲过这个故事。</p>
+<h4 id="6"><strong>6.</strong>
+</h4><p>孙胜完没有跟姜涩琪讲过这个故事。</p>
 <p>她现在也不想讲，所以她含含糊糊、犹犹豫豫、混混沌沌地跳过了这些关键的步骤，只挑了重点的说：“总之，我们那天之后就变得不一样了。”</p>
 <p>“你是说特别。”</p>
 <p>“对。”</p>
@@ -317,11 +428,8 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 
-<h4 id="7">
-  <strong>7.</strong>
-  <a class="anchor" href="#7">#</a>
-</h4>
-<p>严谨的孙胜完一般不会做什么超出计划、不顾一切、无法无天的行为。</p>
+<h4 id="7"><strong>7.</strong>
+</h4><p>严谨的孙胜完一般不会做什么超出计划、不顾一切、无法无天的行为。</p>
 <p>比如她会在星期一、三、五的早晨给自己做咖啡面包，但是在星期二和四选择吃传统的韩式泡菜汤配米饭。如果在八点前出门，她可以允许自己稍稍绕路去附近的公园看看植物，如果在八点十分之后，她就只能直奔地铁，避免错过那列能够遇见裴珠泫的地铁。</p>
 <p>比如她会允许自己一点点地接近裴珠泫，在自己确定这份感情到底该被划到“过分亲昵和带有占有欲的友情”里，还是“就算暗恋也没有问题的爱情”里。在和裴珠泫一起的时间里，她会观察着对方的一举一动。裴珠泫皱起的眉毛到底是因为过分美味的年糕，还是出于礼貌无法说出的难吃。她把每个角度记在心里，分门别类，在上面标注“裴珠泫”的名字。</p>
 <p>比如她会克制着自己，在自己的手被裴珠泫不小心触碰之后维持表面的冷静，然后借口要去卫生间，盯着镜子里滚烫的耳朵，终于承认自己彻底失去控制。</p>
@@ -353,11 +461,8 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 
-<h4 id="8">
-  <strong>8.</strong>
-  <a class="anchor" href="#8">#</a>
-</h4>
-<p>“嗯”是什么意思？</p>
+<h4 id="8"><strong>8.</strong>
+</h4><p>“嗯”是什么意思？</p>
 <p>“要是能把春天偷走”是什么意思？</p>
 <p>喊她“珠泫”她却不会生气是什么意思？</p>
 <p>牵手是什么意思？</p>
@@ -373,11 +478,8 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 </p>
-<h4 id="9">
-  <strong>9.</strong>
-  <a class="anchor" href="#9">#</a>
-</h4>
-<p>愁眉苦脸的孙胜完迎来了周一。</p>
+<h4 id="9"><strong>9.</strong>
+</h4><p>愁眉苦脸的孙胜完迎来了周一。</p>
 <p>万恶的周一，痛苦的周一，折磨的周一……即使能够见到裴珠泫，也不会变得开心的周一。</p>
 
 <br><br>
@@ -413,11 +515,8 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 
-<h4 id="11">
-  <strong>11.</strong>
-  <a class="anchor" href="#11">#</a>
-</h4>
-<p>研究了整个一个周末加一个礼拜古今中外大盗事迹的孙胜完，得出了一个惨痛的结论，没有人，能够用任何手段，偷到春天。</p>
+<h4 id="11"><strong>11.</strong>
+</h4><p>研究了整个一个周末加一个礼拜古今中外大盗事迹的孙胜完，得出了一个惨痛的结论，没有人，能够用任何手段，偷到春天。</p>
 <p>她沮丧又无助，想找出题的裴老师偷点正确答案，又觉得这样的行为会导致自己失去什么。失去什么呢？她又害怕又怯懦，但又满心地想要见到裴珠泫。</p>
 <p>于是她纠结来纠结去，在屏幕上画出一个又一个圈，缠绵得快要在上面描摹出一副创造亚当。</p>
 <p>“想什么呢？”</p>
@@ -447,11 +546,8 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 
-<h4 id="12">
-  <strong>12.</strong>
-  <a class="anchor" href="#12">#</a>
-</h4>
-<p>裴珠泫吻住了后面的问话。</p>
+<h4 id="12"><strong>12.</strong>
+</h4><p>裴珠泫吻住了后面的问话。</p>
 <p>她细心地、谨慎地、带着计划又有些莽撞地亲吻着还没有答应她的犯罪计划的共犯。她先是因为有些气愤孙胜完的笨蛋，用了点力咬着她。在感受到放松下来的孙胜完小心地环着她的腰时，才把凶狠的攻势柔软下来。</p>
 <p>她想，这样就可以了。</p>
 <p>于是她停了下来。</p>
@@ -467,172 +563,280 @@ https://github.com/alex-shpak/hugo-book
 
 <br><br>
 
-<h4 id="13">
-  <strong>13.</strong>
-  <a class="anchor" href="#13">#</a>
-</h4>
-<p>原来是这样啊。</p>
+<h4 id="13"><strong>13.</strong>
+</h4><p>原来是这样啊。</p>
 <p>孙胜完闭着眼，凑近裴珠泫得到今晚的第二吻。</p>
-<p>原来她已经偷到春天了。</p></article>
+<p>原来她已经偷到春天了。</p>
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/%E7%B2%89%E8%93%9D/">粉蓝</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/my-roommate-has-become-a-cat-3/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">救命啊，同居人变成猫了我该怎么办？！-3-</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/my-roommate-has-become-a-cat-2/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">救命啊，同居人变成猫了我该怎么办？！-2-</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/my-roommate-has-become-a-cat-1/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">救命啊，同居人变成猫了我该怎么办？！-1-</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/osmanthus/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">金木犀</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/floromancy/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">花占卜</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <script src="//cdn.jsdelivr.net/npm/twikoo@1.6.21/dist/twikoo.all.min.js"></script>
+<div id="tcomment"></div>
 <style>
-  hr {
-      border-color: rgb(233, 225, 225);
-  }
-  </style>
-<hr />
-<div class="post-nav" style="display: flex; justify-content: space-between;">
-  
-    <a href="http://localhost:1313/raise-hands-and-never-surrender-2/" >&lt;&lt; 上一篇 | 举起双手（绝不）喊投降 -2-</a>
-  
-  
-    <a href="http://localhost:1313/raise-hands-and-never-surrender-3/" >举起双手（绝不）喊投降 -3- ｜ 下一篇 >></a>
-  
-</div>
-<hr />
- 
-      
+    .twikoo {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+    :root[data-scheme="dark"] {
+        --twikoo-body-text-color-main: rgba(255, 255, 255, 0.9);
+        --twikoo-body-text-color: rgba(255, 255, 255, 0.7);
+    }
+    .twikoo .el-input-group__prepend,
+    .twikoo .tk-action-icon,
+    .twikoo .tk-submit-action-icon,
+    .twikoo .tk-time,
+    .twikoo .tk-comments-no,
+    .twikoo .tk-comments-count {
+        color: var(--twikoo-body-text-color);
+    }
+    .twikoo .el-input__inner,
+    .twikoo .el-textarea__inner,
+    .twikoo .tk-preview-container,
+    .twikoo .tk-content,
+    .twikoo .tk-nick,
+    .twikoo .tk-send {
+        color: var(--twikoo-body-text-color-main);
+    }
+    .twikoo .el-button{
+        color: var(--twikoo-body-text-color)!important;
+    }
+    .twikoo .el-input__count {
+        color: var(--twikoo-body-text-color) !important;
+    }
+    .OwO .OwO-body {
+        background-color: var(--body-background) !important;
+        color: var(--body-text-color) !important;
+    }
+</style><script>
+    twikoo.init({
+        envId: 'https:\/\/tktwikoo.softcookie.me\/',
+        el: '#tcomment',lang: 'zh-CN',})
+</script>
 
-      <footer class="book-footer">
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
         
-  <div class="flex flex-wrap justify-between">
-
-
-
-
-
-</div>
-
-
-
-  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
-
-
- 
+            2020 - 
         
-      </footer>
+        2024 番茄烫饭
+    </section>
+    
+    <section class="powerby">
+        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.26.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+    </section>
+</footer>
 
-      
-  
-  <div class="book-comments">
 
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
 
-<div class="book-tabs-content markdown-inner">
-    <script src="https://cdn.staticfile.org/twikoo/1.6.32/twikoo.all.min.js"></script>
-    <div id="tcomment"></div>
-        <script>
-            twikoo.init({
-            envId: 'https://tktwikoo.softcookie.me/', 
-            el: '#tcomment', 
-            
-            
-            placeholder: "欢迎评论！邮箱不是必须的，留下的话有回复可以收到提醒；我能看到你的邮箱地址、粗略地理定位和浏览器信息（别人看不到），如介意，请更换邮箱或去 Lof 留言，链接在本网站的“关于”里；你无法删除留在这里的任何评论，但我可在后台管理；对于局限目前无解，如果你有解决办法请告诉我 (ó﹏ò｡)",
-            lang: 'zh-CN', 
-            })
-        </script>
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
     </div>
-</div>
-</div>
-  
- 
 
-      <label for="menu-control" class="hidden book-menu-overlay"></label>
-    </div>
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
 
-    
-    <aside class="book-toc">
-      <div class="book-toc-content">
-        <nav>
-  
-    
-      <label style="font-size: 20px;">Categories</label></br><br/>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%9F%AD%E7%AF%87/" target="_blank">短篇 [32]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%B0%8F%E5%85%94%E5%AD%90%E9%80%89%E6%8B%A9%E4%BA%86%E5%80%BE%E5%90%AC/" target="_blank">小兔子选择了倾听 [32]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%85%B6%E5%AE%83/" target="_blank">其它 [9]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%82%B2%E6%85%A2%E4%B8%8E%E5%81%8F%E8%A7%81/" target="_blank">傲慢与偏见 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/what-if%E7%8B%BC%E4%B8%8E%E9%AD%94%E5%A5%B3/" target="_blank">What If…狼与魔女 [18]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E4%B8%BE%E8%B5%B7%E5%8F%8C%E6%89%8B%E7%BB%9D%E4%B8%8D%E5%96%8A%E6%8A%95%E9%99%8D/" target="_blank">举起双手（绝不）喊投降 [6]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%B7%A8%E9%BE%99%E7%9A%84%E8%A8%80%E8%A1%8C%E6%BD%9C%E8%A7%84%E5%88%99/" target="_blank">巨龙的言行潜规则 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%8C%AE%E7%BB%99%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%E7%9A%84%E8%8A%B1%E6%9D%9F/" target="_blank">献给阿尔忒弥斯的花束 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%90%86%E6%99%BA%E4%B8%8E%E6%83%85%E6%84%9F/" target="_blank">理智与情感 [5]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%8B%97%E7%8B%97%E9%80%83%E8%B7%91%E4%B9%8B%E5%A4%84/" target="_blank">狗狗逃跑之处 [14]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E4%B9%8C%E9%B8%A6/" target="_blank">乌鸦 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%A1%AB%E8%AF%8D/" target="_blank">填词 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%BB%8F%E5%B8%B8%E8%AF%B7%E5%90%83%E9%A5%AD%E7%9A%84%E6%BC%82%E4%BA%AE%E5%A6%B9%E5%A6%B9/" target="_blank">经常请吃饭的漂亮妹妹 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E7%9D%A1%E5%89%8D%E5%B0%8F%E6%95%85%E4%BA%8B/" target="_blank">睡前小故事 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E6%A0%87%E5%87%86%E5%92%92%E8%AF%AD%E5%87%A0%E7%BA%A7/" target="_blank">标准咒语，几级？ [4]</a>
-      
-        <a class="taxonomy-cloud" href="/categories/%E5%A4%A7%E4%BA%BA%E7%9A%84%E6%81%8B%E7%88%B1%E6%B3%95/" target="_blank">大人的恋爱法 [2]</a>
-      
-    </br>
-    </br>
-    
-  
-    
-      <label style="font-size: 20px;">Tags</label></br><br/>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%B2%89%E8%93%9D/" target="_blank">粉蓝 [131]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%94%B5%E5%AD%90%E5%90%8C%E4%BA%BA%E6%96%87%E8%83%BD%E5%A4%9F%E5%BE%97%E5%88%B0%E8%AF%BB%E5%90%8E%E6%84%9F%E5%90%97/" target="_blank">电子同人文能够得到读后感吗 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E5%93%A8%E5%90%91/" target="_blank">哨向 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/abo/" target="_blank">ABO [5]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E8%BF%99%E7%AF%87%E8%BF%98%E6%98%AF%E9%82%A3%E7%AF%87%E8%AF%BB%E5%90%8E%E6%84%9F%E5%91%80/" target="_blank">这篇还是那篇读后感呀？ [2]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%95%AA%E5%A4%96/" target="_blank">番外 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E9%97%AE%E5%8D%B7/" target="_blank">问卷 [2]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E9%97%B2%E8%81%8A/" target="_blank">闲聊 [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/" target="_blank">十三机兵防卫圈 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E7%94%BB%E6%89%8B%E9%85%8D%E5%9B%BE/" target="_blank">画手配图 [1]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/hpau/" target="_blank">HPAU [4]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/ff14/" target="_blank">FF14 [3]</a>
-      
-        <a class="taxonomy-cloud" href="/tags/%E5%85%89%E6%95%8F/" target="_blank">光敏 [2]</a>
-      
-    </br>
-    </br>
-    
-  
-</nav> 
-      </div>
-    </aside>
-    
-  </main>
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
 
-  
-</body>
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
