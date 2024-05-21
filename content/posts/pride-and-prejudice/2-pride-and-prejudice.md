@@ -1,8 +1,8 @@
 ---
 author: 番茄烫饭
 date: 2022-11-24
-linktitle: 傲慢与偏见 - 2
-title: 傲慢与偏见 - 2
+linktitle: 傲慢与偏见 -2-
+title: 傲慢与偏见 -2-
 url: /pride-and-prejudice-2/
 categories:
   - 傲慢与偏见
