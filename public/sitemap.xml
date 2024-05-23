@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -252,9 +252,6 @@
     <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/review-sense-and-sensibility-2/</loc>
-    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%BF%99%E7%AF%87%E8%BF%98%E6%98%AF%E9%82%A3%E7%AF%87%E8%AF%BB%E5%90%8E%E6%84%9F%E5%91%80/</loc>
     <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/review-sense-and-sensibility-1/</loc>
@@ -512,12 +509,20 @@
     <loc>http://localhost:1313/the-love-principles-of-grown-ups-1/</loc>
     <lastmod>2019-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>http://localhost:1313/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/about/</loc>
+    <loc>http://localhost:1313/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/archive/</loc>
+    <loc>http://localhost:1313/categories/test/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/messages/</loc>
+    <loc>http://localhost:1313/categories/short-stories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E9%97%B2%E8%81%8A/</loc>
   </url>
 </urlset>
