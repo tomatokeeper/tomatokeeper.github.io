@@ -3,7 +3,7 @@ author: 番茄烫饭
 date: 2022-06-24
 linktitle: 闲聊
 title: 闲聊
-url: /chit-chat-13-sentinels-aegis-rim/
+url: /13-sentinels-aegis-rim/
 categories:
   - 其它
 tags:

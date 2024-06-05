@@ -18,7 +18,7 @@ bookToc: true
 
 *以下将简单地使用提问与回答作为区分，以减少阅读的障碍*
 
-**前篇：[最开始的起点只是一碗红豆刨冰]({{< relref "1-review-sense-and-sensibility" >}})**
+**前篇：[最开始的起点只是一碗红豆刨冰]({{< relref "7-review-sense-and-sensibility" >}})**
 
 {{< emptylines 1 >}}
 

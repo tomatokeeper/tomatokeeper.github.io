@@ -1,7 +1,7 @@
 ---
 headless: true
 ---
-- [故事 | Stories]({{< relref "/posts/" >}})
-- [归档 | Archive]({{< relref "/archive" >}})
-- [闲聊 | Chit-chat]({{< relref "/categories/其它/" >}})
-- [关于 | About]({{< relref "/about" >}})
+- [故事 | stories]({{< relref "/posts/" >}})
+- [归档 | archive]({{< relref "/archive" >}})
+- [闲聊 | chit-chat]({{< relref "/categories/其它/" >}})
+- [关于 | about]({{< relref "/about" >}})
