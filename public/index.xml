@@ -974,12 +974,5 @@
       <guid>http://localhost:1313/docs/archive/</guid>
       <description>归档 # 2024-05-21 救命啊，同居人变成猫了我该怎么办？！-4- 2024-05-13 救命啊，同居人变成猫了我该怎么办？！-3- 2024-05-11 救命啊，同居人变成猫了我该怎么办？！-2- 2024-05-09</description>
     </item>
-    <item>
-      <title>留言板</title>
-      <link>http://localhost:1313/docs/messages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/messages/</guid>
-      <description>留言板 # 或者说，是（可匿名的）提问箱？</description>
-    </item>
   </channel>
 </rss>
