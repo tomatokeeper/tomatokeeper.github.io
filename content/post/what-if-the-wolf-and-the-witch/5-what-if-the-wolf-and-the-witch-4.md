@@ -8,7 +8,7 @@ categories:
   - What if…狼与魔女
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 严格意义上，孙胜完还是接触过一些幼崽的。

@@ -8,7 +8,7 @@ categories:
   - 短篇
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 “你的身影，已经烙在我心里的放映机里。”

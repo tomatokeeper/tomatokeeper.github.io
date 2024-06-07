@@ -8,7 +8,7 @@ categories:
   - 傲慢与偏见
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 {{< hint info >}}

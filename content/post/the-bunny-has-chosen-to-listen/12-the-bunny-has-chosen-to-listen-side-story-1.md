@@ -9,7 +9,7 @@ categories:
 tags:
   - 粉蓝
   - 番外
-bookToc: false
+toc: false
 ---
 
 {{< hint info >}}

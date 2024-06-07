@@ -7,7 +7,7 @@ url: /review-sense-and-sensibility-1/
 tags:
   - 粉蓝
   - 电子同人文能够得到读后感吗
-bookToc: false
+toc: false
 ---
 
 这个系列不知道会有多少，也不知道会更多久，只是看我的心情是不是想水一下而已x

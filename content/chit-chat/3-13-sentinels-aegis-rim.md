@@ -7,7 +7,7 @@ url: /13-sentinels-aegis-rim/
 tags:
   - 十三机兵防卫圈
   - 闲聊
-bookToc: false
+toc: false
 ---
 
 这两个礼拜把《十三机兵防卫圈》给打完了，真的是神作！

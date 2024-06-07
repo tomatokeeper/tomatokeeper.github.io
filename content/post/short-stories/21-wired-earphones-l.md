@@ -9,7 +9,7 @@ categories:
 tags:
   - 粉蓝
   - 哨向
-bookToc: false
+toc: false
 ---
 
 {{< hint info >}}

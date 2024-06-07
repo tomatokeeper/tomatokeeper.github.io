@@ -69,7 +69,7 @@ params:
     widgets:
         homepage:
             - type: search
-            - type: archives
+            # - type: archives
               params:
                   limit: 10
             - type: categories

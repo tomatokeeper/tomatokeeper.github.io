@@ -8,7 +8,7 @@ categories:
   - 狗狗逃跑之处
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 “幸福”到底是什么？

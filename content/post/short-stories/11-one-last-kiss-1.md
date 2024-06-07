@@ -8,7 +8,7 @@ categories:
   - 短篇
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 “无法停止那将要失去什么的预感。”

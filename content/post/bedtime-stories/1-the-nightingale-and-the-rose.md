@@ -8,7 +8,7 @@ categories:
   - 睡前小故事
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 {{< hint info >}}

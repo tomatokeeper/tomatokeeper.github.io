@@ -8,7 +8,7 @@ categories:
   - 小兔子选择了倾听
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 如果说习惯一个人需要一段时间的话，习惯另一个人的陪伴也需要同样的努力吗？

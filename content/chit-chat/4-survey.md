@@ -8,7 +8,7 @@ tags:
   - 粉蓝
   - 闲聊
   - 问卷
-bookToc: false
+toc: false
 ---
 
 1.看文会在意粉1或是蓝1吗？

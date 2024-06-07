@@ -8,7 +8,7 @@ categories:
   - What if…狼与魔女
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 医生对着镜子调整了一下帽子的高度和方向，用手杖轻轻敲了敲地面，以提醒魔女和好友她的离去：“有什么需要我带的吗？”

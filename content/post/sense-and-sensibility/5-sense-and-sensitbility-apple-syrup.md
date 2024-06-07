@@ -9,7 +9,7 @@ categories:
 tags:
   - 粉蓝
   - ABO
-bookToc: false
+toc: false
 ---
 
 “非常感谢您这次的稿件，下次也拜托老师了。”

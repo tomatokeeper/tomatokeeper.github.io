@@ -8,7 +8,7 @@ categories:
   - 短篇
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 {{< hint info >}}
 **找太太画了可爱的头像！**

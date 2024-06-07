@@ -6,7 +6,7 @@ title: 杂谈-社畜与异世界犬科动物
 url: /the-corporate-slave-and-the-otherworldly-canine/
 tags:
   - 闲聊
-bookToc: false
+toc: false
 ---
 
 {{< hint info >}}

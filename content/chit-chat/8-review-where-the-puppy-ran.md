@@ -7,7 +7,7 @@ url: /review-where-the-puppy-ran/
 tags:
   - 粉蓝
   - 电子同人文能够得到读后感吗
-bookToc: false
+toc: false
 ---
 
 最幸福的事情就是看见长评了（安详）

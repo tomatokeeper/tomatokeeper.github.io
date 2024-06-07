@@ -9,7 +9,7 @@ categories:
 tags:
   - 光敏
   - FF14
-bookToc: false
+toc: false
 ---
 
 {{< hint info >}}

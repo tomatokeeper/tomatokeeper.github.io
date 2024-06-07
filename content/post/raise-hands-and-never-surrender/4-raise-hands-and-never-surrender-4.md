@@ -8,7 +8,7 @@ categories:
   - 举起双手（绝不）喊投降
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 #### **怎么定义约会和第一次和第一次约会**

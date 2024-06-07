@@ -8,7 +8,7 @@ categories:
   - 举起双手（绝不）喊投降
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 #### **都说民以食为天如果不会做菜的话另一个人会就行**

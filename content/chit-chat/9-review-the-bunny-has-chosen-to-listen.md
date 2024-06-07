@@ -7,7 +7,7 @@ url: /review-the-bunny-has-chosen-to-listen/
 tags:
   - 粉蓝
   - 电子同人文能够得到读后感吗
-bookToc: false
+toc: false
 ---
 
 幸福又美满地躺下（安详

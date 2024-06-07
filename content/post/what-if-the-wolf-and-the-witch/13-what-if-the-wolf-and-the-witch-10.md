@@ -8,7 +8,7 @@ categories:
   - What if…狼与魔女
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 孙胜完用手指绕着魔女的发尾时，忍不住思考，魔女的头发居然长得那么快吗？

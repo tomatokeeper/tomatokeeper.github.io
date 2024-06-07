@@ -8,7 +8,7 @@ categories:
   - What if…狼与魔女
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 孙胜完尽可能地蹑手蹑脚，但还是吵醒了小小的魔女。

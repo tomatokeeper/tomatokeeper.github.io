@@ -8,7 +8,7 @@ categories:
   - 小兔子选择了倾听
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 在本周第三次差点迟到后，裴珠泫终于意识到，都是因为新换的遮光窗帘效果太好了。

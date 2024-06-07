@@ -8,7 +8,7 @@ categories:
   - 填词
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 {{< hint info >}}

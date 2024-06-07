@@ -8,7 +8,7 @@ categories:
   - 巨龙的言行潜规则
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 孙胜完咳了两声，没想到反而把积在遗迹上的灰尘吹了起来，换来一阵更加猛烈的咳嗽。

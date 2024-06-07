@@ -8,7 +8,7 @@ categories:
   - 小兔子选择了倾听
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 她好像一点都没变。

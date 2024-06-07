@@ -8,7 +8,7 @@ categories:
   - What if…狼与魔女
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 自从孙胜完拥有了这辆马车之后，裴珠泫开始思考这是否真的是件好事。

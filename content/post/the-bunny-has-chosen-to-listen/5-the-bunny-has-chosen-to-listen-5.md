@@ -8,7 +8,7 @@ categories:
   - 小兔子选择了倾听
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 该如何判断恋人与朋友之间相差的距离呢？

@@ -8,7 +8,7 @@ categories:
   - 举起双手（绝不）喊投降
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 #### **在没必要的地方请不要鼓起多余的干劲**

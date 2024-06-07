@@ -8,7 +8,7 @@ categories:
   - What if…狼与魔女
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 当旅店客房的门被敲响时，魔女表现得比狼人还要紧张。

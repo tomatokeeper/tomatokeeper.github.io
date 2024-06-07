@@ -8,7 +8,7 @@ categories:
   - 短篇
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 就是说一些随想

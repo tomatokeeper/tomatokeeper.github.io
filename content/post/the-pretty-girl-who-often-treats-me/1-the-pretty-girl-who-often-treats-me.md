@@ -8,7 +8,7 @@ categories:
   - 经常请吃饭的漂亮妹妹
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 {{< hint info >}}

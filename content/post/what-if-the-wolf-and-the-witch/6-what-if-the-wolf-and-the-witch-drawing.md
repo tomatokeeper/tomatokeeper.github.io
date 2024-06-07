@@ -9,7 +9,7 @@ categories:
 tags:
   - 粉蓝
   - 画手配图
-bookToc: false
+toc: false
 ---
 
 XD，呜哇！非常感谢！

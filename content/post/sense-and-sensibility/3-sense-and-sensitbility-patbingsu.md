@@ -9,7 +9,7 @@ categories:
 tags:
   - 粉蓝
   - ABO
-bookToc: false
+toc: false
 ---
 
 {{< hint info >}}

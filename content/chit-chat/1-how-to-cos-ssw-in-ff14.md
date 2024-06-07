@@ -7,7 +7,7 @@ url: /how-to-cos-ssw-in-ff14/
 tags:
   - FF14
   - 闲聊
-bookToc: false
+toc: false
 ---
 
 ![alt text](/chit-chat/ssw-ff14-1.jpg "Title")

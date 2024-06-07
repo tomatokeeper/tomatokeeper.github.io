@@ -8,7 +8,7 @@ categories:
   - 巨龙的言行潜规则
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 孙胜完很少会在自己身上用“使命感”这个词。

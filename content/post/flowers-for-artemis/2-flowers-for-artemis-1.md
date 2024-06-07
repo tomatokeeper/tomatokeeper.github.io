@@ -8,7 +8,7 @@ categories:
   - 献给阿尔忒弥斯的花束
 tags:
   - 粉蓝
-bookToc: false
+toc: false
 ---
 
 ### **Ch1. 剑鞘**
