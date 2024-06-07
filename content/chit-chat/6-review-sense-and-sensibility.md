@@ -4,8 +4,6 @@ date: 2022-08-28
 linktitle: 最开始的起点只是一碗红豆刨冰
 title: 最开始的起点只是一碗红豆刨冰
 url: /review-sense-and-sensibility-1/
-categories:
-  - 其它
 tags:
   - 粉蓝
   - 电子同人文能够得到读后感吗

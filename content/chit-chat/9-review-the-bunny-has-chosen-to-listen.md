@@ -4,8 +4,6 @@ date: 2024-03-31
 linktitle: 关于《小兔子选择了倾听》
 title: 关于《小兔子选择了倾听》
 url: /review-the-bunny-has-chosen-to-listen/
-categories:
-  - 其它
 tags:
   - 粉蓝
   - 电子同人文能够得到读后感吗

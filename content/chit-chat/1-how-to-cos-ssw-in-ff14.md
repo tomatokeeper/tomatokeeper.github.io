@@ -4,8 +4,6 @@ date: 2021-11-13
 linktitle: 如何在FF14里cos孙老师？
 title: 如何在FF14里cos孙老师？
 url: /how-to-cos-ssw-in-ff14/
-categories:
-  - 其它
 tags:
   - FF14
   - 闲聊

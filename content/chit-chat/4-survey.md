@@ -4,8 +4,6 @@ date: 2022-07-03
 linktitle: 问卷调查
 title: 问卷调查
 url: /survey/
-categories:
-  - 其它
 tags:
   - 粉蓝
   - 闲聊

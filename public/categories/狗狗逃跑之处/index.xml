@@ -310,7 +310,14 @@
         <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;
   &lt;p&gt;悄悄推荐歌曲&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1ju41197Kt/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;难过233秒-ChiliChill&lt;/a&gt;&lt;/p&gt;
+    &gt;难过233秒-ChiliChill
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;是听着歌写的这一章&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;结果好像跟这首歌的感觉又不一样，好失败orz&lt;/del&gt;&lt;/p&gt;
 

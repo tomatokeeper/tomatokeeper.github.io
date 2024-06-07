@@ -32,7 +32,7 @@ params:
     favicon: /favicon_may2024.png
 
     footer:
-        since: 2020
+        since: 2024
         customText:
 
     dateFormat:
@@ -50,9 +50,9 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
@@ -72,13 +72,13 @@ params:
             - type: search
             - type: archives
               params:
-                  limit: 5
+                  limit: 10
             - type: categories
               params:
-                  limit: 10
+                  limit: 20
             - type: tag-cloud
               params:
-                  limit: 10
+                  limit: 20
         page:
             - type: toc
 

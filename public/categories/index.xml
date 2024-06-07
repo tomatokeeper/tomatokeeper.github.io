@@ -24,14 +24,6 @@
         <description></description>
         </item>
         <item>
-        <title>其它</title>
-        <link>http://localhost:1313/categories/%E5%85%B6%E5%AE%83/</link>
-        <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/%E5%85%B6%E5%AE%83/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>傲慢与偏见</title>
         <link>http://localhost:1313/categories/%E5%82%B2%E6%85%A2%E4%B8%8E%E5%81%8F%E8%A7%81/</link>
         <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -134,22 +126,6 @@
         
         <guid>http://localhost:1313/categories/%E5%A4%A7%E4%BA%BA%E7%9A%84%E6%81%8B%E7%88%B1%E6%B3%95/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>Test</title>
-        <link>http://localhost:1313/categories/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/test/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>短篇</title>
-        <link>http://localhost:1313/categories/short-stories/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/short-stories/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/short-stories/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 短篇" /&gt;</description>
         </item>
         
     </channel>

@@ -1,14 +1,5 @@
 ---
 title: 关于
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
 menu:
     main: 
         weight: -70
@@ -18,21 +9,16 @@ menu:
 comments: false
 ---
 
+## **关于这里**
+- 停车场 & 备份站
+- 大概来这里的绝大多数人可以从 Lofter 上获知更新，但如果你想直接订阅这个网站的话，请在任意 RSS 阅读器（如 Inoreader）里搜索下面这个链接：
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+```
+https://tomatokeeper.github.io/index.xml
 ```
 
-`image` field accepts both local and external images.
+## **Lofter**
+- [番茄烫饭](https://tomatohotrice.lofter.com/)
+
+## **QQ群**
+- 欢迎来玩：704137042

@@ -44,9 +44,6 @@
     <loc>http://localhost:1313/review-the-bunny-has-chosen-to-listen/</loc>
     <lastmod>2024-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E5%85%B6%E5%AE%83/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/osmanthus/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -512,14 +509,8 @@
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/short-stories/</loc>
-  </url><url>
     <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/%E9%97%B2%E8%81%8A/</loc>
   </url>
 </urlset>

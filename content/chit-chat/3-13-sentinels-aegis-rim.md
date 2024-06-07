@@ -4,8 +4,6 @@ date: 2022-06-24
 linktitle: 闲聊
 title: 闲聊
 url: /13-sentinels-aegis-rim/
-categories:
-  - 其它
 tags:
   - 十三机兵防卫圈
   - 闲聊
