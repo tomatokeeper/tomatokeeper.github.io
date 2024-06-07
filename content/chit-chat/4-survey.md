@@ -4,13 +4,11 @@ date: 2022-07-03
 linktitle: 问卷调查
 title: 问卷调查
 url: /survey/
-categories:
-  - 其它
 tags:
   - 粉蓝
   - 闲聊
   - 问卷
-bookToc: false
+toc: false
 ---
 
 1.看文会在意粉1或是蓝1吗？

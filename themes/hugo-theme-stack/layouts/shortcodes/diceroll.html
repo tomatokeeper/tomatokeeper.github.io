@@ -1,0 +1,29 @@
+<div id="diceBox" style="display: flex; align-items: center; border: 2px solid var(--anchor-color); padding: 2px; width: 118px; height: 50px; text-align: center; margin: 0 auto;">
+    <p id="diceResult" style="font-size: 14px; color: var(--anchor-color); font-weight: bold;"></p>
+</div>
+
+<script>
+// Seeded random number generator
+var seed = {{ .Get "seed" }};
+var outcomes = {{ .Get "outcomes" }};
+var constant = Math.pow(2, 13)+1;
+var prime = 1987;
+var randomMax = 1000;
+
+function seededRandom() {
+    seed *= constant;
+    seed += prime;
+    seed %= randomMax;
+    
+    return seed / randomMax;
+}
+
+function rollDice() {
+    var dice = Math.floor(seededRandom() * outcomes) + 1;
+    document.getElementById('diceResult').innerText = '骰子：' + dice;
+    return false;
+}
+
+// Call rollDice() when the script runs
+rollDice();
+</script>

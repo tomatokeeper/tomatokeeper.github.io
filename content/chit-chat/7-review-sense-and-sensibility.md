@@ -4,8 +4,6 @@ date: 2022-08-28
 linktitle: 接下来就该拷问那个混蛋作家了
 title: 接下来就该拷问那个混蛋作家了
 url: /review-sense-and-sensibility-2/
-categories:
-  - 其它
 tags:
   - 粉蓝
   - 电子同人文能够得到读后感吗

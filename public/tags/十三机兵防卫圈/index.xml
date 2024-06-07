@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>十三机兵防卫圈 on 杂货店老板</title>
-    <link>http://localhost:1313/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/</link>
-    <description>Recent content in 十三机兵防卫圈 on 杂货店老板</description>
-    <generator>Hugo</generator>
-    <language>zh</language>
-    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>闲聊</title>
-      <link>http://localhost:1313/13-sentinels-aegis-rim/</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/13-sentinels-aegis-rim/</guid>
-      <description>&lt;p&gt;这两个礼拜把《十三机兵防卫圈》给打完了，真的是神作！&lt;/p&gt;</description>
-    </item>
-  </channel>
+    <channel>
+        <title>十三机兵防卫圈 on 杂货店老板</title>
+        <link>http://localhost:1313/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/</link>
+        <description>Recent content in 十三机兵防卫圈 on 杂货店老板</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>番茄烫饭</copyright>
+        <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>闲聊</title>
+        <link>http://localhost:1313/13-sentinels-aegis-rim/</link>
+        <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/13-sentinels-aegis-rim/</guid>
+        <description>&lt;p&gt;这两个礼拜把《十三机兵防卫圈》给打完了，真的是神作！&lt;/p&gt;
+&lt;p&gt;环环相扣的叙事结构，让每一处线索都有其用武之地。更让人叹为观止的是，由于是13个人的视角，注定有对同一事件的不同参与经历，但完全没有无效的复述，全部都是极为合适的承接。&lt;/p&gt;
+&lt;p&gt;最妙的是，它给出的线索恰好能够随着剧情的推进，让玩家进行思考，并且在正好的时间，再告诉玩家正确答案，正向反馈非常强烈。&lt;/p&gt;
+&lt;p&gt;除却这种理智的感想之外，同样是表达人类、科技与未来的思考，横尾太郎的《龙背上的骑兵》系列与《尼尔》系列披露尽人性的荒谬与可悲，那么香草社的十三机兵正如其中一句台词所说：&lt;/p&gt;
+&lt;p&gt;“无论科技发展到什么阶段，创造奇迹的都是人类……”&lt;/p&gt;
+&lt;p&gt;像这样温柔和让人有流出热泪冲动的作品，系统、文案与美术的完美配合，打完之后心情久久不能平息，又怎么不能称其为神作呢！&lt;/p&gt;
+&lt;p&gt;并且这一切的起因，也可以说是源于爱。&lt;/p&gt;
+&lt;p&gt;在这浩瀚宇宙，渺小的人类以爱为驱动力，竟然可以实现如此的奇迹，在太空的背景下，无限次的轮回只为了实现最初的承诺。&lt;/p&gt;
+&lt;p&gt;PS平台和NS都有~&lt;/p&gt;
+&lt;p&gt;（顺便要玩的话，近战也就是一代机兵一定要把碎断刃点满，这个技能真是太imba了……当然EMP也很重要，我自己个人偏好哨戒炮，布一个清清小兵，据说NS平台上的有些数值有所改变，不过我自己体验下来普通难度通关，不用特别打怪升级，及时看完剧情，双S是没问题的）&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

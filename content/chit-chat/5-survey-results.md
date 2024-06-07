@@ -4,13 +4,11 @@ date: 2022-07-10
 linktitle: 问卷调查-反馈篇
 title: 问卷调查-反馈篇
 url: /survey-results/
-categories:
-  - 其它
 tags:
   - 粉蓝
   - 闲聊
   - 问卷
-bookToc: false
+toc: false
 ---
 
 首先非常感谢大家参与我的问卷调查！（虽然这个调查以一个非常不专业的形式，用一种非常不专业的表述，在一个非常不专业的人士的主导下进行，但是我真的收获了非常多！）

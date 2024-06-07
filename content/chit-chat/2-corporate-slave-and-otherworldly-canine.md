@@ -4,11 +4,9 @@ date: 2022-03-08
 linktitle: 杂谈-社畜与异世界犬科动物
 title: 杂谈-社畜与异世界犬科动物
 url: /the-corporate-slave-and-the-otherworldly-canine/
-categories:
-  - 其它
 tags:
-  - 粉蓝
-bookToc: false
+  - 闲聊
+toc: false
 ---
 
 {{< hint info >}}

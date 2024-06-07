@@ -1,96 +1,108 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on 杂货店老板</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on 杂货店老板</description>
-    <generator>Hugo</generator>
-    <language>zh</language>
-    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>粉蓝</title>
-      <link>http://localhost:1313/tags/%E7%B2%89%E8%93%9D/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%B2%89%E8%93%9D/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>电子同人文能够得到读后感吗</title>
-      <link>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E5%90%8C%E4%BA%BA%E6%96%87%E8%83%BD%E5%A4%9F%E5%BE%97%E5%88%B0%E8%AF%BB%E5%90%8E%E6%84%9F%E5%90%97/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E5%90%8C%E4%BA%BA%E6%96%87%E8%83%BD%E5%A4%9F%E5%BE%97%E5%88%B0%E8%AF%BB%E5%90%8E%E6%84%9F%E5%90%97/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>哨向</title>
-      <link>http://localhost:1313/tags/%E5%93%A8%E5%90%91/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%93%A8%E5%90%91/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ABO</title>
-      <link>http://localhost:1313/tags/abo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/abo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>番外</title>
-      <link>http://localhost:1313/tags/%E7%95%AA%E5%A4%96/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%95%AA%E5%A4%96/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>问卷</title>
-      <link>http://localhost:1313/tags/%E9%97%AE%E5%8D%B7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E9%97%AE%E5%8D%B7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>闲聊</title>
-      <link>http://localhost:1313/tags/%E9%97%B2%E8%81%8A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E9%97%B2%E8%81%8A/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>十三机兵防卫圈</title>
-      <link>http://localhost:1313/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>画手配图</title>
-      <link>http://localhost:1313/tags/%E7%94%BB%E6%89%8B%E9%85%8D%E5%9B%BE/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%94%BB%E6%89%8B%E9%85%8D%E5%9B%BE/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HPAU</title>
-      <link>http://localhost:1313/tags/hpau/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hpau/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FF14</title>
-      <link>http://localhost:1313/tags/ff14/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ff14/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>光敏</title>
-      <link>http://localhost:1313/tags/%E5%85%89%E6%95%8F/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%85%89%E6%95%8F/</guid>
-      <description></description>
-    </item>
-  </channel>
+    <channel>
+        <title>Tags on 杂货店老板</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Recent content in Tags on 杂货店老板</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>番茄烫饭</copyright>
+        <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>粉蓝</title>
+        <link>http://localhost:1313/tags/%E7%B2%89%E8%93%9D/</link>
+        <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E7%B2%89%E8%93%9D/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>电子同人文能够得到读后感吗</title>
+        <link>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E5%90%8C%E4%BA%BA%E6%96%87%E8%83%BD%E5%A4%9F%E5%BE%97%E5%88%B0%E8%AF%BB%E5%90%8E%E6%84%9F%E5%90%97/</link>
+        <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E5%90%8C%E4%BA%BA%E6%96%87%E8%83%BD%E5%A4%9F%E5%BE%97%E5%88%B0%E8%AF%BB%E5%90%8E%E6%84%9F%E5%90%97/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>哨向</title>
+        <link>http://localhost:1313/tags/%E5%93%A8%E5%90%91/</link>
+        <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E5%93%A8%E5%90%91/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ABO</title>
+        <link>http://localhost:1313/tags/abo/</link>
+        <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/abo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>番外</title>
+        <link>http://localhost:1313/tags/%E7%95%AA%E5%A4%96/</link>
+        <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E7%95%AA%E5%A4%96/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>问卷</title>
+        <link>http://localhost:1313/tags/%E9%97%AE%E5%8D%B7/</link>
+        <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E9%97%AE%E5%8D%B7/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>闲聊</title>
+        <link>http://localhost:1313/tags/%E9%97%B2%E8%81%8A/</link>
+        <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E9%97%B2%E8%81%8A/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>十三机兵防卫圈</title>
+        <link>http://localhost:1313/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/</link>
+        <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>画手配图</title>
+        <link>http://localhost:1313/tags/%E7%94%BB%E6%89%8B%E9%85%8D%E5%9B%BE/</link>
+        <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E7%94%BB%E6%89%8B%E9%85%8D%E5%9B%BE/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>HPAU</title>
+        <link>http://localhost:1313/tags/hpau/</link>
+        <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/hpau/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>FF14</title>
+        <link>http://localhost:1313/tags/ff14/</link>
+        <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/ff14/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>光敏</title>
+        <link>http://localhost:1313/tags/%E5%85%89%E6%95%8F/</link>
+        <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E5%85%89%E6%95%8F/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>

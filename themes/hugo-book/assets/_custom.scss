@@ -25,12 +25,3 @@
     filter: drop-shadow(0.3px 0.3px 0.3px var(--color-link));
   }
 }
-
-.hide-text {
-  filter: blur(5px);
-  display: inline;
-  padding-left: 2rem;
-  &:hover {
-    filter: blur(0);
-  }
-}

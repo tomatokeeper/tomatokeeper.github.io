@@ -4,12 +4,10 @@ date: 2024-03-17
 linktitle: 关于《狗狗逃跑之处》
 title: 关于《狗狗逃跑之处》
 url: /review-where-the-puppy-ran/
-categories:
-  - 其它
 tags:
   - 粉蓝
   - 电子同人文能够得到读后感吗
-bookToc: false
+toc: false
 ---
 
 最幸福的事情就是看见长评了（安详）
