@@ -70,8 +70,8 @@ params:
         homepage:
             - type: search
             # - type: archives
-              params:
-                  limit: 10
+            #   params:
+            #       limit: 10
             - type: categories
               params:
                   limit: 20
