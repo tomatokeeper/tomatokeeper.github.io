@@ -5,13 +5,11 @@
     .left-sidebar {
         order: -3;
         max-width: var(--left-sidebar-max-width);
-        margin-left: 10%;
     }
 
     .right-sidebar {
         order: -1;
         max-width: var(--right-sidebar-max-width);
-        margin-right: 10%;
 
         /// Display right sidebar when min-width: lg
         @include respond(lg) {
@@ -79,7 +77,6 @@
 main.main {
     order: -2;
     min-width: 0;
-    max-width: 60%;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
