@@ -7,10 +7,10 @@
         <section class="widget tagCloud">
         <h2 class="section-title">{{ $taxonomy.Title }}</h2>
         <div class="tagCloud-tags">
-            {{ if ne (len $.Site.Taxonomies.tags) 0 }}
+            {{ if ne (len $.Site.Taxonomies.categories) 0 }}
                 {{ range $name, $taxonomy := $.Site.Taxonomies.categories }}
                     {{ $tagCount := len $taxonomy.Pages }}
-                    <a href="{{ "/tags/" | relURL }}{{ $name | urlize }}" class="tagCloud-tags">
+                    <a href="{{ "/categories/" | relURL }}{{ $name | urlize }}" class="tagCloud-tags">
                         {{ $name }}<span class="tagCloud-count">{{ $tagCount }}</span>
                     </a>
                 {{ end }}
