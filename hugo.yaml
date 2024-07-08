@@ -60,7 +60,7 @@ params:
         provider: twikoo
 
         twikoo:
-            envId: https://tktwikoo.softcookie.me/
+            envId: https://tktwikoo.tomatohotrice.com/
             el: #tcomment
             region:
             path:
